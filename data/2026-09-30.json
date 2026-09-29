@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-30",
+  "nStories": 12,
+  "topLine": "The Independent Commission Against Corruption wrapped up 10 weeks of public hearings in its inquiry touching on Sydney local government and the Toplace group, with commentators arguing the consequences for those named are still to come ahead of a March 2027 reporting deadline. In party politics, the Herald reports NSW Labor head office has delayed opening preselections in two seats held by Minns government ministers, while a three-way contest is under way for the NSW Liberal presidency. On policy, confidential transport modelling putting Sydney's proposed rapid bus network above $5.8 billion, a sidestepped court review of a stamp duty overcharging dispute, and the rejection of a $2 offer for the private arm of a Newcastle hospital all surfaced.",
+  "briefing": {
+    "topLine": "The Independent Commission Against Corruption wrapped up 10 weeks of public hearings in its inquiry touching on Sydney local government and the Toplace group, with commentators arguing the consequences for those named are still to come ahead of a March 2027 reporting deadline. In party politics, the Herald reports NSW Labor head office has delayed opening preselections in two seats held by Minns government ministers, while a three-way contest is under way for the NSW Liberal presidency. On policy, confidential transport modelling putting Sydney's proposed rapid bus network above $5.8 billion, a sidestepped court review of a stamp duty overcharging dispute, and the rejection of a $2 offer for the private arm of a Newcastle hospital all surfaced.",
+    "localWatch": "The main South Coast items are infrastructure and council: the 145-year-old Nowra Bridge is set for an 18-month restoration for walkers and cyclists, and Shoalhaven mayor Patricia White has returned to council duties on light duties after cancer treatment.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "The 'Harbour Bridge treatment' as historic Nowra Bridge given major facelift",
+            "summary": "The South Coast Register reports the 145-year-old Nowra Bridge will be restored over 18 months for use by walkers and cyclists, with the outlet saying the work will use the same repainting method applied to the Sydney Harbour Bridge.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9359201/nowra-bridge-historic-crossing-gets-sydney-harbour-makeover/"
+              }
+            ]
+          },
+          {
+            "headline": "'Just let me die': Shoalhaven mayor back at work after harrowing cancer battle",
+            "summary": "Shoalhaven mayor Patricia White has spoken to the South Coast Register about her breast cancer treatment and her decision to return to council work on light duties.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9359327/shoalhaven-mayor-patricia-white-returns-after-cancer-battle/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "‘He’d lose to an empty chair’: The Labor preselection tactic to save two ministers",
+            "summary": "The Sydney Morning Herald reports NSW Labor's head office has not opened preselections in two seats held by ministers in the Minns government, saying the delay reflects concerns the ministers would lose those preselection contests.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/he-d-lose-to-an-empty-chair-the-labor-preselection-tactic-to-save-two-ministers-20260930-p6115p.html"
+              }
+            ]
+          },
+          {
+            "headline": "Expelled branch member looks to make shock revival as state president",
+            "summary": "The Newcastle Herald reports Blake Keating is seeking the NSW Liberal presidency, describing it as an attempted comeback after his expulsion from the branch. The outlet reports he is up against longer-standing contenders Peter Collins and Phillip Argy.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9187716/newcastles-blake-keating-aims-to-become-nsw-liberals-president/"
+              }
+            ]
+          },
+          {
+            "headline": "From newsroom to politics: Veteran journo Nick McLaren has been bitten 'by the Green bug'",
+            "summary": "The Illawarra Mercury reports former ABC Illawarra journalist Nick McLaren will contest the seat of Heathcote for the Greens, and sets out his reasons for standing and his stated priorities.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9359391/nick-mclaren-former-abc-reporter-runs-for-greens-in-heathcote/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Revealed: Cost of new rapid bus routes across Sydney detailed in secret forecasts",
+            "summary": "The Sydney Morning Herald reports confidential modelling by the NSW transport department puts the cost of introducing 35 new rapid bus routes in Sydney at more than $5.8 billion. The paper links the figure to the government's failure so far to commit to any of the routes.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/revealed-cost-of-new-rapid-bus-routes-across-sydney-detailed-in-secret-forecasts-20260930-p600ox.html"
+              }
+            ]
+          },
+          {
+            "headline": "$3.5bn stamp duty court review sidestepped",
+            "summary": "The Australian reports the NSW government has avoided a court review of a dispute over $3.5 billion in stamp duty overcharging. No further detail was supplied with the report.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/new-south-wales/nsw-government-sidesteps-court-review-into-35bn-stamp-duty-overcharging-dispute/news-story/7463134708f3eb7be7347eda13df3d04"
+              }
+            ]
+          },
+          {
+            "headline": "Why the Minns government rejected an offer buy the Mater's private arm for $2",
+            "summary": "The Newcastle Herald reports Novacare says it offered the private arm of the Calvary Mater hospital to the NSW government for $2. According to the report, NSW Health said the proposal did not represent value for money for taxpayers.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9244980/minns-government-rejects-novacare-offer-to-buy-the-mater-for-2/"
+              }
+            ]
+          },
+          {
+            "headline": "UOW labelled 'poster child' for what is wrong with university sector",
+            "summary": "The ABC reports a Labor MP has pledged to push her own government for changes to university governance, and that a union leader called the University of Wollongong the \"poster child\" for failings across the sector.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-09-29/uow-poster-child-university-governance-reform/107206756"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Spy gear and Every Breath You Take: councillor who had mayor surveilled made jokes about it, Icac hears",
+            "summary": "On the final day of 10 weeks of public hearings, the Independent Commission Against Corruption heard evidence from former Labor councillor Sharangan Maheswaran, who the Guardian reports told the inquiry he engaged a private investigator to conduct surveillance on a former Strathfield mayor. The Guardian reports he is under investigation over allegations of blackmail and unlawful surveillance; the allegations are untested. The Sydney Morning Herald reports the inquiry also heard that invoices for surveillance of the mayor were sent to construction company Toplace, and that the commissioner now has until March 2027 to report.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/sep/29/jean-nassif-lawyer-joked-spying-on-strathfield-mayor-matthew-blackmore-ntwnfb"
+              },
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/nassif-s-toplace-paid-134-000-for-surveillance-of-strathfield-mayor-20260929-p611bf.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "For ICAC’s targets, the worst may be yet to come",
+            "commentator": "The Sydney Morning Herald",
+            "summary": "The Herald argues that although public hearings in ICAC's Operation Rosny have concluded, the period up to the commission's March 2027 report should be seen as a lull rather than an ending for those examined.",
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/for-icac-s-targets-the-worst-may-be-yet-to-come-20260930-p611bb.html"
+              }
+            ]
+          },
+          {
+            "headline": "Blackmail, ‘mafia boys’ and rants from a Beirut bedroom – after 10 weeks of theatre what might Icac deliver?",
+            "commentator": "The Guardian",
+            "summary": "The Guardian assesses the inquiry's 10 weeks of hearings, acknowledging a view that it has underdelivered, but arguing that high-profile resignations are not the only way to judge whether an ICAC investigation has succeeded.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/sep/30/icac-nsw-liberals-what-did-inquiry-really-achieve-ntwnfb"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Guardian analysis charts three decades of departures from One Nation, reporting that more than half of the MPs elected for the party have quit or been expelled even as its numbers reach record levels.",
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/29/one-nation-candidates-mp-history-full-timeline-quit-expelled-party-ntwnfb"
+      },
+      {
+        "text": "Federally, the Herald reports the Greens' leadership contest between Mehreen Faruqi, Nick McKim and Sarah Hanson-Young will be settled at a two-day retreat, with Max Chandler-Mather calling for rank-and-file members to have a vote.",
+        "outlet": "The Sydney Morning Herald",
+        "url": "https://www.smh.com.au/politics/federal/greens-leadership-showdown-to-occur-at-two-day-retreat-20260929-p611a1.html"
+      }
+    ]
+  }
+}
