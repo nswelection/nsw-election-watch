@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-02",
+  "nStories": 16,
+  "topLine": "The Liberals have a candidate on the ground in South Coast, with Nowra lawyer and former Shoalhaven councillor Paul Ell launching his campaign on law and order, and a Labor preselection shake-up began with Prospect MP Hugh McDermott announcing he will quit parliament before the 2027 election as head office moves on the party room's gender balance. Premier Chris Minns spent the day pressing a cost-of-living argument against Canberra after another rate rise, telling outlets NSW mortgage holders are hardest hit, while insisting his government's job is \"not mission accomplished\". The Independent Planning Commission's approval of the largest coalmine extension in NSW history drew criticism from Climate Change Authority chair Matt Kean and a Pacific leader, and dominated commentary.",
+  "briefing": {
+    "topLine": "The Liberals have a candidate on the ground in South Coast, with Nowra lawyer and former Shoalhaven councillor Paul Ell launching his campaign on law and order, and a Labor preselection shake-up began with Prospect MP Hugh McDermott announcing he will quit parliament before the 2027 election as head office moves on the party room's gender balance. Premier Chris Minns spent the day pressing a cost-of-living argument against Canberra after another rate rise, telling outlets NSW mortgage holders are hardest hit, while insisting his government's job is \"not mission accomplished\". The Independent Planning Commission's approval of the largest coalmine extension in NSW history drew criticism from Climate Change Authority chair Matt Kean and a Pacific leader, and dominated commentary.",
+    "localWatch": "South Coast now has a declared Liberal campaign built around crime and police resourcing in Nowra, with the Daily Telegraph reporting a contest with One Nation is also shaping up. On health, the Illawarra Mercury reports Shellharbour Hospital has a plan to fast-track surgeries and ease regional waiting lists.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Law and order takes centre stage as Liberal Paul Ell launches campaign for South Coast",
+            "summary": "The South Coast Register reports Liberal candidate Paul Ell has launched his campaign for the seat of South Coast with a focus on crime in Nowra, including drug issues in the CBD and a push for extra police resources. The Daily Telegraph, which describes Ell as a Nowra lawyer and former Shoalhaven councillor, reports a contest with One Nation is also looming in the seat.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9361105/paul-ell-launches-liberal-bid-for-south-coast-seat-on-crime/"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/thesouthcoastnews/nowra-lawyer-former-shoalhaven-councillor-paul-ell-launches-liberal-race-for-south-coast/news-story/942b116ceb3974dd4a446c7c0c98a777"
+              }
+            ]
+          },
+          {
+            "headline": "Shellharbour Hospital's plan to fast-track surgeries and ease region waitlist times",
+            "summary": "The Illawarra Mercury reports Shellharbour Hospital has a plan to speed up surgeries and reduce waiting times across the region. Only the headline was available in the material supplied.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUY1elVuLWdEN2RMa0J2bURLMVIxWFZ0Y3pMa0xCYVJvaEdFcUo3TzZ1NHFTeHRzUTBqLUJ3anltWVVUQ0Q5WC1yUmdoV3Nmd2tFUlJ1azJLNDlvVGpFWjJyYWU1X2JTN0tIS0xfS0l3NzNnZlFxaXl2ZVd0VXZFSGU5RG1IMVh2RGQwSVg2UkhEWG10WXd2MnB5QnN6WVRkdHl5RzlrdnpuY2ZD?oc=5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Veteran MP resigns as NSW Labor HQ targets male backbenchers",
+            "summary": "The Sydney Morning Herald reports Prospect MP Hugh McDermott has announced he will leave parliament before the 2027 state election, and describes him as the first male MP to go as Sussex Street works on the gender imbalance in Labor's party room. The Daily Telegraph also reports the western Sydney MP's resignation.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/veteran-mp-resigns-as-nsw-labor-hq-targets-male-backbenchers-20261001-p6121v.html"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcnU3VFo5RkpKcUlkRk42NzlIRFl3Rmw1VTNmOUhXMWtrcnlRWVBXenhGTmhaNFJpQ2NsdmpjYm1sNkNxakRKT19qMjEyUnhEWlJzUkctcWtlY2NnbDdqOGkwWFB6U0NhcGt2TGRidEtTT0ZyemQ1em01bElUNmRxcnRralV6N21EOU02R2pvUjFsMmZGZFFRU2xZVzdNYmdmbl82bkpySkVNNnZNbWRUalhKZlFEbmpJSC1uVnNSX0VYbFZTb2tzYXVub0tGZW5DRlgwX0VlODNraUYzM2VpZGpONVBnVFQxdmpr?oc=5"
+              }
+            ]
+          },
+          {
+            "headline": "NSW mortgage holders bear the burden of rate hikes, says Minns",
+            "summary": "The Australian Financial Review reports the Premier says NSW mortgage holders are hit hardest by rate rises because house prices in the state are the highest in the country. The Australian reports Minns has called on the federal government to rein in spending, and separately reports on economists' views of federal spending and inflation.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/politics/federal/nsw-mortgage-holders-bear-the-burden-of-rate-hikes-says-minns-20261001-p611xr"
+              },
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/news/todays-news-headlines-chris-minns-calls-on-government-to-rein-in-spending/video/375bd955da7abc6afa8d523fc3902a02"
+              },
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/economists-dont-back-jim-chalmers-on-spending/news-story/5d109e8003ed8b5a6e42739266504afc"
+              }
+            ]
+          },
+          {
+            "headline": "'Not mission accomplished' – NSW Premier says more to do for state ahead of 2027 election",
+            "summary": "2GB reports the Premier says there is more for his government to do for the state ahead of the 2027 election. Only the headline was available in the material supplied.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "2GB",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3RyZGZYbVA4eGJ6MFFnSG4wQU1ONHhDT1VPVkVDZG1yM2VOMzdZQ1pMZm02dHlOWFJiaHZudWlEU25KR3YyTThTcTZBSFJ1T2gzdlpSR042M2RlNlYydGcxaGctR0trQXJTUnd2al9GMU51OU1TVlZQZ05MbnpWTUpIOGptSjRPMjNYWUQ0WmRacldZYkJGdXAwRmg4RFVQb1VmMU93a1hlZw?oc=5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
+            "summary": "The Guardian reports that, following approval of an extension to the Hunter Valley Operations mine, Climate Change Authority chair Matt Kean says the NSW planning commission did not account for climate-related economic damage. The Australian Financial Review reports a senior Pacific leader has called the approval \"deeply disappointing\" and says it puts Australia's standing in the region at risk.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw"
+              },
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/policy/energy-and-climate/massive-coal-approval-hands-bowen-a-cop-headache-20261001-p6124s"
+              }
+            ]
+          },
+          {
+            "headline": "Labor vows crackdown on dodgy labour hire firms after internal pressure",
+            "summary": "The Sydney Morning Herald reports the Minns government will move against labour hire operators, following months of pressure from unions and from within Labor's caucus to address modern slavery.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/labor-vows-crackdown-on-dodgy-labour-hire-firms-after-internal-pressure-20261002-p6125t.html"
+              }
+            ]
+          },
+          {
+            "headline": "Westpac chopper's future in doubt, with sensitive report in Labor's hands",
+            "summary": "The Newcastle Herald reports the Minns government is holding a report dealing with sexual harassment, bullying and safety matters at the Westpac Rescue Helicopter's northern NSW operation, with a contract decision approaching.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9360274/westpac-rescue-helicopter-report-sits-with-minns-government/"
+              }
+            ]
+          },
+          {
+            "headline": "‘Where illegal ebikes go to die’: first bikes seized under new laws in NSW crushed",
+            "summary": "The Guardian reports the NSW government destroyed 23 illegal ebikes at a western Sydney wrecking yard on Thursday, the first seized under new laws, with police assessing applications for the return of another 13 taken in a joint operation with Transport for NSW on the northern beaches. A major Sydney hospital warned of a rise in serious trauma injuries linked to ebike riding, and the ABC reports the crackdown highlights differing e-bike rules between jurisdictions.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/01/this-is-where-ebikes-go-to-die-first-ebikes-seized-under-new-laws-crushed"
+              },
+              {
+                "outlet": "The Guardian (video)",
+                "url": "https://www.theguardian.com/world/video/2026/oct/01/seized-ebikes-crushed-into-scrap-metal-in-sydney-video"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/listen/programs/pm/e-bike-crackdown-exposes-national-rules-gap/107218258"
+              }
+            ]
+          },
+          {
+            "headline": "High-rise developments could see Wollongong blow right past its housing target",
+            "summary": "The Illawarra Mercury reports 6436 new apartments are in the pipeline in Wollongong, putting the city on track to exceed its state housing target, and examines what that would mean for local density.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9360661/wollongong-housing-target-9200-home-goal-set-to-be-smashed/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Canadians snub Minns by cashing out of Sydney’s toll roads",
+            "summary": "The Australian reports Canadian investors are selling out of Sydney's toll roads in a $4.5 billion decision, and argues the timing is significant for the Minns government.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/business/companies/timing-says-plenty-about-canadians-45bn-call-to-cash-out-of-sydneys-toll-roads/news-story/c70f2155c98980c99925cde7c956ae1d"
+              }
+            ]
+          },
+          {
+            "headline": "Brumby advocate challenges legality of wild horse removal in NSW alps",
+            "summary": "The ABC reports a brumby advocate is mounting a legal challenge seeking to stop the removal of wild horses from Kosciuszko National Park, with shooting halted for now.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-01/wild-horses-kosciuszko-national-park-carmen-jackson/107210684"
+              }
+            ]
+          },
+          {
+            "headline": "125 ways to celebrate unpaid carers in NSW",
+            "summary": "The NSW government says 125 events will be held across the state for National Carers Week from 11 October to recognise unpaid carers.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/carers-week-events-2026"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "James O’Doherty: No love lost between Minns and Albo as NSW election looms",
+            "commentator": "James O'Doherty (The Daily Telegraph)",
+            "summary": "O'Doherty writes in the Daily Telegraph on the state of relations between the Premier and the Prime Minister as the NSW election approaches. Only the headline was available in the material supplied.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/theres-no-love-lost-between-minns-and-albanese-as-nsw-election-looms/news-story/81eb844382ebfb7e1938c3284b757d04"
+              }
+            ]
+          },
+          {
+            "headline": "The last thing Albanese needed was free advice from his own side",
+            "commentator": "ABC News",
+            "summary": "The ABC argues that, with the Prime Minister already under pressure from opponents after a further interest rate rise and weak inflation figures, unsolicited advice from within Labor's own ranks was unwelcome.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-01/interest-rate-rise-inflation-albanese-free-advice-minns/107207464"
+              }
+            ]
+          },
+          {
+            "headline": "The green light for the largest coalmine in NSW history is shocking proof that our governance systems are betraying Australians | Georgina Woods",
+            "commentator": "Georgina Woods (Lock the Gate, writing in The Guardian)",
+            "summary": "Woods argues in the Guardian that the Independent Planning Commission's published reasons for approving a 19-year extension of the Hunter Valley Operations mine show a failure of governance on climate. She notes the commission accepts the extension, which she says would result in 809 million tonnes of greenhouse gas pollution, will materially worsen global warming.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/commentisfree/2026/oct/01/nsw-coalmine-approval-hunter-valley-climate-crisis-lock-the-gate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "A second state has joined the bid to defend a ban on two phrases, deemed offensive, in the High Court.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9361170/second-state-joins-bid-to-uphold-protest-slogan-ban/"
+      },
+      {
+        "text": "Nationally, the housing market downturn is reported as the steepest in four decades, with first-home buyers told their position should improve.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9360618/housing-market-downturn-the-steepest-in-four-decades/"
+      }
+    ]
+  }
+}
