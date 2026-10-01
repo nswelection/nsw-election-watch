@@ -1,276 +1,38 @@
 {
   "date": "2026-10-01",
-  "nStories": 17,
-  "topLine": "ICAC's long-running Operation Rosny public hearings have wrapped up, with the commission now considering evidence the ABC says included phone intercepts and a $2 million payment. The Independent Planning Commission approved the Hunter Valley Operations continuation project, the largest coal proposal it has assessed, drawing sharp criticism from environmental groups, while Premier Chris Minns used an intervention on inflation to urge spending restraint in Canberra. The Mandarin notes the donation disclosure period for the March 2027 state election opens this month.",
+  "nStories": 1,
+  "topLine": "A very quiet day for NSW state politics, with almost nothing of substance in the overnight cycle. The only item of note is a Sydney Morning Herald feature on the Liberal Party's internal direction, profiling a 29-year-old self-described \"rebel\" positioned as a potential renewal figure. No NSW election, government or integrity developments were reported.",
   "briefing": {
-    "topLine": "ICAC's long-running Operation Rosny public hearings have wrapped up, with the commission now considering evidence the ABC says included phone intercepts and a $2 million payment. The Independent Planning Commission approved the Hunter Valley Operations continuation project, the largest coal proposal it has assessed, drawing sharp criticism from environmental groups, while Premier Chris Minns used an intervention on inflation to urge spending restraint in Canberra. The Mandarin notes the donation disclosure period for the March 2027 state election opens this month.",
-    "localWatch": "Locally, Shoalhaven City Council has elected a Deputy Mayor and Assistant Deputy Mayor and is holding another online session on council finances, while the South Coast Register reports plans for a 17-storey tower at Nowra's northern gateway on the Princes Highway.",
+    "topLine": "A very quiet day for NSW state politics, with almost nothing of substance in the overnight cycle. The only item of note is a Sydney Morning Herald feature on the Liberal Party's internal direction, profiling a 29-year-old self-described \"rebel\" positioned as a potential renewal figure. No NSW election, government or integrity developments were reported.",
+    "localWatch": "",
     "sections": [
       {
         "title": "Kiama & South Coast",
-        "stories": [
-          {
-            "headline": "17 storeys and 53 metres high: Bold plans revealed for Nowra's gateway site",
-            "summary": "The South Coast Register reports that a 53.5-metre, 17-storey tower could be built at Nowra's northern entrance under a new site plan prepared by Shoalhaven City Council. The paper says the plan is intended to support local business and tourism.",
-            "links": [
-              {
-                "outlet": "South Coast Register",
-                "url": "https://www.southcoastregister.com.au/story/9354704/nowra-gateway-17-storey-tower-planned-for-princes-highway/"
-              }
-            ]
-          },
-          {
-            "headline": "Deputy Mayor and Assistant Deputy Mayor elected",
-            "summary": "Shoalhaven City Council has announced the election of a Deputy Mayor and an Assistant Deputy Mayor. No further detail is available in the supplied notice.",
-            "links": [
-              {
-                "outlet": "Shoalhaven City Council",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbE8yejh1UFd6N3h6cEdnakMxZGk5NTFWZGNYalBpU0FITzVrY3ViLVRmZjc1dUZCUWJqZkJ3YnQ3bkpDNHJnSENIcHYzMVhLdmJBTUpWRjlteDZUZV90ajhIbndHUkpWckxRckJ0TTNjS3VnVUNIV203cng5OUxweUZHc0tOWC1fOHhPMmxXMXY0VDFMUllCN01WaGZQQ1cwSk50MGNXSXI1ZXdqSktycHhmZ19VUk14ejBQRlJqX1FIUQ?oc=5"
-              }
-            ]
-          },
-          {
-            "headline": "Online session offers another chance to talk finances",
-            "summary": "Shoalhaven City Council says it is running a further online session for residents to discuss council finances.",
-            "links": [
-              {
-                "outlet": "Shoalhaven City Council",
-                "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFVNck10Q1pON3h4c0tOTE9faE1OVldFa1dnS0RzZDlwY3hnYVVkZzB5RlhEaUNSUmVfaU5wWFVObngyQ1JZS2xPTVk3QTZQNndQN01kamZlRnc4d2xhQkh5NzZsN202dGZwQXV4UGNDazg2N3FMdGxOYWpBd3V1UDlzbGpJZEN3a0tUSUVxbUlOVVBlcktaNVJqM0ptd3NTNWJfRnpCcFU2R1psV00wQk5qc2JkQUJjaU04QS1tMWtfdEE?oc=5"
-              }
-            ]
-          },
-          {
-            "headline": "Fresh hope for Nowra's 104-year-old craft cottage amid moves to stop sale",
-            "summary": "The South Coast Register reports there is renewed hope for a 104-year-old craft cottage in Nowra amid moves to halt its sale. Further detail is not available in the supplied text.",
-            "links": [
-              {
-                "outlet": "South Coast Register",
-                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHJTOExDSFZsTEVuQno0WUNlWDNueWFjMlp4czg3YzBOSUVFN19JR1A4cGQybk10aWdFMmFMamZRNEpCRlVrR3FyRFc3eklMdm9JYVkzVlBWcUdLSXl3R21rWi1yeXVLUHd1WmxSTm1sUGM2eU5XV280dVVfbWFvMC1uazB6WmtDajdBWDI2UU8tb3JuNWdTMGdCX0VyLUI4SzJRUWoxaHowTlpiV2ZvcUs5RWw2R1J6d2plN1lDd1Q?oc=5"
-              }
-            ]
-          },
-          {
-            "headline": "Council happy to give KCR a helping hand",
-            "summary": "Kiama Council says it is providing assistance to KCR. The supplied council notice gives no further detail.",
-            "links": [
-              {
-                "outlet": "Kiama Council",
-                "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFZhdGM2bTktWjFuRG5KYmlQQ3dGeFItcVJjQXdIMV95bnRaSlhXb1pBNzV3X1A1UllSSS1JY1c2UkwweDFhaWhndElnMlgxeVhRWGdiSmlCaEhVV2k2ZWFEVUQ2aXB2SGFJRXZQUWRWaE9UZVFZZWRFc1ZCMTNvQmI0NlpoOXBOTGc?oc=5"
-              }
-            ]
-          }
-        ]
+        "stories": []
       },
       {
         "title": "Election & Campaign",
-        "stories": [
-          {
-            "headline": "NSW Labor polling predicts One Nation to be the opposition or government at next election",
-            "summary": "The Australian reports that NSW Labor polling points to One Nation becoming the opposition, or forming government, at the next state election. The report is presented in video form and no further detail is supplied.",
-            "tags": [
-              "POLLING"
-            ],
-            "links": [
-              {
-                "outlet": "The Australian",
-                "url": "https://www.theaustralian.com.au/nation/politics/nsw-labor-polling-predicts-one-nation-to-be-the-opposition-or-government-at-next-election/video/92be6d2b5ecae9ac9fc8b2d3f2df4102"
-              }
-            ]
-          },
-          {
-            "headline": "NSW election: October marks start of donation disclosures period",
-            "summary": "The Mandarin reports that changes to the Electoral Funding Act 2018 mean political donation disclosure obligations ahead of the March 2027 NSW election begin this month.",
-            "tags": [
-              "FUNDING",
-              "INTEGRITY"
-            ],
-            "links": [
-              {
-                "outlet": "The Mandarin",
-                "url": "https://www.themandarin.com.au/321225-nsw-election-october-marks-start-of-donation-disclosures-period/"
-              }
-            ]
-          },
-          {
-            "headline": "David Shoebridge named new Greens leader in hotly contested ballot",
-            "summary": "The ABC reports NSW-based senator David Shoebridge has been chosen as the new Greens leader after a closely contested party ballot. In his first interview as leader, the ABC says, he paid tribute to his political mentor and criticised the federal government over cost of living; AAP, carried by the South Coast Register, reports his rallying call was tempered by unrest among supporters of the losing side.",
-            "tags": [
-              "CANDIDATES"
-            ],
-            "links": [
-              {
-                "outlet": "ABC News",
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX1RFSVdUTVF6TmxGb0ZkTzBDazU5LVhWWlc0Mm9ucEVXMFJIbkhzamo4ckpkaHQ1Uzh3ck01ckxqeEhuV2dNbF95dGk0Rko1RFhFOGxvb01ZXzI3UVVDekhwMDhOQ3hSSUJ2R29sQXliMFlYUkp4SmZOVHZfM2NQX0k1MUp3YlpCWjdyTTlyQzJZYmREMmVReXExelBsSVFVc3JjM29ENVdXOHMtYVE?oc=5"
-              },
-              {
-                "outlet": "ABC News",
-                "url": "https://www.abc.net.au/news/2026-09-30/greens-leader-david-shoebridge-remembers-kaye-lambasts-labor/107214232"
-              },
-              {
-                "outlet": "South Coast Register",
-                "url": "https://www.southcoastregister.com.au/story/9359916/shoebridge-over-troubled-waters-greens-select-leader/"
-              }
-            ]
-          }
-        ]
+        "stories": []
       },
       {
         "title": "Government & Policy",
-        "stories": [
-          {
-            "headline": "Largest coal mining proposal in state’s history wins approval",
-            "summary": "The NSW Independent Planning Commission has approved the Hunter Valley Operations Continuation Project, allowing mining at the Yancoal and Glencore operation to continue until 2045. The Guardian reports the commission found climate change impacts would be \"outweighed\" by economic benefits, while the AFR puts the project's potential value at about $3 billion. Environmental and climate groups have condemned the decision, with the Guardian reporting it was described as an \"infamous betrayal\" and the project as a \"carbon bomb\".",
-            "links": [
-              {
-                "outlet": "SMH",
-                "url": "https://www.smh.com.au/politics/nsw/largest-coal-mining-proposal-in-state-s-history-wins-approval-20260930-p611r9.html"
-              },
-              {
-                "outlet": "The Guardian",
-                "url": "https://www.theguardian.com/australia-news/2026/sep/30/hunter-valley-coal-project-singleton-ipc-planning-decision"
-              },
-              {
-                "outlet": "AFR",
-                "url": "https://www.afr.com/companies/mining/massive-coal-mine-extension-gets-go-ahead-in-nsw-20260930-p611t6"
-              },
-              {
-                "outlet": "ABC News",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmdRNkk4bEJNQm1EV1FEWGhvbmtRak50dEVZaUtrb2tJWGZ3V1NURmU3R3VxNVNhaW1odHNlY3BqV0MxM0RwT3BKMlZlU0RmMzJYeTgyVmgzWENuNEZZaERLeXpPRzVNb2poMjVwN2RCNjdpM1FHNkp3RnM1RS05c1hjcElRc2o4U3Y0WWhGbW5nSVM0eThJUnQyR0I?oc=5"
-              }
-            ]
-          },
-          {
-            "headline": "Albanese, Chalmers under internal pressure on spending as Minns calls for restraint",
-            "summary": "Premier Chris Minns has publicly urged restraint on government spending amid inflation pressures, with the SMH reporting the comments came as Treasurer Jim Chalmers played down suggestions of a split with the Reserve Bank governor. The AFR describes the remarks as a veiled swipe at the Albanese government and reports state MPs distancing themselves from federal colleagues, while the Daily Telegraph reports the Premier's criticism aligns with that of a former RBA governor. The Australian reports Minns argued NSW had been careful with public money.",
-            "links": [
-              {
-                "outlet": "SMH",
-                "url": "https://www.smh.com.au/politics/federal/albanese-chalmers-under-internal-pressure-on-spending-as-minns-calls-for-restraint-20261001-p611r4.html"
-              },
-              {
-                "outlet": "AFR",
-                "url": "https://www.afr.com/politics/federal/we-ve-been-careful-with-public-money-minns-chips-feds-over-spending-20260930-p611m2"
-              },
-              {
-                "outlet": "The Australian",
-                "url": "https://www.theaustralian.com.au/nation/politics/nsw-premier-chris-minns-warns-pm-and-jim-chalmers-to-rein-in-spending-after-inflation-spike/news-story/66939628ab55956965ca0201f3cc4ee4"
-              },
-              {
-                "outlet": "The Daily Telegraph",
-                "url": "https://www.dailytelegraph.com.au/news/nsw/minns-joins-former-rba-boss-in-attack-over-government-spending/news-story/4666cedc31288b6d1bab6adf4c0abad3"
-              }
-            ]
-          },
-          {
-            "headline": "First batch of illegal e-bikes crushed into scrap metal",
-            "summary": "The NSW Government says the first illegal e-bikes seized under new laws have been destroyed, presenting it as evidence of a tough approach to safety. The Daily Telegraph also covers the crushing of the bikes under the new powers.",
-            "links": [
-              {
-                "outlet": "NSW Government",
-                "url": "https://www.nsw.gov.au/ministerial-releases/first-batch-of-illegal-e-bikes-crushed-into-scrap-metal"
-              },
-              {
-                "outlet": "The Daily Telegraph",
-                "url": "https://www.dailytelegraph.com.au/news/nsw/turned-into-shrapnel-first-illegal-ebikes-crushed-under-tough-new-nsw-powers/news-story/905c37460f901bae5bff24793aa41a31"
-              }
-            ]
-          },
-          {
-            "headline": "Nearly $3.4 million for health facility upgrades across Murrumbidgee",
-            "summary": "The NSW Government has announced a round of regional health facility upgrade funding, including nearly $3.4 million across Murrumbidgee, more than $850,000 across Western NSW and more than $810,000 at Queanbeyan Hospital.",
-            "tags": [
-              "FUNDING"
-            ],
-            "links": [
-              {
-                "outlet": "NSW Government",
-                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1oyRmtSTGJTWEtydW9NVGpRNWVDcGo2eVRrR05EZm5vdklCYXVTdU9VRktGSGFFaEhlRzNFYnFKOHB3RDhIUDBkbGVlYmdMMUc3RWQwS3hrZV80eHRuN01zRWttdm5XS1JuaWNpRHY2OFF0MmViN0tSOGNhZWFUcWtwMUFINFF6TXB5VlhLdGo0aXVfNVFmVzc5cE95aEJJX3poQy1HcVlHcHhscndJ?oc=5"
-              },
-              {
-                "outlet": "NSW Government",
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR20zblBfY205TWtRUG90QzNZVVN5R2h2RFh6ck9LNksxdlllMjV6c3BFZ0tyd0tWX0lmQURPSDJPZDVSdjU1TU5QaVp5R1JydGRYbjRKS3BkMmg3XzBqVzU5YmVkR2RBWUFsRTc0d2JJU2FrTXhvQ3lFeUk5NzJ6UmR4d0FxZ3ZBcFZSdHFMdG11Q1VIOUlfenhnNDI0Y05WTlZkZ2tWOUU5Um1H?oc=5"
-              },
-              {
-                "outlet": "NSW Government",
-                "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmZDem9oLUVxM2hpRFRjTDRPcDI2a3hxOGg2RVpLVEpMMzZacU1hLXVhdkdzbEtDcmEyUTZnMUQxb05BY2RKTE9iRElfR3pndE4zVm1wRmdvTGpuc1NwVHNUOEl1bG45dTg5OVNpYjNEelVZaW9XbDVnVlB0WEszQi01WG1QVHRGNENKNEhTM05QejJxNmFyWXFVWjU?oc=5"
-              }
-            ]
-          },
-          {
-            "headline": "Getting trucks off Stoney Creek Road and onto motorways",
-            "summary": "The NSW Government has announced measures aimed at shifting truck traffic from Stoney Creek Road onto motorways. No further detail is supplied.",
-            "links": [
-              {
-                "outlet": "NSW Government",
-                "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdHZmVTlxX1gzaHowcU81UkI4aU9Oa3puOXVPOFg4aDZWY3cxM05JQ09kZGdoWlU0bHdTd0ZEdHI2bFROa1dUdVJrMnVnV2FpdlEyT015aks3WDJyeGk1Q0hIZThjdmpVeGRIemV1S3p0aDAyWGQweGFaQWdvb1I5cVItZ0NzRzExclZ2ZmwweHFQc2VlRlpVbHR6XzZSNG5WLUQ0b09ORU5iUU1RbWFpR25URHExVVZL?oc=5"
-              }
-            ]
-          }
-        ]
+        "stories": []
       },
       {
         "title": "Integrity & Local Government",
-        "stories": [
-          {
-            "headline": "Bombshell phone taps and $2m payment revealed at NSW corruption hearings",
-            "summary": "The ABC reports that public hearings in the NSW ICAC's Operation Rosny have concluded, with the commission adjourning to consider the evidence. Its wrap-up recounts material aired during the inquiry, which the ABC says included phone intercepts and a $2 million payment; no findings have been made.",
-            "tags": [
-              "INTEGRITY"
-            ],
-            "links": [
-              {
-                "outlet": "ABC News",
-                "url": "https://www.abc.net.au/news/2026-09-30/nsw-icac-operation-rosny-wraps-marathon-public-inquiries/107207378"
-              }
-            ]
-          },
-          {
-            "headline": "How a delay of only a few days has cost Wollongong City Council $73 million",
-            "summary": "The Illawarra Mercury reports a four-day turnaround delay left Wollongong City Council without a share of $73 million in state grants. The paper says development application assessment targets fed into the regional funding decisions.",
-            "tags": [
-              "FUNDING"
-            ],
-            "links": [
-              {
-                "outlet": "Illawarra Mercury",
-                "url": "https://www.illawarramercury.com.au/story/9360282/wollongong-council-misses-out-on-funding-over-four-day-delay/"
-              },
-              {
-                "outlet": "Illawarra Mercury",
-                "url": "https://www.illawarramercury.com.au/story/9360282/wollongong-council-misses-out-on-funding-over-four-day-delay/?src=rss"
-              }
-            ]
-          }
-        ]
+        "stories": []
       },
       {
         "title": "Analysis & Commentary",
         "stories": [
           {
-            "headline": "The Knights may triumph, but who will win Newcastle?",
-            "commentator": "SMH NSW politics",
-            "summary": "The Sydney Morning Herald argues that while rugby league dominates attention in the Hunter this week, the once safe Labor area of Newcastle is shaping as a contest to watch at the coming NSW election.",
-            "tags": [
-              "OPINION"
-            ],
+            "headline": "The Liberal Party is drowning. This 29-year-old ‘rebel’ wants to be its lifeboat",
+            "commentator": "The Sydney Morning Herald",
+            "summary": "The Sydney Morning Herald profiles a 29-year-old Liberal described as a \"rebel\" who, in the Herald's framing, sees himself as a vehicle for rescuing a struggling party. Only the headline is available, so the detail of the argument and the figures involved is not set out in the supplied text.",
             "links": [
               {
-                "outlet": "SMH",
-                "url": "https://www.smh.com.au/politics/nsw/the-knights-may-triumph-but-who-will-win-newcastle-20261001-p611mz.html"
-              }
-            ]
-          },
-          {
-            "headline": "Amid rising support for right‑wing minor parties, can David Shoebridge reinvigorate The Greens?",
-            "commentator": "The New Daily (opinion)",
-            "summary": "Writing in The New Daily, the author asks whether new Greens leader David Shoebridge can build momentum on the left comparable to One Nation's reported rise on the right. The piece is opinion.",
-            "tags": [
-              "OPINION"
-            ],
-            "links": [
-              {
-                "outlet": "The New Daily",
-                "url": "https://www.thenewdaily.com.au/opinion/2026/09/30/greens-david-shoebridge"
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTdxalVKZ3ltSGNtYURYNUstY1Z4Z2diUlZtRkhabURFSGRvbDVyLWstZlA5ZTFlSjlvbU1zOWRFNmoySlZHTTZEd2UyaWN4S1hKZU9KalNXV2lKcGZwSzVBTHdkUEhrSEJERHVZVlo3NTFzenJKZ2xJMzd4ZHRPY25PcjAzbmRjZVJsMFRnbGdiM09yZGpNb1ozQlV0ajBkMUo2SWZ3X2s0MTlPRW5ZN0pjVElnOGhCczN3dnBXeFh3U0taOFdOaGdEMlFvX3M?oc=5"
               }
             ]
           }
