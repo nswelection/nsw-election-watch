@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-04",
+  "nStories": 8,
+  "topLine": "A quiet NSW political day dominated by two stories: the Sydney Morning Herald's report on newly uncovered disclosures showing a labour hire company's payments to One Nation ahead of a 2021 industrial relations vote, and the Newcastle Herald's analysis of a byelection won by an independent with the Greens placing second as major party support fell. Elsewhere, NSW Premier Chris Minns was reported criticising the federal Labor government's immigration plan, and Transport for NSW moved to hire graziers to repair storm-damaged roads in the Far West.",
+  "briefing": {
+    "topLine": "A quiet NSW political day dominated by two stories: the Sydney Morning Herald's report on newly uncovered disclosures showing a labour hire company's payments to One Nation ahead of a 2021 industrial relations vote, and the Newcastle Herald's analysis of a byelection won by an independent with the Greens placing second as major party support fell. Elsewhere, NSW Premier Chris Minns was reported criticising the federal Labor government's immigration plan, and Transport for NSW moved to hire graziers to repair storm-damaged roads in the Far West.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "'Historic' result for Greens despite byelection loss as major parties slide",
+            "summary": "The Newcastle Herald reports that independent Gavin Morris won the Newcastle byelection in a landslide with almost 50 per cent of the vote, while the Greens' Charlotte McCabe finished second in what the paper describes as a historic result for the party. The outlet frames the outcome as a slide in major party support and examines Morris's \"community\" platform and what it means for the city.",
+            "tags": [
+              "CANDIDATES",
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9227313/charlotte-mccabe-greens-achieve-historic-second-in-newcastle/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Minns hits out at Labor government’s immigration plan in surprising twist",
+            "summary": "News.com.au carries video of News24 host Steve Price responding to NSW Premier Chris Minns criticising the federal Labor government's post-COVID immigration plan.",
+            "links": [
+              {
+                "outlet": "News.com.au",
+                "url": "https://www.news.com.au/national/minns-hits-out-at-labor-governments-immigration-plan-in-surprising-twist/video/8d1641a8d8205e5a6e5a552552cdde45?amp"
+              }
+            ]
+          },
+          {
+            "headline": "Graziers step in to fix damaged roads after incomes 'decimated'",
+            "summary": "The ABC reports that Transport for NSW will engage graziers to repair roads in the remote Far West damaged by months of heavy rain. Some graziers told the broadcaster that administrative requirements are slowing repair work.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-03/graziers-to-help-fix-damaged-roads-in-remote-nsw-sa/107211670"
+              }
+            ]
+          },
+          {
+            "headline": "Fishers warn snapper, kingfish prices could soar under proposed catch limits",
+            "summary": "Proposed NSW limits intended to rebuild snapper and yellowtail kingfish stocks would push prices up, fishers and seafood retailers told the ABC.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-03/proposed-snapper-yellowtail-kingfish-changes-prices-availability/107161156"
+              }
+            ]
+          },
+          {
+            "headline": "‘Appalling’: Disability advocates warn of new Metro safety issue",
+            "summary": "The Daily Telegraph reports that disability advocates have raised safety concerns about doors locked shut on Sydney's south-west Metro. Only the headline was available for this item.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/sydney-southwest-metro-doors-locked-shut-as-disability-advocates-warn-of-safety-hazards/news-story/5eaa4a8170de17415f9d0c8ecd47a625"
+              }
+            ]
+          },
+          {
+            "headline": "Street sports an 'entry point' to help combat youth crime and loneliness",
+            "summary": "The ABC reports that youth hubs and so-called \"third spaces\" are being promoted as a response to concerns in NSW about youth crime, loneliness and radicalisation.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-03/nsw-youth-hubs-pushed-as-solution-to-youth-crime-and-loneliness/107210986"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "A $100m liability, a $50k donation and One Nation’s sudden change of mind",
+            "summary": "The Sydney Morning Herald reports that newly uncovered disclosures show labour hire company WorkPac paid close to $50,000 to One Nation. The Herald says the payments raise fresh questions about the party's late decision on its vote on 2021 industrial relations laws. No findings of wrongdoing are reported.",
+            "tags": [
+              "INTEGRITY",
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/a-100m-liability-a-50k-donation-and-one-nation-s-sudden-change-of-mind-20261004-p611y9.html"
+              }
+            ]
+          },
+          {
+            "headline": "'Antagonistic': timing of pro-Palestine vigil angers city councillor",
+            "summary": "The Illawarra Mercury reports that a Wollongong councillor has objected to the timing of a pro-Palestine vigil in the city, describing it in terms the paper quotes as \"absolutely putrid\".",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9361692/wollongong-october-7-vigil-slammed-as-putrid-by-councillor/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": []
+  }
+}
