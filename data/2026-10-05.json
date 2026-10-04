@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-05",
+  "nStories": 6,
+  "topLine": "A dispute over oversight of NSW Police dominates the day: the Sydney Morning Herald reports the Law Enforcement Conduct Commission is seeking extra powers while the Minns government has a different approach, and the paper's editorial urges Labor not to stand in the way. In Sydney, the Daily Telegraph reports the opposition is backing a state government move to block the City of Sydney's Town Hall Square plaza. Otherwise it is a quiet day for NSW state politics, with no significant Kiama or South Coast political developments in today's coverage.",
+  "briefing": {
+    "topLine": "A dispute over oversight of NSW Police dominates the day: the Sydney Morning Herald reports the Law Enforcement Conduct Commission is seeking extra powers while the Minns government has a different approach, and the paper's editorial urges Labor not to stand in the way. In Sydney, the Daily Telegraph reports the opposition is backing a state government move to block the City of Sydney's Town Hall Square plaza. Otherwise it is a quiet day for NSW state politics, with no significant Kiama or South Coast political developments in today's coverage.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": []
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "‘Vanity project’: Push to block Clover’s CBD plaza",
+            "summary": "The Daily Telegraph reports that the NSW opposition is backing a Minns government push to block Lord Mayor Clover Moore's proposed Town Hall Square plaza in the Sydney CBD. The outlet's headline reports the project being described as a \"vanity project\".",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-opposition-backs-minns-government-push-to-block-clover-moores-town-hall-square/news-story/20904229143a0f025c72248a97d45ef8"
+              }
+            ]
+          },
+          {
+            "headline": "Can you really rely on your phone to save you in a bushfire?",
+            "summary": "The ABC examines the reliability of telecommunications during bushfires, reporting that mobile phone failures during the Black Summer fires cut people off from warnings, rescue services and each other. The piece asks how people can stay safe when telecommunications go down.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-04/bushfire-telecommunications-fail-black-summer-phone-reception/107210562"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "The state’s police watchdog wants extra powers. The NSW government has other ideas",
+            "summary": "The Sydney Morning Herald reports that the Law Enforcement Conduct Commission is seeking additional powers, and that the NSW government is taking a different approach. According to the report, the commission warns that it says obstructive and overly defensive conduct by NSW Police is delaying its misconduct investigations.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/the-state-s-police-watchdog-wants-extra-powers-the-nsw-government-has-other-ideas-20261005-p611v0.html"
+              }
+            ]
+          },
+          {
+            "headline": "'Forgotten' outback town faces scorching summer without a pool",
+            "summary": "The ABC reports that the public swimming pool in the western NSW town of Walgett will stay closed over summer after the council found it unsafe and beyond repair.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-04/outback-town-walgett-loses-swimming-pool-ahead-of-hot-summer/107211758"
+              }
+            ]
+          },
+          {
+            "headline": "At 28, Cameron Maclean is Parramatta’s youngest lord mayor. But he’s an old soul",
+            "summary": "The Sydney Morning Herald profiles Cameron Maclean, 28, who it reports is Parramatta's youngest lord mayor, taking on what the paper describes as one of western Sydney's most difficult public roles.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/at-28-cameron-maclean-is-parramatta-s-youngest-lord-mayor-but-he-s-an-old-soul-20261004-p611t7.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "NSW Labor should not be standing in the way of extra powers for police watchdog",
+            "summary": "In an editorial, the Sydney Morning Herald argues that NSW Labor should not obstruct extra powers for the Law Enforcement Conduct Commission, putting the view that the commission is a necessary overseer to provide public confidence and that the NSW Police Force is not beyond scrutiny.",
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/nsw-labor-should-not-be-standing-in-the-way-of-extra-powers-for-police-watchdog-20261005-p612aw.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Federal watch: the Daily Telegraph reports a new AFR/RedBridge poll has Labor under pressure, with Anthony Albanese and Jim Chalmers at record low numbers.",
+        "outlet": "The Daily Telegraph",
+        "url": "https://www.dailytelegraph.com.au/news/breaking-news/new-afr-redbridge-poll-shows-labor-under-pressure-as-albanese-and-chalmers-hit-record-lows/news-story/1ca3c9f47fc29e9bb53500b19b62cbd0"
+      }
+    ]
+  }
+}
