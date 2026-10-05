@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-06",
+  "nStories": 8,
+  "topLine": "A quiet day for NSW state politics, dominated by local government finances and an opposition frontbench shuffle. Kiama Council has unanimously called on the state government to help cover the cost of its byelection, with the Illawarra Mercury reporting the local government minister declined. The Daily Telegraph reports Liberal resignations have prompted a reshuffle, with Damien Tudehope to return to the front bench after standing down during ICAC hearings.",
+  "briefing": {
+    "topLine": "A quiet day for NSW state politics, dominated by local government finances and an opposition frontbench shuffle. Kiama Council has unanimously called on the state government to help cover the cost of its byelection, with the Illawarra Mercury reporting the local government minister declined. The Daily Telegraph reports Liberal resignations have prompted a reshuffle, with Damien Tudehope to return to the front bench after standing down during ICAC hearings.",
+    "localWatch": "Kiama ratepayers are at the centre of the day's main local story, with the council seeking state help for the August 22 byelection bill after, the Illawarra Mercury reports, the local government minister declined.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "'Thrust upon us': Council acts to protect ratepayers from costly Kiama byelection",
+            "summary": "The Illawarra Mercury reports Kiama Council has unanimously resolved that the state government should help fund the cost of the August 22 byelection. The report says the local government minister declined a request from the council.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9315078/kiama-council-calls-for-state-to-fund-byelection-costs/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Liberal resignations spark reshuffle",
+            "summary": "The Daily Telegraph reports that resignations have triggered a Liberal front bench reshuffle, and that Damien Tudehope is to be reinstated to the front bench after standing down during ICAC hearings. No further detail was available in the supplied report.",
+            "tags": [
+              "INTEGRITY",
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/damien-tudehope-to-be-reinstated-to-front-bench-after-standing-down-during-icac-hearings/news-story/aef6eb249e3253038c88bce51f58c6c7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "ED relief promised – but new hub will take two years",
+            "summary": "The Daily Telegraph reports the NSW government has promised a health hub at Campbelltown in response to hospital wait times, but that the facility is around two years away.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-government-promises-campbelltown-health-hub-amid-crippling-hospital-wait-times/news-story/3f6284e12472a93648dd0c7301bd139a"
+              }
+            ]
+          },
+          {
+            "headline": "Back to work: prison guards ordered to end snap strike after courts halt",
+            "summary": "The Illawarra Mercury reports correctional officers took part in snap strike action that brought Illawarra courtrooms to a standstill on Thursday, and that the guards have since been ordered back to work.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9251128/illawarra-courts-halt-as-correctional-officer-strike-takes-hold/"
+              }
+            ]
+          },
+          {
+            "headline": "Almost 1000 NSW teachers were asked if screens helped students learn. Only 53 per cent said yes",
+            "summary": "The Sydney Morning Herald reports that in a survey of close to 1000 NSW teachers, just 53 per cent agreed screens helped students learn. The paper reports teachers raised concerns about distraction and the effect on students' social interaction, while students surveyed saw screens as beneficial.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/almost-1000-nsw-teachers-were-asked-if-screens-helped-students-learn-only-53-per-cent-said-yes-20261006-p612y2.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          },
+          {
+            "headline": "Forty-four new homes, 332 objections: Why older units will be razed for luxury Paddington apartments",
+            "summary": "The Sydney Morning Herald reports a Paddington proposal for 44 new homes drew 332 objections and became a focal point for community concern that luxury apartment projects will replace cheaper unit blocks as Sydney's east takes on more housing.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "SMH.com.au",
+                "url": "https://www.smh.com.au/national/nsw/forty-four-new-homes-332-objections-why-older-units-will-be-razed-for-luxury-paddington-apartments-20261005-p612tt.html"
+              }
+            ]
+          },
+          {
+            "headline": "Family cuts ties with Minns over failure to prosecute killer",
+            "summary": "The Australian reports the family of a murdered toddler has publicly criticised NSW Premier Chris Minns and cut ties with him over a decision not to prosecute. No further detail was available in the supplied report.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/gloves-off-murdered-toddlers-family-lashes-nsw-premier-chris-minns/news-story/3c0d4343bab5ab1fa5fbeb6b02a18914"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "City council keeps rolling with MacCabe Park skate park",
+            "summary": "The Illawarra Mercury reports Wollongong City Council is backing a skate facility at MacCabe Park and is calling for designs.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9362418/wollongong-city-council-backs-maccabe-park-skate-facility/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "The Conversation reports Anthony Albanese's ratings have slumped in a Redbridge poll taken after an interest rate rise, and that other polling points to a change of government at Victoria's November state election.",
+        "outlet": "The Conversation",
+        "url": "https://theconversation.com/albaneses-ratings-slump-in-redbridge-poll-after-interest-rate-hike-293202"
+      },
+      {
+        "text": "AAP reports a state opposition has pitched a plan costed at under $100 million to ease hospital overcrowding, including a dedicated space for patients awaiting discharge; the supplied report does not identify the state.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9362551/hospital-overcrowding-fix-pitched-under-100m-pledge/"
+      }
+    ]
+  }
+}
