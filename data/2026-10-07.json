@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-07",
+  "nStories": 17,
+  "topLine": "The day's most significant NSW developments were policy-driven: The Australian reports the Minns government will cap new gas exploration under a new policy, while the state has committed to an urgent review of the use of unmarked communal graves following a Guardian Australia investigation. The Daily Telegraph reports the Liberals will return an MP to the frontbench after he stood down during ICAC hearings, and election analyst Antony Green has published new analysis on how optional preferential voting could shape the 2027 result.",
+  "briefing": {
+    "topLine": "The day's most significant NSW developments were policy-driven: The Australian reports the Minns government will cap new gas exploration under a new policy, while the state has committed to an urgent review of the use of unmarked communal graves following a Guardian Australia investigation. The Daily Telegraph reports the Liberals will return an MP to the frontbench after he stood down during ICAC hearings, and election analyst Antony Green has published new analysis on how optional preferential voting could shape the 2027 result.",
+    "localWatch": "Little direct Kiama or South Coast political news today: Shoalhaven City Council has announced the Ulladulla Library and sea pool are closed after a tornado. Nearby, the Illawarra Mercury reports Wollongong City Council says a proposed grant model change would cost it $16 million, a council funding question worth watching for neighbouring local government areas.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Ulladulla Library and sea pool closed after tornado",
+            "summary": "Shoalhaven City Council has advised that the Ulladulla Library and the sea pool are closed following a tornado. No reopening timeframe is given in the council's notice.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Ulladulla-Library-and-sea-pool-closed-after-tornado"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Greens’ renewables shift could revive nuclear debate",
+            "summary": "The Australian reports that Greens leader David Shoebridge is challenging federal minister Chris Bowen and Premier Chris Minns over the cost of the NSW renewables plan, and that the shift could reopen debate about nuclear energy. Only the outlet's headline and report framing are available.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/business/greens-leader-david-shoebridge-challenges-labors-chris-bowen-chris-minns-over-spiralling-nsw-renewables-plan/news-story/06d1154e966ce235aa5748c24298f3a5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "New gas exploration to be capped in NSW under new policy",
+            "summary": "The Australian reports that new gas exploration in NSW will be capped under a new government policy. Only the outlet's headline is available.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/new-gas-exploration-to-be-capped-in-nsw-under-new-policy/news-story/8aeb4a57f9bff69ffb202f1ef9d30b24"
+              }
+            ]
+          },
+          {
+            "headline": "PM called on to act on communal grave revelations as NSW commits to urgent review",
+            "summary": "Guardian Australia reports that NSW has committed to an urgent review after its investigation revealed unmarked communal graves were being used to bury impoverished Australians, in some cases, it reports, without families and friends being informed. The Guardian reports Prime Minister Anthony Albanese has been urged to take the issue to national cabinet, with authorities quoted saying all deceased people should be treated \"with dignity and respect\" regardless of their finances.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/07/nsw-health-people-buried-unmarked-grave-minister-failings-families"
+              }
+            ]
+          },
+          {
+            "headline": "Minns won’t block ‘heartless’ pro-Palestinian October 7 vigils",
+            "summary": "The Sydney Morning Herald reports Premier Chris Minns will not move to block two vigils planned for Wednesday by Jews Against the Occupation 48 and Wollongong Friends of Palestine. The Herald reports the events have been criticised by Jewish groups, including Executive Council of Australian Jewry co-chief executive Alex Ryvchin, and by Minns and Opposition Leader Kellie Sloane; the ABC reports the vigils are planned for the third anniversary of the Hamas attacks on Israel in which more than 1,200 people were killed.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/minns-won-t-block-heartless-pro-palestinian-october-7-vigils-20261006-p6137t.html"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-06/sydney-palestine-protest-on-israel-october-7-attack-anniversary/107232144"
+              }
+            ]
+          },
+          {
+            "headline": "Labor’s $7m cash splash as elderly stranded",
+            "summary": "News.com.au reports the NSW Labor government will spend $7 million on at-home care, reporting that elderly patients are being left stranded in hospitals. Only the outlet's headline and report framing are available.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "news.com.au",
+                "url": "https://www.news.com.au/lifestyle/health/healthy-living/nsw-labor-government-to-splurge-7m-in-athome-care-as-elderly-patients-left-stranded-in-hospitals/news-story/37afaf98af55b80addddfe3f6995b5d3?amp"
+              }
+            ]
+          },
+          {
+            "headline": "Water facility to drought-proof Sydney's west could supply data centres",
+            "summary": "The ABC reports the Kemps Creek recycled water facility in western Sydney will now account for water needed to service NSW data centres, alongside its role in drought-proofing the region.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-06/nsw-sydney-recycled-water-earmarked-for-ai-data-centres/107214474"
+              }
+            ]
+          },
+          {
+            "headline": "Construction complete on Nepean Hospital’s new Stage 2 building",
+            "summary": "The NSW government says construction is complete on a new clinical building at Nepean Hospital, part of a redevelopment it values at more than $1 billion serving Western Sydney and the Blue Mountains.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/construction-complete-on-nepean-hospitals-new-stage-2-building"
+              }
+            ]
+          },
+          {
+            "headline": "Work progresses at Rouse Hill Hospital with new construction milestone and fly through",
+            "summary": "The NSW government has released a fly-through animation of the $910 million Rouse Hill Hospital, marking a construction milestone for the north-west Sydney project.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/new-construction-milestone-rouse-hill-hospital"
+              }
+            ]
+          },
+          {
+            "headline": "NSW Government funding attracts four world-leading medical researchers to the state",
+            "summary": "The NSW Office for Health and Medical Research says state government funding has attracted four leading medical researchers to NSW. Only the government's headline is available.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Office for Health and Medical Research",
+                "url": "https://medicalresearch.nsw.gov.au/about/news/2026/minns-labor-government-funding-attracts-four-world-leading-medical-researchers-to-the-state"
+              }
+            ]
+          },
+          {
+            "headline": "NSW reforms protect native wildlife in Central West NSW",
+            "summary": "The NSW government says its reforms will see more than 15,000 hectares of wildlife habitat protected and restored in the Central-West Orana region, which it links to the transformation of the state's energy system.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/nsw-reforms-protect-native-wildlife-central-west-nsw"
+              }
+            ]
+          },
+          {
+            "headline": "Aussie space dream brought down to earth by funding feud",
+            "summary": "The Daily Telegraph reports that astronaut Katherine Bennell-Pegg's planned space flight is in doubt as governments clash over a $100 million bill. Only the outlet's headline and report framing are available.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/katherine-bennellpegg-space-flight-in-doubt-as-governments-clash-over-100m-bill/news-story/f1686146bb2ec49809d7147fc423f4d4"
+              }
+            ]
+          },
+          {
+            "headline": "Planning seeks more detail: five years on, is this the CBD high-rise everyone forgot?",
+            "summary": "The Illawarra Mercury reports Level 33's Crown Square project in the Wollongong CBD faces further delays after NSW Planning sought changes to parking arrangements and designs.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9363237/wollongong-crown-square-nsw-planning-delays-level-33-plans/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Liberals restore dumped MP after ICAC inquiry",
+            "summary": "The Daily Telegraph reports that NSW Liberal MP Damien Tudehope, who stood down from the frontbench during ICAC hearings, is to be reinstated. Only the outlet's headline and report framing are available.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/damien-tudehope-to-be-reinstated-to-front-bench-after-standing-down-during-icac-hearings/news-story/aef6eb249e3253038c88bce51f58c6c7"
+              }
+            ]
+          },
+          {
+            "headline": "A $16 million loss in funding means cuts for Wollongong City Council",
+            "summary": "The Illawarra Mercury reports that proposed changes to a grant funding model would leave Wollongong City Council $16 million worse off, which it reports would force budget cuts.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9363188/wollongong-city-council-faces-16m-cut-under-new-grant-model/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "'We want to be heard': residents fight for safety as council ignores concerns",
+            "summary": "The Illawarra Mercury reports Rangoon Avenue residents at Shell Cove are in a two-month stalemate with Shellharbour City Council over sportsfield access, and dispute the council's traffic safety assessment.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9318789/shellharbour-city-council-faces-shell-cove-sportsfield-safety-concerns/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "NSW2027 – How Optional Preferential Voting could Re-elect the Minns Government",
+            "commentator": "Antony Green (ABC election analyst)",
+            "summary": "Antony Green argues that NSW's optional preferential voting system could work in favour of re-electing the Minns government at the 2027 state election. He opens by pointing to March's South Australian election, where he notes One Nation polled 22.9% to push the Liberals into third place on 18.9% without altering the landslide outcome.",
+            "tags": [
+              "OPINION",
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "Antony Green's Election Blog",
+                "url": "https://antonygreen.com.au/nsw2027-how-optional-preferential-voting-could-re-elect-the-minns-government/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
