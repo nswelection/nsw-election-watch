@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-08",
+  "nStories": 13,
+  "topLine": "The High Court has ruled the approval of MACH Energy's Mount Pleasant coalmine expansion at Muswellbrook invalid, in what Guardian Australia reports is the first High Court case to consider climate change and what the ABC describes as a potential shake-up of how fossil fuel projects are approved. The Minns and Albanese governments jointly announced more than $1.74 billion for three regional road corridors, and the NSW Government says planning reforms have delivered the highest housing completions in five years. In integrity news, the Herald's CBD column asks which officials had legal bills tied to ICAC's Operation Rosny covered.",
+  "briefing": {
+    "topLine": "The High Court has ruled the approval of MACH Energy's Mount Pleasant coalmine expansion at Muswellbrook invalid, in what Guardian Australia reports is the first High Court case to consider climate change and what the ABC describes as a potential shake-up of how fossil fuel projects are approved. The Minns and Albanese governments jointly announced more than $1.74 billion for three regional road corridors, and the NSW Government says planning reforms have delivered the highest housing completions in five years. In integrity news, the Herald's CBD column asks which officials had legal bills tied to ICAC's Operation Rosny covered.",
+    "localWatch": "Nothing of state-political consequence in Kiama or the Shoalhaven today: the local items are council-level, with Shoalhaven City Council reporting survey concerns about roads, Kiama Council announcing sportsfield upgrades, and new free beach wheelchairs at Mollymook under a joint federal program.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Survey highlights road concerns and service strengths",
+            "summary": "Shoalhaven City Council reports that a community survey highlighted concerns about roads alongside strengths in its service delivery. Further detail was not available in the material supplied.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Survey-highlights-road-concerns-and-service-strengths"
+              }
+            ]
+          },
+          {
+            "headline": "Local sportsfield upgrades a win for the community",
+            "summary": "Kiama Council has announced upgrades to local sportsfields, which it characterises as a win for the community.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Local-sportsfield-upgrades-a-win-for-the-community"
+              }
+            ]
+          },
+          {
+            "headline": "Mollymook Beach adds four new wheelchairs to expand ocean access",
+            "summary": "The Milton Ulladulla Times reports that four free beach wheelchairs have been added at Mollymook Beach under a joint federal program, which the paper says improves coastal access for residents and visitors.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Milton Ulladulla Times",
+                "url": "https://www.ulladullatimes.com.au/story/9354825/mollymook-beach-rolls-out-free-wheelchairs-for-visitors/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": []
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
+            "summary": "The High Court has ruled that the approval of MACH Energy's Mount Pleasant coalmine expansion at Muswellbrook was invalid, with Guardian Australia reporting it is the first High Court case to consider climate change and that advocates say it sets a binding national precedent for fossil fuel projects in NSW. The AFR reports the court found authorities failed to properly consider emissions from coal that would be exported, and that miners warn the ruling puts investment at risk. The ABC reports the decision could redraw how fossil fuel projects are approved, while Guardian Australia also profiles the retired Hunter couple, Wendy Wales and Tony Lonergan, behind the four-year challenge.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-07/mount-pleasant-coal-mine-high-court-ruling/107233650"
+              },
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/companies/mining/landmark-ruling-blocks-coal-mine-sets-new-environmental-benchmark-20261007-p613hz"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/national/high-court-rules-planning-bodies-must-weigh-local-climate-impacts-in-hunter-valley-coal-mine-case/news-story/dcecea43a652f0c5d89c5655bef57c06"
+              },
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/08/retired-hunter-valley-couple-mach-energy-mount-pleasant-coalmine-high-court"
+              }
+            ]
+          },
+          {
+            "headline": "$1.74 billion investment for key regional road corridors across New South Wales",
+            "summary": "The NSW Government says more than $1.74 billion will go to three regional road corridors to improve safety and journey efficiency for regional communities, freight operators and industry. The ABC reports the Albanese government is contributing $674 million and the Minns government $610 million towards the upgrades.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/regional-road-corridors-investment"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-07/nsw-government-funding-for-regional-roads-corridor/107235290"
+              }
+            ]
+          },
+          {
+            "headline": "Planning reforms in action: NSW records highest housing completions in five years",
+            "summary": "The NSW Government says its planning reforms are building momentum in the housing pipeline, pointing to the highest number of housing completions in five years and more construction getting underway.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/planning-reforms-action-nsw-records-highest-housing-completions-five-years"
+              }
+            ]
+          },
+          {
+            "headline": "Early intervention to reduce stranded aged care patients",
+            "summary": "The NSW Government has announced $7.2 million for an early intervention allied health pilot intended to help older patients recover at home and avoid prolonged hospital stays. Reporting on the announcement, the Illawarra Mercury quotes Health Minister Ryan Park saying the system is losing hospital beds \"faster than ever before\", and invites readers to share their experiences of aged care waits.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/early-intervention-to-reduce-stranded-aged-care-patients"
+              },
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9364138/ryan-park-unveils-72m-trial-to-tackle-aged-care-patient-surge/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Progress on caseworker vacancy rates after minister's ex-gratia grilling",
+            "summary": "The Newcastle Herald reports that NSW Minister Kate Washington has faced scrutiny over her approval of a $15,000 ex-gratia payment to a foster carer, which the paper reports the department had concerns about, and reports on caseworker vacancy rates.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9320800/kate-washington-foster-carers-15000-ex-gratia-payment-debated/"
+              }
+            ]
+          },
+          {
+            "headline": "New birthing suite lays dormant as hospital fails to find staff",
+            "summary": "The ABC reports that women cannot give birth at a new birthing suite in northern NSW because of staffing, amid what it describes as a nationwide shortage of GP obstetricians in regional areas.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-07/new-gunnedah-birthing-suite-temporarily-closed-no-obstetrician/107206442"
+              }
+            ]
+          },
+          {
+            "headline": "Crown Square on hold: what's stopping construction on this forgotten CBD block",
+            "summary": "The South Coast Register reports that Level 33's Crown Square project in the Wollongong CBD faces fresh delays after NSW Planning sought changes to parking and design elements.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9363237/wollongong-crown-square-nsw-planning-delays-level-33-plans/"
+              }
+            ]
+          },
+          {
+            "headline": "The Sydney suburb that fought 150 new units – and ended up with 130",
+            "summary": "The Sydney Morning Herald reports on residents who won an initial round in their campaign against a 150-unit development, ending up with 130 units, but who fear they may not prevail overall.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/property/news/the-sydney-suburb-that-fought-150-new-units-and-ended-up-with-130-20261007-p60za7.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Who had their ICAC legal bills covered?",
+            "summary": "The Sydney Morning Herald's CBD column reports that five serving or former officials successfully applied for assistance with legal fees connected to ICAC's Operation Rosny, and asks which officials they were.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/cbd/who-had-their-icac-legal-bills-covered-20261008-p613ex.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Everyone's missed the most shocking thing about the Greens' top job vote",
+            "commentator": "Sydney Morning Herald (no author supplied)",
+            "summary": "Writing in the Herald's NSW politics section, the author argues the Greens' leadership vote marks a dramatic shift that signals the party is rethinking its tactics, reading it against what they describe as the delayed rise of the populist right in Australia through One Nation. This is the commentator's assessment, not a reported fact.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/everyone-s-missed-the-most-shocking-thing-about-the-greens-top-job-vote-20261008-p613gl.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
