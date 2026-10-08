@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-09",
+  "nStories": 16,
+  "topLine": "Fallout from the High Court's Mount Pleasant decision dominated NSW politics, with Premier Chris Minns rejecting industry calls to change planning laws and telling activists not to get \"overexcited\" about what he called a technical ruling, while One Nation used the moment to promise it would abolish the Independent Planning Commission and scrap the state's net zero laws ahead of the state election. Minns also warned that legislation to diversify the Hunter economy away from coal may not pass before the election, challenging the crossbench to declare its position. In integrity news, the Law Enforcement Conduct Commission revealed the police commissioner made a late bid to close its inquiry into the Sydney anti-Herzog protest to the public.",
+  "briefing": {
+    "topLine": "Fallout from the High Court's Mount Pleasant decision dominated NSW politics, with Premier Chris Minns rejecting industry calls to change planning laws and telling activists not to get \"overexcited\" about what he called a technical ruling, while One Nation used the moment to promise it would abolish the Independent Planning Commission and scrap the state's net zero laws ahead of the state election. Minns also warned that legislation to diversify the Hunter economy away from coal may not pass before the election, challenging the crossbench to declare its position. In integrity news, the Law Enforcement Conduct Commission revealed the police commissioner made a late bid to close its inquiry into the Sydney anti-Herzog protest to the public.",
+    "localWatch": "Shoalhaven mayor Patricia White is publicly pressing for urgent highway safety work after three crashes in eight months, and the council has separately called for greater safety measures at a Falls Creek hotspot. The state government has also announced that construction of the $20 million Batemans Bay Community Health facility in Eurobodalla is complete.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Three major crashes in eight months prompt urgent call to fix highway hazard",
+            "summary": "The South Coast Register reports Shoalhaven mayor Patricia White is urging action on highway safety after three crashes in eight months, with the paper reporting that flyover construction created a hazardous intersection. Separately, Shoalhaven City Council has published a call for greater safety measures at a Falls Creek hotspot.",
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9365271/shoalhaven-mayor-patricia-white-demands-urgent-highway-fixes/"
+              },
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Call-for-greater-safety-measures-at-Falls-Creek-hotspot"
+              }
+            ]
+          },
+          {
+            "headline": "Construction of new $20 million Batemans Bay Community Health complete",
+            "summary": "The NSW Government says construction of the $20 million Batemans Bay Community Health facility has been finished, which it describes as a milestone in delivering modern healthcare for the Eurobodalla region.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/construction-of-new-20-million-batemans-bay-community-health-complete"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "‘Vested interests will love it’: Politicians to have power to approve coal mines under One Nation",
+            "summary": "The Sydney Morning Herald reports One Nation, which it describes as taking an aggressively pro-coal stance as it seeks Hunter Valley seats at the March state election, would scrap the Independent Planning Commission entirely and hand mine approval powers to ministers. The Daily Telegraph reports the party has also vowed to axe the state's net zero laws following the High Court coal mine ruling.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/vested-interests-will-love-it-politicians-to-have-power-to-approve-coal-mines-under-one-nation-20261009-p613tg.html"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-one-nation-vows-to-axe-green-tape-after-landmark-high-court-coal-mine-ruling/news-story/f947f0001833a6bbb31101d10dbdaf82"
+              }
+            ]
+          },
+          {
+            "headline": "'Nail your colours to the mast': Minns challenges crossbench to support Hunter workers",
+            "summary": "The Newcastle Herald reports Premier Chris Minns has acknowledged that key laws intended to diversify the Hunter economy away from coal may not pass before the state election, and has called on the crossbench to state its position.",
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9365090/chris-minns-warns-hunter-transition-legislation-may-not-pass-before-the-election/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Chris Minns says activists shouldn’t get ‘overexcited’ about ‘technical’ landmark coalmine decision",
+            "summary": "The High Court has ruled that a 22-year extension to the Mount Pleasant coal mine was invalid, and the AFR reports Premier Chris Minns has rejected industry calls to change planning laws in response. The Guardian reports Minns described the judgment as technical and said it would not affect state regulation, while the AFR reports miners are bracing for further environmental litigation. The Australian reports Angus Taylor has urged Prime Minister Anthony Albanese to intervene over the ruling, and the South Coast Register carried a wire report in which a premier is said to have pledged further action to tighten state laws protecting fossil fuels.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/08/chris-minns-responds-landmark-high-court-decision-mount-pleasant-coalmine"
+              },
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/policy/energy-and-climate/don-t-get-over-excited-about-coal-mine-ruling-minns-tells-activists-20261008-p613vo"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/national/high-court-rules-planning-bodies-must-weigh-local-climate-impacts-in-hunter-valley-coal-mine-case/news-story/dcecea43a652f0c5d89c5655bef57c06"
+              },
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/news/latest-news/angus-taylor-urges-anthony-albanese-to-intervene-over-hunter-valley-mine-ruling/news-story/ccf79d28e68ada6900b809bc8565b072"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9365186/bulletproof-laws-set-to-protect-coal-after-ruling/"
+              }
+            ]
+          },
+          {
+            "headline": "Heavily armed police unit set to hit Sydney's streets",
+            "summary": "NSW Police have unveiled a permanent, heavily armed proactive policing unit, the Armed Response Command. Police Commissioner Mal Lanyon said on Thursday the officers would start in November and could be proactively deployed outside stadiums, places of worship and other major events.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHR4OXRtS3JNeHJiYldfUU1ZSkQ1Rm5VWGNWTGU3UXFSZ0V6UHlkTkR5X2NQM21TT3hEczJTcmxTWVVaNENiUFpjaDJTelB1TnllYWxHMEVmNVVDYm9XcVF6bWVDSGpLdzNMVkM3OFFZZHIxLW1MMzZJbEpnNTd5YzlsNjBwbW9HWXdSamZQamFaRXh0MjVYc3Z4N0RieEZNaW5DUQ?oc=5"
+              },
+              {
+                "outlet": "news.com.au",
+                "url": "https://www.news.com.au/national/nsw-act/crime/nsw-government-unveils-permanent-heavily-armed-proactive-policing-unit/news-story/7538ade4baf99ccc50a24ea07ad9cd08"
+              },
+              {
+                "outlet": "NSW Government",
+                "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzdYVEQzaVNGVGhfNmFLcHRYN1JtNUhraXZHLUM4M0cyR2lOdHBsYVlkY200Y1dfcjBjQXFRSXI5M1h1bDJKdkxxNGZxWTdWZ2pKVXNnYkxhemdxU2FfSDVmVjdqbDY3dG1XU01ZQkR5V1VLQ1RwQ2ZPVlJVOGFmTE5GY0tFT1otREZoT3BFV2pBY2J3QVhUODctSzZaX2VMS1JhQ2RXZlFaZUR4S2RmVVgtajQtX3llc0ZoQm9BdFJXTk0?oc=5"
+              }
+            ]
+          },
+          {
+            "headline": "Expansion of Jewish security groups’ remit still being considered despite new heavily armed police unit",
+            "summary": "The Sydney Morning Herald reports that a possible expansion of the remit of Jewish community security groups remains under consideration, despite the announcement of the new Armed Response Command.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/publicly-armed-jewish-security-groups-still-being-considered-despite-announcement-of-heavily-armed-police-unit-20261008-p613u4.html"
+              }
+            ]
+          },
+          {
+            "headline": "In an overgrown ‘swamp’ in Rookwood cemetery, Jayne asks: ‘Where are the graves? She’s told: ‘You’re standing on them’",
+            "summary": "In an exclusive report, The Guardian follows Jayne Kinsolving's years-long search for her family's grave at Rookwood cemetery, which it says ended at a communal pauper grave. The piece forms part of the outlet's unmarked graves investigation and describes a 16-year campaign to stop NSW Health burying people in unmarked graves.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/09/unmarked-graves-investigation-rookwood-cemetery-communal-pauper-grave"
+              }
+            ]
+          },
+          {
+            "headline": "Land purchase brings pink lakes into NSW national parks estate",
+            "summary": "The NSW Government says the joint purchase of Pulgamurtie Station by the Minns and Albanese governments will bring pink lakes into the national parks estate for the first time.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/pink-lakes-brought-into-nsw-national-parks"
+              }
+            ]
+          },
+          {
+            "headline": "Carss Park Pool project dives into construction",
+            "summary": "The state government says construction is underway on the $63.5 million Carss Park Pool, which it frames as delivering on a commitment to a new aquatic facility for the Kogarah Bay community.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/ministerial-media-releases/carss-park-pool-begins-construction"
+              }
+            ]
+          },
+          {
+            "headline": "Supporting more young regional girls into STEM",
+            "summary": "The government has announced $250,000 for DeadlyScience to run science, technology, engineering and maths workshops in remote and regional NSW schools.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/supporting-regional-girls-into-stem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest",
+            "summary": "The Guardian reports the Law Enforcement Conduct Commission has revealed that Police Commissioner Mal Lanyon made a late bid for its hearings into February's anti-Herzog protest at Sydney Town Hall to be held in private, with the watchdog saying the timing was \"regrettable\" and caused delays. The inquiry, launched after allegations of police brutality, is reported to be proceeding this month with a mix of public and private examinations.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9365120/police-bid-to-hide-ugly-protest-probe-rejected/"
+              }
+            ]
+          },
+          {
+            "headline": "'Catastrophic': Wollongong council pushes back on $16m funding cut",
+            "summary": "The Illawarra Mercury reports Wollongong councillors were unanimously opposed to a proposal involving a $16 million funding cut.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9365239/catastrophic-wollongong-council-pushes-back-on-16m-funding-cut/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Protest or ‘gathering’? Local council seeks to block anti-data centre group from meeting in park",
+            "summary": "The Sydney Morning Herald reports a group campaigning against a proposed $2.9 billion data centre on the Cooks River has met opposition from the local council over its plan to meet in a park.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/protest-or-gathering-local-council-seeks-to-block-anti-data-centre-group-from-meeting-in-park-20261008-p613s3.html"
+              }
+            ]
+          },
+          {
+            "headline": "Weekend tip run becomes harder for southern residents as landfill hours cut short",
+            "summary": "Shellharbour City Council has reduced weekend opening hours at the Dunmore tip, telling the Illawarra Mercury the new hours reflect data on when the facility is most used.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9364890/shellharbour-city-council-cuts-dunmore-tip-weekend-hours/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "James O’Doherty: High Court decision digs a hole for NSW mining investment",
+            "commentator": "James O'Doherty (The Daily Telegraph)",
+            "summary": "In the Daily Telegraph, James O'Doherty argues the High Court's decision is bad news for mining investment in NSW, with the paper reporting industry warnings of an investment chill after the court blocked the coal project.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/mining-industry-warns-of-investment-chill-as-high-court-blocks-nsw-coal-project/news-story/939b8e69d7747d1174c56157d54ac71d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "With seven weeks until the Victorian election, Crikey reports from Bass, the state's most tightly held seat, on the Labor–Liberal–One Nation contest.",
+        "outlet": "Crikey",
+        "url": "https://www.crikey.com.au/2026/10/08/victorian-state-election-bass-electorate-labor-liberal-one-nation-phillip-island/"
+      },
+      {
+        "text": "The Greens have launched their Victorian election platform, pledging action on grocery prices.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9365345/greens-hints-state-at-crossroads-at-party-launch/"
+      },
+      {
+        "text": "The Poll Bludger's William Bowe live-blogs the UK Holborn and St Pancras by-election, where Labour defends Keir Starmer's former seat against Greens leader Zack Polanski, plus Canadian provincial contests.",
+        "outlet": "The Poll Bludger",
+        "url": "https://www.pollbludger.net/2026/10/08/uk-holborn-and-st-pancras-by-election-live/?utm_source=rss&utm_medium=rss&utm_campaign=uk-holborn-and-st-pancras-by-election-live"
+      }
+    ]
+  }
+}
