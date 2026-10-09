@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-10",
+  "nStories": 11,
+  "topLine": "The Sydney Morning Herald reports NSW Electoral Commissioner Rachel McCallum has warned that a multimillion-dollar funding shortfall leaves the March state election exposed to interference and cyberattack, the most significant development of the day. The Herald also reports One Nation would abolish the Independent Planning Commission and hand coal mine approvals to ministers as it targets Hunter Valley seats, while Antony Green publishes analysis of the geographic pattern of One Nation's NSW vote. In Sydney, the planning minister has taken control of the City of Sydney's Town Hall square project by declaring it state significant.",
+  "briefing": {
+    "topLine": "The Sydney Morning Herald reports NSW Electoral Commissioner Rachel McCallum has warned that a multimillion-dollar funding shortfall leaves the March state election exposed to interference and cyberattack, the most significant development of the day. The Herald also reports One Nation would abolish the Independent Planning Commission and hand coal mine approvals to ministers as it targets Hunter Valley seats, while Antony Green publishes analysis of the geographic pattern of One Nation's NSW vote. In Sydney, the planning minister has taken control of the City of Sydney's Town Hall square project by declaring it state significant.",
+    "localWatch": "Local items today are council-level: Shoalhaven's mayor has called for an end to the waste levy, and The Daily Telegraph reports a $20 million Batemans Bay health centre is nearing opening amid concerns about emergency department closures.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "First look: $20m health centre nears opening as ED closure fears grow",
+            "summary": "The Daily Telegraph reports a $20 million health centre at Batemans Bay is close to opening amid concerns about emergency department closures. Only the headline was available for this item.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/thesouthcoastnews/20m-batemans-bay-health-centre-nears-opening-amid-ed-closure-fight/news-story/d957676e0184ee2143c3278c4e074902"
+              }
+            ]
+          },
+          {
+            "headline": "Mayor calls for end to unfair waste levy",
+            "summary": "Shoalhaven City Council reports its mayor is calling for the waste levy to be scrapped, describing it as unfair. Only the headline was available for this item.",
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Mayor-calls-for-end-to-unfair-waste-levy-page"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Electoral Commission warns of ‘intolerable risk’ of interference, cyberattack at NSW election",
+            "summary": "The Sydney Morning Herald reports NSW Electoral Commissioner Rachel McCallum has warned that a multimillion-dollar funding shortfall means March's state election could be vulnerable. The Herald's headline refers to an \"intolerable risk\" of interference and cyberattack.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/electoral-commission-warns-of-intolerable-risk-of-interference-cyberattack-at-nsw-election-20261010-p61354.html"
+              }
+            ]
+          },
+          {
+            "headline": "Revealed: One Nation’s plan to axe planning body and give ministers power over coal",
+            "summary": "The Sydney Morning Herald reports One Nation, which it describes as taking an aggressively pro-coal stance as it seeks to win Hunter Valley seats at the March state election, says it would scrap the Independent Planning Commission entirely and give approval power over coal mines to ministers.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/vested-interests-will-love-it-politicians-to-have-power-to-approve-coal-mines-under-one-nation-20261009-p613tg.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Plans for Sydney’s controversial new public square in doubt after NSW government intervention",
+            "summary": "The Guardian reports the NSW planning minister has declared the proposed public square opposite Sydney Town Hall \"state significant\", taking the approval process away from the City of Sydney, whose lord mayor Clover Moore released designs in August for a project the council had expected to be finished by 2031. The Sydney Morning Herald reports Planning Minister Paul Scully sought independent advice on the project last month, citing its cost and prominent location.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-public-square-controversy-state-government-intervention"
+              },
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/state-government-seizes-control-of-city-of-sydney-s-town-hall-square-plan-20261009-p612us.html"
+              }
+            ]
+          },
+          {
+            "headline": "How paramedic pressure and rising health demands led to a new ambulance station",
+            "summary": "The Newcastle Herald reports a new ambulance station is planned for Gateshead, which it frames as the Minns government responding to paramedic pressure and rising demand on the NSW health system. Health Minister Ryan Park comments in the report.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9364932/new-ambulance-station-for-gateshead-as-minns-government-responds-to-paramedic-pressure/"
+              }
+            ]
+          },
+          {
+            "headline": "Fears backpacker ballot will leave coastal towns short-staffed",
+            "summary": "The ABC reports the hospitality industry says the backpacker ballot will create workforce shortages, and that a new designated area migration agreement could assist holiday towns in NSW.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-09/nsw-towns-hit-by-backpacker-shortage-seek-dama-listing/107221046"
+              }
+            ]
+          },
+          {
+            "headline": "'Makes no sense': Bid to scrap ban on dogs, cats on NSW trains",
+            "summary": "The ABC reports more than 6,500 people have signed a petition backing a two-year trial allowing pets on NSW trains and metros, which would require dogs to be on a lead or in an approved carrier in designated animal-friendly carriages.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-09/nsw-dogs-on-trains-metros-petition/107233980"
+              }
+            ]
+          },
+          {
+            "headline": "Major upgrade for Rouse Hill High School opens ahead of schedule",
+            "summary": "The NSW Government says fast-tracked permanent classrooms at Rouse Hill High School in The Hills will open next week on the first day of Term 4, months ahead of schedule.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/major-upgrade-for-rouse-hill-high-school-opens-ahead-of-schedule"
+              }
+            ]
+          },
+          {
+            "headline": "Lights, camera and more action as NSW Government steps up to support Tropfest with new three-year deal",
+            "summary": "The NSW Government announced $2.7 million over three years for Tropfest, which it presents as support for the state's creative industries and major free events in Sydney.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/ministerial-media-releases/nsw-government-supports-tropfest-new-three-year-deal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "The Pattern of One Nation support in NSW",
+            "commentator": "Antony Green (election analyst)",
+            "summary": "On his election blog, Antony Green writes that across nearly three decades of following One Nation's results, one feature has been constant: whatever the party's overall vote, the geographic distribution of its support follows a consistent pattern.",
+            "tags": [
+              "OPINION",
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "Antony Green's Election Blog",
+                "url": "https://antonygreen.com.au/the-pattern-of-one-nation-support-in-nsw/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
