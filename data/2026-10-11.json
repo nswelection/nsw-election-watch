@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-11",
+  "nStories": 3,
+  "topLine": "A quiet day in NSW politics, with no major state-level developments reported. The Sydney Morning Herald argues in a commentary piece that the Minns government's refusal to fund a technology upgrade for an integrity watchdog is shortsighted in an era of AI threats, while the Daily Telegraph reports a preselection decision in a safe Liberal seat and the government moves to repeal decades-old motorsport regulation ahead of the Bathurst 1000.",
+  "briefing": {
+    "topLine": "A quiet day in NSW politics, with no major state-level developments reported. The Sydney Morning Herald argues in a commentary piece that the Minns government's refusal to fund a technology upgrade for an integrity watchdog is shortsighted in an era of AI threats, while the Daily Telegraph reports a preselection decision in a safe Liberal seat and the government moves to repeal decades-old motorsport regulation ahead of the Bathurst 1000.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Not running: Time not right yet for Howard Jnr",
+            "summary": "The Daily Telegraph reports that Richard Howard, son of former prime minister John Howard, has ruled out contesting preselection for the safe Liberal seat of Wahroonga. No further detail was available in the supplied text.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/the-sauce-john-howards-son-richard-rules-out-run-for-safe-liberal-seat-of-wahroonga/news-story/e6a79ff3b0b957e975e87ed245cf2ec9"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "NSW to scrap 40yo motorsport law ahead of Bathurst 1000",
+            "summary": "The Daily Telegraph reports the Minns government is removing a four-decade-old piece of motorsport regulation in the lead-up to the Bathurst 1000. Details beyond the headline were not available in the supplied text.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/minns-government-axes-fourdecadeold-motorsport-red-tape-ahead-of-bathurst-1000/news-story/d4eb066998b49f9fb6aa3b86d9ee042d"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "In a world of AI threats, denying funding to watchdog’s tech upgrade is shortsighted",
+            "commentator": "The Sydney Morning Herald",
+            "summary": "In a commentary piece, the Sydney Morning Herald argues that the Minns government's decision not to fund a technology upgrade for a NSW watchdog is shortsighted given emerging artificial intelligence threats. The piece contends the choice puts democracy in NSW at risk. This is the author's view, not a finding of fact.",
+            "tags": [
+              "INTEGRITY",
+              "OPINION",
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/in-a-world-of-ai-threats-denying-funding-to-watchdog-s-tech-upgrade-is-shortsighted-20261011-p61423.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
