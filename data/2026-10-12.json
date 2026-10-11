@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-12",
+  "nStories": 8,
+  "topLine": "The Minns government has announced a tightening of lobbying rules following an anti-corruption inquiry, with local government to be covered for the first time and new investigative powers flagged. Election positioning sharpened as the Treasurer challenged One Nation to submit its promises for formal costings, Opposition Leader Kellie Sloane released her first election video, and a fresh Resolve poll reported One Nation slipping from its mid-year high while voters continue to blame Labor for cost-of-living pressure. Locally, the only political item of the day is a Kiama Council planning decision over a car storage proposal at Jamberoo Action Park.",
+  "briefing": {
+    "topLine": "The Minns government has announced a tightening of lobbying rules following an anti-corruption inquiry, with local government to be covered for the first time and new investigative powers flagged. Election positioning sharpened as the Treasurer challenged One Nation to submit its promises for formal costings, Opposition Leader Kellie Sloane released her first election video, and a fresh Resolve poll reported One Nation slipping from its mid-year high while voters continue to blame Labor for cost-of-living pressure. Locally, the only political item of the day is a Kiama Council planning decision over a car storage proposal at Jamberoo Action Park.",
+    "localWatch": "Kiama Council staff have recommended refusal of a BYD car storage proposal at Jamberoo Action Park, turning on how a planning rule is interpreted. The Minns government's expansion of lobbying rules to local government would, on its face, apply to councils across the state, though the reporting does not mention the South Coast.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Car park or EV storage hub? The planning rule tripping up Jamberoo Action Park",
+            "summary": "The Illawarra Mercury reports that Kiama Council staff have recommended refusing a proposal by Jamberoo Action Park to use land for BYD car storage. According to the report, the recommendation hinges on the interpretation of a planning rule.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9349134/jamberoo-action-park-car-storage-plan-faces-council-knock-back/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "‘Fantasy land’: NSW Treasurer lays down gauntlet over One Nation promises",
+            "summary": "The Sydney Morning Herald reports the Minns government is stepping up pressure on One Nation to put its policies forward for formal costings. The headline quotes the Treasurer describing the promises as \"fantasy land\".",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/fantasy-land-nsw-treasurer-lays-down-gauntlet-over-one-nation-promises-20261012-p614ju.html"
+              }
+            ]
+          },
+          {
+            "headline": "Hanson slips as Labor cops blame",
+            "summary": "News.com.au reports that fresh Resolve polling shows One Nation support has fallen back from the high it reached in the middle of the year. The report says voters nonetheless continue to attribute much of the blame for cost-of-living pressure to Labor.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "news.com.au",
+                "url": "https://www.news.com.au/national/politics/new-resolve-poll-shows-one-nation-support-slipping-as-voters-blame-labor-for-costofliving-pressure/news-story/57a9e0110928cce828f39ca0fc9066d9"
+              }
+            ]
+          },
+          {
+            "headline": "‘Don’t accept’: Lib’s election pitch amid ON threat",
+            "summary": "The Australian reports that NSW Opposition Leader Kellie Sloane has pledged action on jobs and the economy in her first election video, framed against the threat posed by One Nation.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/news/latest-news/nsw-opposition-leader-kellie-sloane-pledges-action-on-jobs-economy-in-first-election-video/news-story/8bf3c8e39b7f1f017708ccbcf947714d"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Crunch time for the Mater's future, as Honeywell staff shrink over mould scandal",
+            "summary": "The Newcastle Herald reports that decisions are approaching on the future of the Mater hospital, amid a mould issue and a reduction in Honeywell staff. The article quotes the observation that \"no one would ever design a public health service this way\".",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9364565/crunch-time-for-the-maters-future-as-honeywell-staff-shrink-over-mould-scandal/"
+              }
+            ]
+          },
+          {
+            "headline": "How NSW plans to tackle bullying in schools",
+            "summary": "The Daily Telegraph reports that the NSW government is funding a $200,000 anti-bullying pilot, \"Charlotte's Wish\", aimed at protecting vulnerable students.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-funds-200000-charlottes-wish-antibullying-pilot-to-protect-vulnerable-students/news-story/26ad6b8f824e627a2417c33919b56ee7"
+              }
+            ]
+          },
+          {
+            "headline": "Protesters target Albanese at Gaza marches as Minns hits back",
+            "summary": "The Daily Telegraph reports that Prime Minister Anthony Albanese was targeted by protesters at pro-Palestine rallies in Sydney, and that Premier Chris Minns responded. No further detail was available in the supplied text.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/greens-senator-mehreen-faruqi-slams-anthony-albanese-at-sydney-hyde-park-propalestine-rally/news-story/b878abe51f433fd6050f40ba2d65541c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Crackdown on lobbyists after explosive anti-corruption inquiry",
+            "summary": "The Sydney Morning Herald reports the Minns government has announced a package of changes to lobbying rules following an anti-corruption inquiry. Under the changes, local government would be subject to lobbying rules for the first time, and new investigative powers are included.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/crackdown-on-lobbyists-after-explosive-anti-corruption-inquiry-20261012-p614bd.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "The Sydney Morning Herald examines how Melbourne's comparatively strong housing market is shaping up as a dividing line for Victorian voters, with the Coalition seeking to scrap Labor's activity centres policy in favour of other approaches.",
+        "outlet": "The Sydney Morning Herald",
+        "url": "https://www.smh.com.au/national/victoria/build-up-or-lock-out-how-melbourne-s-housing-success-is-set-to-divide-voters-20261011-p613ky.html"
+      }
+    ]
+  }
+}
