@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-13",
+  "nStories": 15,
+  "topLine": "NSW politics was dominated on Monday by a fight over election costings, with the Minns government saying it will move this week to amend legislation giving One Nation access to the Parliamentary Budget Office before the March 2027 poll — an offer the party says it will not take up. The government also unveiled an integrity package expanding the NSW Electoral Commission's oversight of lobbyists, drawing commentary that the reforms were watered down, while The Guardian reported documents showing the peak oil and gas body was the only meeting held with a minister's office before the state reopened gas exploration. Little of the day's news touched Kiama or the Shoalhaven directly.",
+  "briefing": {
+    "topLine": "NSW politics was dominated on Monday by a fight over election costings, with the Minns government saying it will move this week to amend legislation giving One Nation access to the Parliamentary Budget Office before the March 2027 poll — an offer the party says it will not take up. The government also unveiled an integrity package expanding the NSW Electoral Commission's oversight of lobbyists, drawing commentary that the reforms were watered down, while The Guardian reported documents showing the peak oil and gas body was the only meeting held with a minister's office before the state reopened gas exploration. Little of the day's news touched Kiama or the Shoalhaven directly.",
+    "localWatch": "Nothing today came out of Kiama or Shoalhaven itself; the closest items were in the Illawarra, where construction has finished on the new Warrawong Community Health Centre and the Illawarra Mercury reported on a housing site near North Wollongong station.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Inside the new community health centre that's just been finished at Warrawong",
+            "summary": "The Illawarra Mercury reports that construction has been completed on the new Warrawong Community Health Centre, built on the site of the former Port Kembla Hospital.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9366780/warrawong-community-health-centre-new-facility-opens-soon/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "You're kidding me? These North Gong residents could get the boot for new housing plan",
+            "summary": "The Illawarra Mercury reports on a North Wollongong site about 80 metres from the train station that has sold despite flood rules, in connection with a new housing plan.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9366434/north-wollongong-land-near-train-sells-despite-flood-rules/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "One Nation shuns formal costings process before NSW election",
+            "summary": "The NSW government says it will seek this week to amend legislation so One Nation can access the independent Parliamentary Budget Office ahead of the March 2027 election. One Nation has said it will not submit its policies for budget costing, telling the Sydney Morning Herald \"We've got our own people\", while the Minns government accused the party of operating in a \"fantasy land\" on costings. Premier Chris Minns framed independent costing as something that \"keeps us honest\", according to news.com.au.",
+            "tags": [
+              "CANDIDATES",
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/politics/one-nation-shuns-formal-costings-process-before-nsw-election/news-story/1a5635b80d55249707934cfd8755f1de"
+              },
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/we-ve-got-our-own-people-one-nation-won-t-submit-policies-for-budget-costing-20261012-p614t8.html"
+              },
+              {
+                "outlet": "news.com.au",
+                "url": "https://www.news.com.au/national/nsw-act/politics/chris-minns-pushes-to-have-one-nation-policies-independently-costed-ahead-of-nsw-election/news-story/24b4c6530addf24636d2c5999ab66303"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9366715/one-nation-slams-push-to-force-campaign-policy-costing/"
+              },
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/one-nations-promises-to-face-independent-costing"
+              }
+            ]
+          },
+          {
+            "headline": "Sloane’s tax challenge as Coalition moves to save businesses cash",
+            "summary": "The Daily Telegraph reports that NSW Liberal leader Kellie Sloane has challenged Premier Chris Minns over backing businesses, as the Coalition moves on measures it says would save businesses money. The article was not accessible beyond its headline.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-liberal-leader-kellie-sloane-to-premier-minns-your-job-is-to-back-businesses/news-story/df126cb820307c8c496bd180d9891dcc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Minns government’s only meeting before reopening gas exploration was with fossil fuel lobby",
+            "summary": "In an exclusive, The Guardian reports that documents show the peak body for the oil and gas industry met with a minister's office before a 2014 freeze on new exploration licences was overturned, and that this was the only such meeting held beforehand.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/12/minns-governments-only-meeting-before-reopening-gas-exploration-was-with-fossil-fuel-lobby"
+              }
+            ]
+          },
+          {
+            "headline": "NSW lets gas into renewables scheme, in sharp contrast with Bowen",
+            "summary": "The Australian Financial Review reports NSW has allowed gas into its renewables scheme, in contrast to the approach of federal energy minister Chris Bowen. The AFR says the move comes as the Minns government increasingly positions itself at odds with Prime Minister Anthony Albanese, including over a push to reduce spending.",
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/policy/energy-and-climate/nsw-lets-gas-into-renewables-scheme-in-sharp-contrast-with-bowen-20261013-p61407"
+              }
+            ]
+          },
+          {
+            "headline": "100 preschools set to open in NSW, but how many will be accepting children?",
+            "summary": "The ABC reports that the opening of a new preschool in Sydney's south-west has raised questions about how the Minns government will deliver its pledge to expand preschools across NSW.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-12/doubts-over-minns-government-100-nsw-preschool-pledge-for-2027/107256296"
+              }
+            ]
+          },
+          {
+            "headline": "Rescued turtles return home after NSW government cut flows to wetland",
+            "summary": "The Guardian reports that 10 broad-shelled turtles and three Murray River turtles have been released back into the Gingham water hole in the Gwydir region after being rescued from a dried-up water hole. According to the report, environmental water to the area was halted after a complaint from a private landholder, leading to the deaths of wildlife and sheep.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/13/rescued-turtles-return-home-after-nsw-government-cut-flows-to-wetland"
+              }
+            ]
+          },
+          {
+            "headline": "Insurer underpaid hundreds of NSW accident victims in 'mind-blowing' error",
+            "summary": "The ABC reports that NRMA Insurance underpaid hundreds of injured NSW motorists, and that the error was identified by a lawyer acting for a crash victim rather than by the insurer or the NSW regulator.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-12/nrma-insurance-underpaid-hundreds-injured-nsw-motorists/107230062"
+              }
+            ]
+          },
+          {
+            "headline": "Teens at Sydney private religious school made to share beds with teachers, inquiry hears",
+            "summary": "A NSW parliamentary inquiry on Monday heard allegations from two former students of Redeemer Baptist School in western Sydney, The Guardian reports. The inquiry was told students were made to share beds with teachers and that the principal once walked through a common area naked; one former student told the inquiry nothing untoward happened to her during stays but said the school's culture left much to \"untangle\" as an adult. The claims are allegations made to the inquiry and have not been tested.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Revealed: How much Chris Minns’ passage to India cost taxpayers",
+            "summary": "The Sydney Morning Herald's CBD column reports on the taxpayer cost of an eight-day trip by the Premier and his entourage to Delhi and Mumbai, saying the bill rose along with the price of jet fuel.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/cbd/revealed-how-much-chris-minns-passage-to-india-cost-taxpayers-20261013-p614kk.html"
+              }
+            ]
+          },
+          {
+            "headline": "‘Stupid’: Chris Minns slams Sydney pro-Palestinian protesters",
+            "summary": "The Daily Telegraph reports that Premier Chris Minns criticised pro-Palestinian protesters at a Sydney rally, and that Greens senator Mehreen Faruqi criticised Prime Minister Anthony Albanese at the Hyde Park event. The article was not accessible beyond its headline.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/greens-senator-mehreen-faruqi-slams-anthony-albanese-at-sydney-hyde-park-propalestine-rally/news-story/b878abe51f433fd6050f40ba2d65541c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Stronger lobbyist oversight powers for NSW Electoral Commission",
+            "summary": "The Mandarin reports the NSW government has unveiled a package of integrity reforms intended to strengthen transparency around political lobbying, including stronger oversight powers for the NSW Electoral Commission.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Mandarin",
+                "url": "https://www.themandarin.com.au/321984-stronger-lobbyist-oversight-powers-for-nsw-electoral-commission/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Crackdown on political lobbyists does not go far enough",
+            "commentator": "Sydney Morning Herald",
+            "summary": "The Sydney Morning Herald argues the Minns government's lobbying crackdown falls short, saying the reforms to control the \"powers behind the thrones\" have been watered down. No individual author was supplied.",
+            "tags": [
+              "OPINION",
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/crackdown-on-political-lobbyists-does-not-go-far-enough-20261012-p614ql.html"
+              }
+            ]
+          },
+          {
+            "headline": "More beds won’t solve NSW’s prison overcrowding crisis - ABC Religion & Ethics",
+            "commentator": "Rev Bill Crews (ABC Religion & Ethics)",
+            "summary": "Writing for ABC Religion & Ethics, Rev Bill Crews argues that before taxpayers are asked to fund expanded prison capacity in NSW, the question should be whether more prison beds would actually reduce crime.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/religion/rev-bill-crews-nsw-prison-overcrowding-more-beds-solution/107256682"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
