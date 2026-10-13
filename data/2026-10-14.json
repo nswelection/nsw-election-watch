@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-14",
+  "nStories": 13,
+  "topLine": "One Nation's NSW ticket dominated the day's state political coverage, with the Sydney Morning Herald reporting a lengthening list of former Liberal and Nationals MPs seeking preselection and the Guardian reporting that News Corp columnist Vikki Campion has begun part-time work for the party's state executive. In government, the Minns government announced reforms targeting dangerous drivers as the road toll rises, while the Herald reported on an internal memo setting out a $600 million mental health funding need. Locally, Shoalhaven City Council is backing a $60,000 inclusive playground project at North Nowra and Eurobodalla Shire Council is facing a civil claim over alleged historical day care abuse.",
+  "briefing": {
+    "topLine": "One Nation's NSW ticket dominated the day's state political coverage, with the Sydney Morning Herald reporting a lengthening list of former Liberal and Nationals MPs seeking preselection and the Guardian reporting that News Corp columnist Vikki Campion has begun part-time work for the party's state executive. In government, the Minns government announced reforms targeting dangerous drivers as the road toll rises, while the Herald reported on an internal memo setting out a $600 million mental health funding need. Locally, Shoalhaven City Council is backing a $60,000 inclusive playground project at North Nowra and Eurobodalla Shire Council is facing a civil claim over alleged historical day care abuse.",
+    "localWatch": "Shoalhaven City Council is inviting community input on the design of a $60,000 sensory playground at Drexel Park in North Nowra, while seven people are suing neighbouring Eurobodalla Shire Council over alleged failures to protect them from abuse in the 1990s. The South Coast Register also carried the state government's new dangerous driving reforms as the road toll rises.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Council ignored warnings amid alleged 1990s daycare abuse, lawsuit claims",
+            "summary": "The ABC reports that seven people are suing a NSW council, alleging it failed to protect them from sexual abuse they suffered as children in the 1990s. The South Coast Register reports the action is against Eurobodalla Shire Council and relates to alleged failures in its family day care program. The allegations are untested and have not been established in court.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-13/eurobodalla-council-alleged-historical-family-day-care-abuse/107250100"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9343444/david-tuck-daycare-eurobodalla-shire-council-sued-over-abuse/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Help shape sensory playground honouring Airlie Montgomery",
+            "summary": "Shoalhaven City Council is asking residents to contribute to the design of a new sensory playground at Drexel Park in North Nowra. The South Coast Register reports the project is backed by a $60,000 grant to create an inclusive space honouring six-year-old Airlie.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Help-shape-sensory-playground-honouring-Airlie-Montgomery"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9367830/shoalhaven-council-backs-60k-drexel-park-sensory-playground/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "The long list of former Coalition MPs seeking new home in One Nation’s crowded NSW ticket",
+            "summary": "The Sydney Morning Herald reports that One Nation has yet to confirm most of its candidates for the coming NSW election, but that potential nominees include a growing number of former Liberal and Nationals MPs along with past candidates.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/the-long-list-of-former-coalition-mps-seeking-new-home-in-one-nation-s-crowded-nsw-ticket-20261014-p614zv.html"
+              }
+            ]
+          },
+          {
+            "headline": "Vikki Campion, News Corp columnist and wife of Barnaby Joyce, begins role with NSW One Nation",
+            "summary": "The Guardian reports that News Corp columnist and media adviser Vikki Campion has confirmed she has started working part-time for the NSW One Nation state executive. Campion married federal One Nation MP Barnaby Joyce in 2023, the Guardian reports.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/13/vikki-campion-news-corp-columnist-and-wife-of-barnaby-joyce-begins-role-with-nsw-one-nation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Revealed: The $600 million needed to fix mental health that was buried",
+            "summary": "The Sydney Morning Herald reports on an internal memo setting out a $600 million funding injection for mental health services. According to the memo quoted by the Herald, the spending \"could require NSW to deliver one of the largest expansions\" of mental health services and infrastructure in recent history.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/revealed-the-600-million-needed-to-fix-mental-health-that-was-buried-20261014-p614q1.html"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government strengthening the law to target dangerous drivers",
+            "summary": "The NSW government says it is introducing reforms intended to make roads safer and hold dangerous drivers to account. The South Coast Register reports the package includes new offences and comes as the state's road toll rises.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-strengthening-law-to-target-dangerous-drivers"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9367229/dangerous-drivers-targeted-as-states-road-toll-lifts/"
+              }
+            ]
+          },
+          {
+            "headline": "Warning as ‘stranded patients’ could take 7000 NSW hospital beds",
+            "summary": "The Daily Telegraph reports a warning that so-called \"stranded patients\" could occupy as many as 7000 hospital beds in NSW. Further detail was not available in the supplied text.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/stranded-aged-care-patients-delay-half-of-nsw-hospital-emergency-admissions/news-story/092a96aef4bd073263e1b155339dcc22"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government delivering more surgeries in Western Sydney",
+            "summary": "The NSW government says a $30 million investment to expand High Volume Short Stay surgical services across the state will improve access to planned surgery for around 3,500 patients in Western Sydney.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/more-surgeries-western-sydney"
+              }
+            ]
+          },
+          {
+            "headline": "NSW prison staff want drone guns to stop contraband drops",
+            "summary": "The ABC reports that the NSW government has confirmed it is procuring counter-drone technology for prisons, following two alleged drug smuggling attempts in a fortnight.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-13/nsw-prisons-seek-counter-drone-technology/107258840"
+              }
+            ]
+          },
+          {
+            "headline": "Funding boost to increase awareness and prevention of CMV",
+            "summary": "The NSW government says it is partnering with the Cerebral Palsy Alliance to raise awareness of congenital cytomegalovirus and give pregnant women information to reduce their risk.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/funding-boost-to-increase-awareness-and-prevention-of-cmv"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "‘They don’t want change’: Call to strip Woollahra, Mosman councils of planning powers",
+            "summary": "The Australian Financial Review reports that developers are urging the Minns government to use \"the stick, not just the carrot\" in pursuing its higher-density housing plans, including by stripping planning powers from Woollahra and Mosman councils.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Australian Financial Review",
+                "url": "https://www.afr.com/politics/developers-push-for-mosman-woollahra-councils-to-have-powers-stripped-20261013-p61483"
+              }
+            ]
+          },
+          {
+            "headline": "Residents oppose 'unacceptable' Belmore Basin plan but council say it should be approved",
+            "summary": "The Illawarra Mercury reports that Wollongong council planning staff have recommended approval of a proposed development at the Boat Harbour Motel site, with nearby residents voicing opposition.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9366455/wollongong-council-staff-back-belmore-basin-apartment-plan/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Minns should legislate to clear up High Court coal mine ruling",
+            "summary": "The Australian Financial Review argues that Premier Chris Minns's confidence in the clarity of the relevant legislation will be tested in the courts, and that amending the law would be a surer way to resolve the uncertainty created by the High Court's coal mine ruling.",
+            "commentator": "The Australian Financial Review",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Australian Financial Review",
+                "url": "https://www.afr.com/policy/energy-and-climate/minns-should-legislate-to-clear-up-high-court-coal-mine-ruling-20261013-p614k6"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
