@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-16",
+  "nStories": 15,
+  "topLine": "A new rail timetable starting 15 November dominates South Coast politics, with outlets reporting more than 200 extra weekly services but longer trips to Sydney and changed airport connections, alongside commuter backlash over station cuts. Statewide, the Sydney Morning Herald reports NSW unemployment has reached 4.7 per cent, its highest since November 2021, while housing policy and a greyhound racing relocation deal keep the government under scrutiny. Kiama Council, meanwhile, faces a byelection bill the Illawarra Mercury reports could exceed $450,000.",
+  "briefing": {
+    "topLine": "A new rail timetable starting 15 November dominates South Coast politics, with outlets reporting more than 200 extra weekly services but longer trips to Sydney and changed airport connections, alongside commuter backlash over station cuts. Statewide, the Sydney Morning Herald reports NSW unemployment has reached 4.7 per cent, its highest since November 2021, while housing policy and a greyhound racing relocation deal keep the government under scrutiny. Kiama Council, meanwhile, faces a byelection bill the Illawarra Mercury reports could exceed $450,000.",
+    "localWatch": "South Coast commuters get more services from 15 November but face longer journeys and changed airport connections, with local outlets reporting frustration over station cuts. Kiama ratepayers face a byelection cost the Illawarra Mercury reports could top $450,000 for a single councillor vacancy.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Overhaul means more South Coast rail services but longer trips",
+            "summary": "The ABC reports South Coast passengers will receive more than 200 additional weekly services from 15 November, but with longer journeys to Sydney and changes to airport connections. The Illawarra Mercury reports trips to Sydney Airport will take between 15 and 30 minutes longer from that date, and that commutes to Sydney will lengthen rather than shorten under the new timetable. The South Coast Register reports services will increase but that cuts at key stations have prompted commuter backlash, with delays hitting afternoon services on the day the changes were announced.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-15/south-coast-train-timetable-services-airport-changes/107266632"
+              },
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9369266/new-illawarra-train-timetable-pushes-out-airport-travel-times/"
+              },
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9368593/sydney-train-trip-getting-longer-not-shorter-with-new-timetable/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9369473/south-coast-line-delays-hit-afteroon-commuters-as-new-timetable-unveiled/"
+              }
+            ]
+          },
+          {
+            "headline": "Ratepayers of cash-strapped council face $450k bill to fill one councillor vacancy",
+            "summary": "The Illawarra Mercury reports Kiama Council is facing a byelection bill that could exceed $450,000 to fill a single councillor vacancy, significantly more than the council had budgeted.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9311794/kiama-council-byelection-cost-could-hit-450000-for-one-seat/"
+              }
+            ]
+          },
+          {
+            "headline": "Supplementary report on PIO documents",
+            "summary": "Kiama Council has published a notice headed \"Supplementary report on PIO documents\". No further detail was available in the supplied text.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Supplementary-report-on-PIO-documents"
+              }
+            ]
+          },
+          {
+            "headline": "Rising costs made them cancel in-home aged care. Three days later, they were in hospital",
+            "summary": "The Illawarra Mercury reports a new Illawarra report has identified what it describes as \"serious implementation failures\" in the Support at Home Program, which began last November.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9176764/support-at-home-reform-failure-leaves-illawarra-elderly-at-risk/"
+              }
+            ]
+          },
+          {
+            "headline": "Council beats DA targets for second year running",
+            "summary": "Shoalhaven City Council says it has beaten its development application targets for a second consecutive year, according to a council news release.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Council-beats-DA-targets-for-second-year-running"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Labor announces election pledge to cut state debt",
+            "summary": "The South Coast Register reports a state Labor government has announced an election commitment to cut public debt by $11 billion over the next decade. The supplied text does not identify which state's government made the pledge.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9369557/labor-announces-election-pledge-to-cut-state-debt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "The three factors driving NSW unemployment to a five-year high",
+            "summary": "The Sydney Morning Herald reports the NSW unemployment rate reached 4.7 per cent last month, the highest level since November 2021, and sets out three factors it identifies as driving the rise.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/business/the-economy/the-three-factors-driving-nsw-unemployment-to-a-five-year-high-20261015-p615vd.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          },
+          {
+            "headline": "Last dash at Wentworth Park triggers fight over Sydney’s future home of greyhound racing",
+            "summary": "The Sydney Morning Herald reports the Wentworth Park greyhound track will hold its final race on Friday, a year earlier than originally expected, under a deal struck with the NSW government, and that the move has prompted a dispute over where Sydney greyhound racing will be based.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/last-dash-at-wentworth-park-triggers-fight-over-sydney-s-future-home-of-greyhound-racing-20261016-p615sa.html"
+              }
+            ]
+          },
+          {
+            "headline": "‘It’s bulls**t’: Premier erupts on housing",
+            "summary": "News.com.au reports the Premier responded forcefully in a debate over housing, arguing that public housing should be built alongside other types of homes. The supplied text does not name the Premier or quote the remarks in full.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "News.com.au",
+                "url": "https://www.news.com.au/finance/real-estate/its-bullst-premier-erupts-on-housing-saying-public-housing-should-be-built-alongside-other-types-of-homes/news-story/2145b189cf8cfa2ee9fba44d7e4e6ad9"
+              }
+            ]
+          },
+          {
+            "headline": "High-rise high school hailed for east amid housing push",
+            "summary": "The Daily Telegraph reports on a proposed high-rise high school in Bondi, with MPs divided over public education provision in Sydney's east as housing growth continues.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/education/regions/new-south-wales/nimby-or-necessary-spotlight-on-new-bondi-high-school-as-mps-clash-on-public-education-in-the-east/news-story/b840dadf1063609e35986f915b05e91e"
+              }
+            ]
+          },
+          {
+            "headline": "MP calls for upgrades on 'patchwork' highway after fatal crash",
+            "summary": "The ABC reports that a fatal crash beside the Mitchell Highway near Wellington in the NSW Central West has prompted calls from a local MP for an urgent upgrade of the road.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-15/fatal-crash-mitchell-highway-near-wellington-nsw/107268792"
+              }
+            ]
+          },
+          {
+            "headline": "Regulator pauses major Mallee centre from taking on new foster children",
+            "summary": "The ABC reports a foster care provider on the Victoria-NSW border has been barred from accepting new referrals to its foster care program, a year after the NSW regulator first required it to improve its operations.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-15/guardian-stops-mallee-family-care-foster-children/107263658"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Country Mayors Association chair calls time on role",
+            "summary": "The Daily Telegraph reports the chair of the Country Mayors Association, Rick Firman, is stepping down from the role after a period the paper links to regional local government reforms.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/dubbo/country-mayors-association-chair-rick-firman-steps-down-after-driving-major-regional-reforms/news-story/c59029807c8ac55c093e5b15640e7a2f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Minns happy to keep toxic Albo far from NSW election campaign",
+            "summary": "In an opinion piece, The Daily Telegraph argues Premier Chris Minns is content to keep Prime Minister Anthony Albanese at a distance from the NSW election campaign. The characterisation is the columnist's view; no further detail was supplied.",
+            "commentator": "The Daily Telegraph (opinion)",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/minns-happy-to-keep-toxic-albo-far-away-from-nsw-election-campaign/news-story/0f93bdad313cc520fe95feec22a64e49"
+              }
+            ]
+          },
+          {
+            "headline": "One Nation’s NSW leader sparks intrigue over his parliamentary escorts",
+            "summary": "The Sydney Morning Herald's CBD column reports One Nation's NSW leader Mike Newman was removed from the chamber on Wednesday, and comments on the attention drawn by those accompanying him in parliament.",
+            "commentator": "CBD column, Sydney Morning Herald",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/cbd/one-nation-s-nsw-leader-sparks-intrigue-over-his-parliamentary-escorts-20261015-p615j6.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Election analyst Ben Raue flags the approaching Victorian state election and a first Tally Room live show as he launches merchandise for the site.",
+        "outlet": "The Tally Room",
+        "url": "https://www.tallyroom.com.au/68754"
+      }
+    ]
+  }
+}
