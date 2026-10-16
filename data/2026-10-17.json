@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-17",
+  "nStories": 19,
+  "topLine": "Labor used the pre-election period to promise a further $11 billion cut to gross debt over the next decade without privatisation, a plan the AFR reports would draw on energy dividends to reduce borrowing costs. One Nation faced scrutiny on two fronts, with the Sydney Morning Herald reporting on its leader's taxpayer-funded expenses in a former trade role and the Guardian reporting on a NSW candidate who manufactures firearms and opposes the post-Bondi gun laws. Locally, the Illawarra Mercury reports hospital access pressures at an \"unprecedented\" level and a new South Coast Line timetable that lengthens airport journeys from mid-November.",
+  "briefing": {
+    "topLine": "Labor used the pre-election period to promise a further $11 billion cut to gross debt over the next decade without privatisation, a plan the AFR reports would draw on energy dividends to reduce borrowing costs. One Nation faced scrutiny on two fronts, with the Sydney Morning Herald reporting on its leader's taxpayer-funded expenses in a former trade role and the Guardian reporting on a NSW candidate who manufactures firearms and opposes the post-Bondi gun laws. Locally, the Illawarra Mercury reports hospital access pressures at an \"unprecedented\" level and a new South Coast Line timetable that lengthens airport journeys from mid-November.",
+    "localWatch": "Two service questions dominate the region: the Illawarra Mercury reports more than 130 people stranded in the local hospital system, and a South Coast Line timetable change from 15 November that it says adds 15 to 30 minutes to Sydney Airport trips. Kiama Council has welcomed the shelving of proposed funding changes and set out a new four-pillar advocacy plan, while Shoalhaven's tourist paid-parking proposal has drawn community pushback.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Illawarra hospital crisis hits 'unprecedented' level with more than 130 people stranded",
+            "summary": "The Illawarra Mercury reports that pressure on the region's hospitals has reached what it describes as an unprecedented level, with more than 130 people stranded in the system.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDRKWEpGQk5IYXhieHdiajVWcXlRb0sxLTdheElyNHBHeDVVRTlKWEYyZF9UZDBERWtPMFBfWDVweVhxRXZ5Wm1IX0trRXdOR2JndC10d0t6M0l2M0F0dzFYY1dZbHBSdE90NTNub3JQZ2doeFNPVkdDR21PR3FEd2tXdXkxdzdSczBJTWZmNWZ3NTQwZjVUWVE5LU1ISC01SWtZOWx5MUZEUQ?oc=5"
+              }
+            ]
+          },
+          {
+            "headline": "Travel to airport will take how much longer? Reality of new train timetable revealed",
+            "summary": "A new South Coast Line timetable starting 15 November will add between 15 and 30 minutes to trips to Sydney Airport, according to the Illawarra Mercury, which reports residents have voiced frustration at the changes.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9369266/new-illawarra-train-timetable-pushes-out-airport-travel-times/"
+              }
+            ]
+          },
+          {
+            "headline": "Council welcomes decision to call off proposed funding changes",
+            "summary": "Kiama Council has published a statement welcoming a decision to abandon proposed funding changes. No further detail was supplied beyond the council's announcement.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Council-welcomes-decision-to-call-off-proposed-funding-changes"
+              }
+            ]
+          },
+          {
+            "headline": "Mayor’s update: The four pillars of Kiama’s new advocacy plan",
+            "summary": "In a mayoral update, Kiama Council sets out four pillars underpinning its new advocacy plan. The supplied text does not detail what each pillar covers.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Mayor%E2%80%99s-update-The-four-pillars-of-Kiama%E2%80%99s-new-advocacy-plan"
+              }
+            ]
+          },
+          {
+            "headline": "‘Load of sh-t’: Community slams tourist paid parking push",
+            "summary": "The Daily Telegraph reports that a proposal for tourist paid parking in the Shoalhaven has been criticised by local residents.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/thesouthcoastnews/shoalhaven-tourist-parking-fee-plan-slammed-by-locals/news-story/4e589dee047d6da10fdb629e8060ac2f"
+              }
+            ]
+          },
+          {
+            "headline": "Where will it land? Battle brewing over return of Nowra's iconic landmark",
+            "summary": "Plans to install a replacement Seahawk replica in Nowra have stalled, the South Coast Register reports, with MP Fiona Phillips and Shoalhaven City Council at odds over where it should go.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9369683/nowra-chopper-on-a-stick-delayed-by-fierce-site-battle/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Labor’s plan to cut $11 billion of debt without privatisation",
+            "summary": "The NSW Government says a re-elected Minns Labor Government would cut gross debt by a further $11 billion over the next decade while keeping NSW what it calls Australia's most fiscally responsible state, and without privatisation. The Australian Financial Review reports the plan would use energy dividends to reduce borrowing costs.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/debt-reduction-plan-to-cut-11-million"
+              },
+              {
+                "outlet": "AFR",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1RJakxnUGItN0tJdjlkdmZsZHRxVnkzemoyZjRNODIzZ2F3bFQxN2w0NGwwX3NkUUJ3ZUYta2FlSWNqMmVzaXd2YkRIYk9MVVV6U2hKbWJOMmk0em90cUJEX2R6NDdnb0hTVTl3Z3JtQkJtamtneWxEN1M0RTFHUDR2TUdBSGx4VzRJQmF6dmVEczFONVlvVTc5bGFGTjZIV3FScVBDYnRpYUdUQ2U4?oc=5"
+              }
+            ]
+          },
+          {
+            "headline": "Firearms manufacturer standing for One Nation in NSW opposes post-Bondi gun laws that ban his rifles",
+            "summary": "The Guardian reports that Jeff Bacon, managing director of Oceania Precision and a One Nation candidate in NSW, opposes the post-Bondi firearms laws that ban rifles he makes. The paper reports the NSW party leader has described him as the party's go-to person on the firearms industry.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/16/weapons-manufacturer-jeff-bacon-one-nation-opposes-bondi-gun-laws-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Revealed: One Nation leader’s seven-month Sydney hotel stay that cost taxpayers $20,000",
+            "summary": "The Sydney Morning Herald reports that One Nation leader Mike Newman accrued $211,000 in taxpayer-funded flights, five-star hotels and restaurant and bar costs across 28 months while serving as a senior trade commissioner to Japan, including a seven-month Sydney hotel stay the paper puts at about $20,000.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/revealed-one-nation-leader-s-seven-month-sydney-hotel-stay-that-cost-taxpayers-20-000-20261017-p615r0.html"
+              }
+            ]
+          },
+          {
+            "headline": "Students see red: protest breaks out at Pauline Hanson's Toronto fundraiser",
+            "summary": "The Newcastle Herald reports that young activists protested outside a One Nation fundraiser in the Hunter attended by Pauline Hanson, objecting to what they called the party's \"racist, denialist\" ideology and calling for venues to refuse bookings.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9339490/pauline-hanson-youth-rising-protests-one-nation-in-hunter-region/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Reforms pass Parliament, paving the way for a stronger firefighting fleet",
+            "summary": "The NSW Government says legislation modernising the management of more than 6,000 Rural Fire Service firefighting and support vehicles has passed Parliament, which it says will make the fleet more reliable.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/firefighting-vehicle-reforms-pass-parliament"
+              }
+            ]
+          },
+          {
+            "headline": "$2m payday for home battery owners as heatwave catches grid off guard",
+            "summary": "The ABC reports that unseasonal heat, coal outages and transmission constraints pushed NSW power prices sharply higher this week, and that home battery owners earned about $2 million as a result.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-17/home-batteries-make-money-in-nsw-power-price-spike/107260880"
+              }
+            ]
+          },
+          {
+            "headline": "'Crying in the dark': bereaved begging for reform",
+            "summary": "Families of people who are missing and presumed dead have given evidence to a public inquiry about what they allege were failures by police investigators, the South Coast Register reports. The allegations have not been tested.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9369569/crying-in-the-dark-bereaved-begging-for-reform/"
+              }
+            ]
+          },
+          {
+            "headline": "Wentworth Park’s next chapter: more sporting fields and open space for the community",
+            "summary": "The NSW Government says it is proceeding with plans to convert the former greyhound racing site at Wentworth Park into community sporting fields and public open space within an expanded 14-hectare parkland.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/wentworth-parks-next-chapter-more-sporting-fields-and-open-space-for-community"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Liberal Party settles class action over nominations fiasco",
+            "summary": "The Australian reports that the NSW Liberal Party has agreed to settle a class action arising from the council election nominations failure.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/new-south-wales/nsw-liberals-agree-to-settle-class-action-over-council-election-fiasco/news-story/6c81160ea16b328831af3ca6b6ef7635"
+              }
+            ]
+          },
+          {
+            "headline": "Council suspended after GM sacked in wake of mayoral vote hat-draw blunder",
+            "summary": "The ABC reports that a northern NSW council has been suspended for three months following a tied mayoral vote decided by a draw from a hat in which the wrong candidate was declared mayor, and the subsequent sacking of its general manager.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-16/clarence-valley-council-suspended-mayoral-hat-draw-blunder/107237998"
+              }
+            ]
+          },
+          {
+            "headline": "Brethren member says he encouraged Liberal campaigning",
+            "summary": "The son of the Plymouth Brethren's global leader has told an inquiry into election campaigning that he encouraged others to picket for the Liberal Party, the South Coast Register reports. A second report says the probe has been likened to the Spanish Inquisition.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9369563/brethren-member-says-he-encouraged-liberal-campaigning/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9369563/church-election-probe-compared-to-spanish-inquisition/"
+              }
+            ]
+          },
+          {
+            "headline": "Councillor told woman it was a 'pity' she wasn't bashed, investigator finds",
+            "summary": "An investigator has found that a Kempsey Shire councillor told a woman it was a \"pity\" she had not been assaulted by an alleged domestic violence offender, the ABC reports. The ABC reports the councillor maintains his social media account was hacked, and that there are calls for him to resign.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-16/kempsey-councillor-investigation-calls-for-noel-selby-resign/107230716"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Chase on in states’ ‘debt race to the bottom’",
+            "summary": "The Australian argues the states are chasing Victoria in what it calls a debt race to the bottom, a framing that lands the same day NSW Labor announced its own debt reduction pledge. Only the headline was supplied.",
+            "commentator": "The Australian",
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/states-chase-victoria-in-debt-race-to-the-bottom/news-story/4ba4a236f8545ad71b369d601ba89bed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Ben Raue has updated his Victorian state election candidate lists and asks whether the field will be bigger than 2022 — a useful benchmark for tracking NSW nominations in 2027.",
+        "outlet": "The Tally Room",
+        "url": "https://www.tallyroom.com.au/68792"
+      }
+    ]
+  }
+}
