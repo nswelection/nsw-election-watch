@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-18",
+  "nStories": 4,
+  "topLine": "A quiet day in NSW politics with no developments directly involving Kiama or the South Coast. The main state items are a Herald report on worsening delays on Sydney's Eastern Suburbs rail line, a Daily Telegraph report on changes to community preschool funding under the Minns government, and the conclusion of the Independent Planning Commission hearing into the proposed Bowdens silver mine in the central west.",
+  "briefing": {
+    "topLine": "A quiet day in NSW politics with no developments directly involving Kiama or the South Coast. The main state items are a Herald report on worsening delays on Sydney's Eastern Suburbs rail line, a Daily Telegraph report on changes to community preschool funding under the Minns government, and the conclusion of the Independent Planning Commission hearing into the proposed Bowdens silver mine in the central west.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": []
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Commuter delays on Eastern Suburbs rail line surge 425 per cent",
+            "summary": "The Sydney Morning Herald reports that passengers on Sydney's Eastern Suburbs rail line are facing worsening delays, with the paper attributing this to the city's oldest train fleet breaking down at twice the rate recorded four years ago.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/commuter-delays-on-eastern-suburbs-rail-line-surge-425-per-cent-20261018-p61587.html"
+              }
+            ]
+          },
+          {
+            "headline": "NSW community preschools handed extra cash for more kids",
+            "summary": "The Daily Telegraph reports that community preschools in NSW will receive additional funding to take on more children, as part of an overhaul of community childcare funding by the Minns government. No further detail was available in the supplied text.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-preschool-reforms-2026-minns-government-to-overhaul-community-childcare-funding/news-story/071c8be8d68d34ec873e1b2a9fe35ef7"
+              }
+            ]
+          },
+          {
+            "headline": "Mine owner convinced tiny town's lead poisoning concerns are unfounded",
+            "summary": "The ABC reports that the Independent Planning Commission hearing into the proposed Bowdens silver and lead mine in the NSW central west has concluded. Dozens of residents spoke against the project, while the proponents say it would benefit the regional economy and, according to the report, reject concerns raised about lead poisoning.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-17/ipc-hearing-on-bowdens-silver-mine-concludes/107274218"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Commissioner throws cold water on disinformation fears",
+            "summary": "The South Coast Register reports comments from a state electoral commissioner who argues the best protection against online disinformation is teaching voters to tell truth from falsehood. The supplied excerpt is truncated and does not identify the commissioner or jurisdiction.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9370184/commissioner-throws-cold-water-on-disinformation-fears/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": []
+  }
+}
