@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-19",
+  "nStories": 4,
+  "topLine": "A quiet day for NSW state politics, with no new election, preselection or polling developments in the supplied coverage. The main NSW items are a Sydney Morning Herald report on emergency department presentations linked to unregulated peptides, and new research reported by the Guardian on how close destroyed homes were to vegetation in the Black Summer bushfires. National and interstate material dominates the rest of the day, including Antony Green's latest Victorian election analysis.",
+  "briefing": {
+    "topLine": "A quiet day for NSW state politics, with no new election, preselection or polling developments in the supplied coverage. The main NSW items are a Sydney Morning Herald report on emergency department presentations linked to unregulated peptides, and new research reported by the Guardian on how close destroyed homes were to vegetation in the Black Summer bushfires. National and interstate material dominates the rest of the day, including Antony Green's latest Victorian election analysis.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": []
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
+            "summary": "The Guardian reports exclusively on research finding that most NSW homes destroyed in the Black Summer bushfires were within 100 metres of vegetation. According to the report, the findings confirm official advice about high-risk properties and warn that worsening conditions will leave more homes unsafe.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone"
+              }
+            ]
+          },
+          {
+            "headline": "‘Russian roulette’: NSW emergency department visits surge amid dangerous peptide fad",
+            "summary": "The Sydney Morning Herald reports that sales of unregulated peptides are booming and that growing numbers of Sydneysiders are presenting to emergency departments with severe side-effects.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/russian-roulette-nsw-emergency-department-visits-surge-amid-dangerous-peptide-fad-20261019-p6167k.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "The Wollongong motel that will be knocked down for new apartments",
+            "summary": "Wollongong council planning staff have recommended approval of a proposed development on the Boat Harbour Motel site, the Illawarra Mercury reports, with nearby residents opposing the plan.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9366455/wollongong-council-staff-back-belmore-basin-apartment-plan/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Polls track voter thoughts – but miss how they feel",
+            "commentator": "Hildebrand (Daily Telegraph opinion)",
+            "summary": "In a Daily Telegraph opinion piece, the columnist argues that polling measures what voters think but not how they feel. The article is behind a paywall and no further text was available.",
+            "tags": [
+              "OPINION",
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/hildebrand-chris-minns-and-peter-malinauskas-prove-political-gut-instinct-beats-polling-data/news-story/8576fe5359e1d7251037b3b27bd02512"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Antony Green maps One Nation's 2025 federal result across Victoria with six weeks until the state election, asking which parties it draws votes from and how its preferences might flow.",
+        "outlet": "Antony Green's Election Blog",
+        "url": "https://antonygreen.com.au/vic2026-mapping-one-nations-2025-federal-result/"
+      },
+      {
+        "text": "AAP reports a think tank arguing that ballooning debt should force a rethink of the GST, while contending the neediest families would still be better off.",
+        "outlet": "AAP",
+        "url": "https://aapnews.aap.com.au/news/no-easy-paths-why-calls-grow-for-a-gst-hike"
+      },
+      {
+        "text": "AAP reports a state government election pledge to cap public transport fares, which it says could save commuters close to half their usual travel costs; the supplied text does not identify the state.",
+        "outlet": "AAP",
+        "url": "https://aapnews.aap.com.au/news/public-transport-fares-capped-in-election-promise"
+      }
+    ]
+  }
+}
