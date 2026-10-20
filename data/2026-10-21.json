@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-21",
+  "nStories": 22,
+  "topLine": "The attack on federal independent MP Helen Haines outside her Wangaratta electorate office dominated political coverage, with a man charged, the MP reported to be in a critical condition, and governments moving to tighten MP security — prompting Illawarra MPs to review their own safety arrangements. In NSW, the Coalition's pre-election preselection contests sharpened as the Herald reported a looming challenge to Damien Tudehope, while Kellyville MP Ray Williams, whose speech triggered an ICAC investigation into his own party, announced he is quitting. The Minns government confirmed Teralba as the preferred site for a new state-owned train manufacturing facility, and faced criticism from a retired judge over plans to legislate for a Hunter Valley coalmine.",
+  "briefing": {
+    "topLine": "The attack on federal independent MP Helen Haines outside her Wangaratta electorate office dominated political coverage, with a man charged, the MP reported to be in a critical condition, and governments moving to tighten MP security — prompting Illawarra MPs to review their own safety arrangements. In NSW, the Coalition's pre-election preselection contests sharpened as the Herald reported a looming challenge to Damien Tudehope, while Kellyville MP Ray Williams, whose speech triggered an ICAC investigation into his own party, announced he is quitting. The Minns government confirmed Teralba as the preferred site for a new state-owned train manufacturing facility, and faced criticism from a retired judge over plans to legislate for a Hunter Valley coalmine.",
+    "localWatch": "Kiama Council is weighing a rate rise and options including paid parking as it grapples with a reported $38 million deficit, and the Illawarra Shoalhaven health district's chief executive is moving to a statewide role focused on aged care and NDIS patients stuck in NSW hospitals. Illawarra MPs are also reassessing office security after the attack on Helen Haines.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "A one-year rate hike is not enough to help Kiama's budget",
+            "summary": "The Illawarra Mercury reports Kiama Council is considering a 20 per cent rate increase as it confronts a $38 million deficit, and that a single year of higher rates would not be sufficient on its own. The council is also examining other revenue options, including paid parking.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9370844/kiama-council-considers-20pc-rate-hike-to-fix-38m-deficit/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Illawarra health boss steps down to fight statewide hospital aged care crisis",
+            "summary": "Margot Mains, chief executive of the Illawarra Shoalhaven health district, is stepping down to take up a new role, according to the Illawarra Mercury. The Mercury reports the position is aimed at addressing some 1350 aged care and NDIS patients who remain stranded in NSW hospitals.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9306177/illawarra-health-boss-takes-new-role-to-tackle-aged-care-crisis/"
+              }
+            ]
+          },
+          {
+            "headline": "'We don't want this': Shellharbour residents plot next move on controversial rezoning",
+            "summary": "Residents opposed to a rezoning proposal at Shellharbour are organising their response, the Illawarra Mercury reports, with the article referring to plans for a 20-storey tower. One resident is quoted saying they are seeking \"community input on how to fight against it\".",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9371257/shellharbour-rezoning-locals-fight-20-storey-tower-plans/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Threats, fake blood, a body bag and fear: The personal toll on regional MPs",
+            "summary": "The Illawarra Mercury reports that Illawarra MPs are reviewing their security arrangements following the attack on independent MP Helen Haines, and describes threats and intimidation experienced by regional members and their families.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9371640/attack-on-helen-haines-illawarra-mps-and-their-families-nervous/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "State election: Liberal elder Damien Tudehope faces preselection challenge as MPs scramble for spots",
+            "summary": "The Sydney Morning Herald reports that former Perrottet-era minister Damien Tudehope faces an increasingly likely preselection challenge from the Liberal Party's right, despite having been returned to Kellie Sloane's shadow ministry. The paper frames it as part of a wider scramble for positions ahead of the state election.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/liberal-elder-damien-tudehope-faces-preselection-challenge-as-mps-scramble-for-spots-20261021-p616si.html"
+              }
+            ]
+          },
+          {
+            "headline": "‘I’d do it all again’: The Liberal MP who sparked an ICAC investigation into his own party resigns",
+            "summary": "Kellyville MP Ray Williams is resigning and says he has no regrets about the parliamentary speech that led the Independent Commission Against Corruption to investigate his own party, according to the Sydney Morning Herald. The Herald reports the speech ran to 690 words.",
+            "tags": [
+              "INTEGRITY",
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/i-d-do-it-all-again-the-liberal-mp-who-sparked-an-icac-investigation-into-his-own-party-resigns-20261020-p6178a.html"
+              }
+            ]
+          },
+          {
+            "headline": "‘Landmark’ gun inquiry looms before state election",
+            "summary": "The Daily Telegraph reports that a parliamentary inquiry it describes as \"landmark\", concerning firearms, is set to proceed before the state election. Only the headline was available for this item.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/wagga/shooters-mp-demands-chris-minns-halt-gun-buyback-after-securing-parliamentary-inquiry/news-story/0fc59e29a14ac87e301148962a817775"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Federal MP loses leg, fighting for life after attack",
+            "summary": "A 43-year-old man has been charged with multiple offences over what is alleged to have been a targeted, life-threatening attack on independent Indi MP Helen Haines outside her Wangaratta electorate office, according to reports in the South Coast Register and Crikey. Haines is reported to have lost a leg and to remain in a critical condition after emergency surgery, with colleagues across the parliament expressing support. Crikey reports Prime Minister Anthony Albanese said the incident appeared to be \"a deliberate act\", and the South Coast Register reports moves are under way to strengthen security for MPs.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9371507/federal-mp-loses-leg-fighting-for-life-after-attack/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9371565/indi-mp-helen-haines-struck-by-car-in-regional-victoria/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9371653/timeline-to-tragedy-stricken-mp-fights-for-her-life/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9372053/best-possible-person-love-praise-for-stricken-mp/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9371588/worst-possible-thing-leaders-shaken-by-attack-on-mp/"
+              },
+              {
+                "outlet": "Crikey",
+                "url": "https://www.crikey.com.au/2026/10/20/helen-haines-critically-injured-car-wangaratta-victoria-anthony-albanese-donald-trump/"
+              }
+            ]
+          },
+          {
+            "headline": "Retired judge lashes NSW decision to rewrite laws to support coalmine",
+            "summary": "The ABC reports that a former Supreme Court judge has criticised a NSW government plan to draft special legislation for a Hunter Valley coalmine, saying it \"obliterates\" the legal process and should be independently reviewed. The mine is at the centre of a climate court battle, according to the ABC.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-21/probe-into-nsw-coalmine-at-the-centre-of-climate-court-battle/107268146"
+              }
+            ]
+          },
+          {
+            "headline": "Teralba identified as preferred Hunter site to build NSW’s next train fleet",
+            "summary": "The NSW government has confirmed the former mine site at Teralba as its preferred location for a new state-owned facility to build the next generation of NSW passenger trains. The ABC reports the former coalmine site sits at the centre of a $12 billion train-building plan, while the Newcastle Herald reports the local mayor has welcomed the project as a source of long-term jobs and a possible catalyst for wider change in Teralba.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/teralba-identified-as-preferred-hunter-site-to-build-nsws-next-train-fleet"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmZGMDM4RzBJVTZVZVR3b0U3aGpPTmNUN1dELXUzS0NjcUpjM0VuQWdSaHIwSG1ScUltOU9BX3hNUnRObXhlU0Eyb29aZmVYNWlLd01ZZnpJSTd0Q2Q1OWdaQlZDWnNDd1g4RUljcjB3V1hXcE05eWplYjZPcUJMS3N1QkVoRWs4dHBtOFBZTF8zVEEzdmptb1h3MUR0T0FJei1leA?oc=5"
+              },
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9371707/generations-of-employment-mayor-lauds-train-hub-as-fast-track-to-jobs/"
+              }
+            ]
+          },
+          {
+            "headline": "Inquiry urges halt to plan to burn Sydney's waste in regional towns",
+            "summary": "A NSW parliamentary inquiry into energy-from-waste facilities has recommended a moratorium on the technology and urged the state government to reject two proposals currently before the planning department, the ABC reports.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-20/inquiry-recommends-moratorium-on-proposed-incinerators/107287646"
+              }
+            ]
+          },
+          {
+            "headline": "New scheme to better protect workers from abuse, violence",
+            "summary": "The Minns government says it is introducing legislation that would allow threatening, abusive or violent customers to be banned from businesses, as part of a scheme to protect NSW workers.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/new-scheme-to-better-protect-workers-from-abuse-violence"
+              }
+            ]
+          },
+          {
+            "headline": "Strike cancelled after doctors reach last-minute deal",
+            "summary": "The South Coast Register carries a report that a temporary agreement between doctors and a state government has averted planned industrial action by health workers. The supplied text does not identify the state involved.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9372183/strike-cancelled-after-doctors-reach-last-minute-deal/"
+              }
+            ]
+          },
+          {
+            "headline": "'Better off at Woolies': pay squeeze puts community sector workers at risk",
+            "summary": "The Newcastle Herald reports the Australian Services Union is pursuing a 35 per cent pay rise for community sector workers, with the article citing that one in four such workers intends to leave the sector within a year.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9371898/hunter-community-workers-rally-for-35-per-cent-pay-increase/"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Government releases twenty-year blueprint for transport in the Riverina Murray",
+            "summary": "The government has released a 20-year transport plan for the Riverina Murray region setting out more than 50 initiatives covering road safety, public transport and freight connections.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-government-releases-twenty-year-blueprint-for-transport-riverina-murray"
+              }
+            ]
+          },
+          {
+            "headline": "Inner West gets 190 new bus trips to complement Southwest Metro",
+            "summary": "The government says Inner West communities will receive 190 extra weekly bus trips, with more frequent services and longer operating hours, to connect with the Southwest Metro.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/inner-west-gets-190-new-bus-trips-to-complement-southwest-metro"
+              }
+            ]
+          },
+          {
+            "headline": "Global and local design leaders shortlisted to shape the future of Bays West",
+            "summary": "The NSW government has announced a shortlist of Australian and international design teams for the Bays West urban renewal project. Only the headline was available for this item.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjdsVUdQZWstUmdJWDZCZzV1ZTJWdlFjb1ZmVDZ5QUNabWs0YmV5TnpDb3ZESFFxWmk4cUlMZ2NKck1tREE2ejFFUlI4Vkl2NmRqMlQ1ZU53MkFROFd2dkhfYm5faTFYR0plUUNnZGUxYm9SUFlFTVhRNmtqTU9RLUFlSUxxTHdPWlYtOHJlVVU4UUVmSWhaaUdXTklvZmFpQmtFMHBUbDlhTVE1SlRJV0pwNmpsbzA?oc=5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Council services continue under Interim Administrator, John Rayner PSM",
+            "summary": "Clarence Valley Council says John Rayner PSM has begun a three-month term as its interim administrator, following his appointment by NSW Local Government Minister Ron Hoenig, with council services continuing in the meantime.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Clarence Valley Council",
+                "url": "https://www.clarence.nsw.gov.au/News-articles/Council-services-continue-under-Interim-Administrator-John-Rayner-PSM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "A principled politician falls victim to the new political violence",
+            "summary": "The Sydney Morning Herald argues the attack on independent MP Helen Haines represents a dark shift in Australian public life.",
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/federal/a-principled-politician-falls-victim-to-the-new-political-violence-20261020-p616z9.html"
+              }
+            ]
+          },
+          {
+            "headline": "The sinister meme that appeared just hours before the attack on Helen Haines",
+            "summary": "The Sydney Morning Herald writes that it is too early to know whether Haines' gender played any part in the attack, but says the possibility is live because women politicians face a distinctly sexualised and personal kind of abuse.",
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/federal/the-sinister-meme-that-appeared-just-hours-before-the-attack-on-helen-haines-20261020-p61717.html"
+              }
+            ]
+          },
+          {
+            "headline": "The questions we must ask ourselves in wake of this horrific Haines attack",
+            "commentator": "Jenna Price (columnist)",
+            "summary": "Writing after the attack on Indi MP Helen Haines, Jenna Price examines how online outrage can translate into real-world violence, noting the column's reference to threats handled by the AFP running at about 1000 a year.",
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9371527/jenna-price-helen-haines-attack-why-toxic-political-rage-turns-violent/"
+              }
+            ]
+          },
+          {
+            "headline": "NSW said ‘no’ to the Voice, so why is Minns trying to sneak in a treaty?",
+            "summary": "A Daily Telegraph opinion piece questions the Minns government's pursuit of a treaty process in light of the NSW vote against the Voice referendum. Only the headline was available for this item.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/nsw-said-no-to-the-voice-so-why-is-minns-trying-to-sneak-in-a-treaty/news-story/7d88cb20b07015b3c1a063609e4bea1d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "A territory child protection department will undergo what is described as a \"system-wide reset\" after a review prompted by an alleged outback case — a reminder of how quickly service failures can force structural reform.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9371852/unforgivable-mistakes-trigger-child-protection-reform/"
+      }
+    ]
+  }
+}
