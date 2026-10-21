@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-22",
+  "nStories": 15,
+  "topLine": "Coal dominated NSW politics today: the Sydney Morning Herald reports Premier Chris Minns held a fundraiser five days before a mine expansion approval, while the Guardian reports barrister Geoffrey Watson and other legal experts have attacked the government's move on a Hunter Valley coalmine as contrary to the separation of powers. The government also launched its Future Jobs and Investment Authority for coal-producing regions and passed Australia-first 'human composting' laws. Locally, Kiama Municipal Council says it will consult residents before settling how it resolves its finances under the state's Performance Improvement Order.",
+  "briefing": {
+    "topLine": "Coal dominated NSW politics today: the Sydney Morning Herald reports Premier Chris Minns held a fundraiser five days before a mine expansion approval, while the Guardian reports barrister Geoffrey Watson and other legal experts have attacked the government's move on a Hunter Valley coalmine as contrary to the separation of powers. The government also launched its Future Jobs and Investment Authority for coal-producing regions and passed Australia-first 'human composting' laws. Locally, Kiama Municipal Council says it will consult residents before settling how it resolves its finances under the state's Performance Improvement Order.",
+    "localWatch": "Kiama ratepayers get a say before council finalises its response to the NSW Government's Performance Improvement Order, and Shoalhaven Mayor Patricia White has spoken publicly about threats and intimidation directed at female local leaders. Motorists face seven weeks of night works on the Princes Highway at Ulladulla from 25 October.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Council to consult community before deciding financial plan",
+            "summary": "Kiama Municipal Council says it will seek community feedback before finalising how it resolves its financial situation, as required under the NSW Government's Performance Improvement Order.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Council-to-consult-community-before-deciding-financial-plan"
+              }
+            ]
+          },
+          {
+            "headline": "Stalked, threatened and abused: the personal toll on our female leaders",
+            "summary": "The Milton Ulladulla Times reports Shoalhaven Mayor Patricia White has detailed threats made against her and vandalism at her driveway, in a report on how female leaders in the region are responding to escalating abuse.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Milton Ulladulla Times",
+                "url": "https://www.ulladullatimes.com.au/story/9373013/shoalhavens-female-politicians-reveal-intimidation-and-threats/"
+              }
+            ]
+          },
+          {
+            "headline": "Public urged to join fight to save army barracks",
+            "summary": "The Milton Ulladulla Times reports personnel at a historic army base are due to be relocated by the end of the year, and that the public is being urged to join the campaign to save the barracks.",
+            "links": [
+              {
+                "outlet": "Milton Ulladulla Times",
+                "url": "https://www.ulladullatimes.com.au/story/9372726/public-urged-to-join-fight-to-save-army-barracks/"
+              }
+            ]
+          },
+          {
+            "headline": "'Plan ahead': Highway closures and parking changes set to hit central Ulladulla",
+            "summary": "The Milton Ulladulla Times reports the Princes Highway at Ulladulla faces night closures and 40km/h limits from 25 October, with safety works scheduled to run for seven weeks.",
+            "links": [
+              {
+                "outlet": "Milton Ulladulla Times",
+                "url": "https://www.ulladullatimes.com.au/story/9372636/ulladulla-princes-highway-road-closures-set-for-safety-works/"
+              }
+            ]
+          },
+          {
+            "headline": "'Merge earlier': a 'simple' change to relieve M1 Motorway congestion at busy on-ramp",
+            "summary": "The Illawarra Mercury reports Transport for NSW is raising the speed limit on the Figtree M1 on-ramp to 100km/h, with new line markings, in a bid to ease congestion.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9372347/m1-princes-motorway-figtree-on-ramp-gets-100kmh-speed-limit/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Gagging, co-ordinated attacks: reality for female MPs",
+            "summary": "The South Coast Register reports a political candidate who says she was targeted with offensive imagery, slurs and a co-ordinated letterbox drop is speaking out about the treatment of female MPs and candidates.",
+            "tags": [
+              "CANDIDATES",
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9372298/gagging-co-ordinated-attacks-reality-for-female-mps/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Coal-producing regions to lead the way under NSW Government’s new Future Jobs and Investment Authority",
+            "summary": "The Minns Government says it has established the Future Jobs Investment Authority, which it describes as delivering on an election commitment to give certainty to workers and communities in coal-producing regions.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/future-jobs-and-investment-fund-for-coal-producing-regions"
+              }
+            ]
+          },
+          {
+            "headline": "‘Human composting’ laws pass parliament in Australian first",
+            "summary": "The Sydney Morning Herald reports NSW parliament has passed laws legalising terramation, in what it describes as an Australian first, with several MPs saying they would want their own bodies turned into soil after death.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/human-composting-laws-pass-parliament-in-australian-first-20261021-p617jp.html"
+              }
+            ]
+          },
+          {
+            "headline": "Nearly 300 GPs trained to safely diagnose and treat ADHD",
+            "summary": "The NSW Government says almost 300 GPs across the state have finished training to diagnose and treat ADHD under reforms it says will make the care more accessible and potentially save families money.",
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/nearly-300-gps-trained-to-safely-diagnose-and-treat-adhd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "‘Disgraceful’: Geoffrey Watson accuses Minns government of overturning high court ruling on coalmine",
+            "summary": "The Guardian reports barrister Geoffrey Watson has used the word \"disgraceful\" in accusing the Minns government of overturning a High Court ruling in relation to a Hunter Valley coalmine. The report says leading legal experts consider the government's bid to allow the expansion contrary to the separation of powers.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/21/disgraceful-geoffrey-watson-accuses-minns-government-of-overturning-high-court-ruling-on-coalmine"
+              }
+            ]
+          },
+          {
+            "headline": "Media sent emails from ALP boss urging ministers to apply for grants",
+            "summary": "The Daily Telegraph reports it has been sent emails from an ALP official urging ministers to apply for grants. No further detail was available in the supplied text.",
+            "tags": [
+              "INTEGRITY",
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/sussex-street-official-urged-premiers-office-to-chase-federal-cash-for-swing-electorate-in-leaked-emails/news-story/4d6ae26b7a9281e7bf950c52f76dc9ea"
+              }
+            ]
+          },
+          {
+            "headline": "A city for 5am cafe-goers and after-dark night owls: how CBD could change under this new plan",
+            "summary": "The Illawarra Mercury reports Wollongong City Council is considering establishing a Special Entertainment Precinct in the city centre.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9372445/wollongong-city-council-plans-entertainment-precinct-trial/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Five days before approving mine expansion, Minns held an intimate fundraiser",
+            "commentator": "Sydney Morning Herald (no author supplied)",
+            "summary": "The Herald reports Premier Chris Minns held a small fundraiser five days before a mine expansion was approved, and argues NSW governments have for years seen value in an independent assessment framework for major mining projects so that such decisions sit outside politicians' hands.",
+            "tags": [
+              "OPINION",
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/five-days-before-approving-mine-expansion-minns-held-an-intimate-fundraiser-20261022-p6178q.html"
+              }
+            ]
+          },
+          {
+            "headline": "‘Coal hard truth’ – Governments need to face reality",
+            "commentator": "Michael McLaren (2GB)",
+            "summary": "2GB's Michael McLaren argues governments should confront what he calls the \"coal-hard truth\" about coal's importance, and urges the Minns government to rethink its emphasis on Scope 3 emissions, saying Australia should stay practical about its energy position.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "2GB",
+                "url": "https://www.2gb.com/coal-hard-truth-governments-need-to-face-reality/"
+              }
+            ]
+          },
+          {
+            "headline": "We had a rule when I was an editor. It's out the window now in the era of outrage",
+            "commentator": "South Coast Register (no author supplied)",
+            "summary": "Writing in the South Coast Register, a former editor reflects on the assault at independent MP Helen Haines's Wangaratta office and argues social media algorithms and outrage are fuelling political hostility.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9371811/helen-haines-office-attack-how-social-media-drives-violence/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Crikey reports a 43-year-old man has been charged after independent federal MP Helen Haines was hit by a car outside her electorate office, with a court appearance listed.",
+        "outlet": "Crikey",
+        "url": "https://www.crikey.com.au/2026/10/21/man-charged-alleged-attack-helen-haines-wangaratta-anthony-albanese-donald-trump-zelenskyy-nab/"
+      }
+    ]
+  }
+}
