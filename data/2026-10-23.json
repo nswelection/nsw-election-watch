@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-23",
+  "nStories": 16,
+  "topLine": "MP safety has become a campaign-season issue, with the AFR reporting emergency briefings and \"buddy systems\" for doorknocking imposed on MPs in NSW and Victoria ahead of their state elections. On the campaign front, the government extended Parliamentary Budget Office costings access to One Nation for the March 2027 election, while the Daily Telegraph reports Badgerys Creek MP Tanya Davies will not recontest. In parliament and policy, plastics reforms and Australian-first \"human compost\" laws passed, and the final stage of Sydney's M1 metro line has an opening date.",
+  "briefing": {
+    "topLine": "MP safety has become a campaign-season issue, with the AFR reporting emergency briefings and \"buddy systems\" for doorknocking imposed on MPs in NSW and Victoria ahead of their state elections. On the campaign front, the government extended Parliamentary Budget Office costings access to One Nation for the March 2027 election, while the Daily Telegraph reports Badgerys Creek MP Tanya Davies will not recontest. In parliament and policy, plastics reforms and Australian-first \"human compost\" laws passed, and the final stage of Sydney's M1 metro line has an opening date.",
+    "localWatch": "Locally, the Illawarra Mercury reports residents are divided over NSW government plans for thousands of homes and 20-storey towers in the Shellharbour CBD, Shoalhaven City Council has set a public meeting on land management category changes at Milton Showground, and Kiama Council has announced recipients of its 2026/27 community grants and sponsorships.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "'A dying area' vs 'all for it': Residents split on CBD housing tower plans",
+            "summary": "The Illawarra Mercury reports that thousands of new homes and 20-storey towers are proposed for the Shellharbour CBD under NSW government plans, and that residents are divided on the proposal. The paper reports on what residents and councils say about the region's future.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9327249/locals-split-on-nsw-government-plans-for-shellharbour-cbd-housing/"
+              }
+            ]
+          },
+          {
+            "headline": "Meeting to explain proposed management category changes for Milton Showground",
+            "summary": "Shoalhaven City Council has scheduled a public meeting on proposed changes to the land management categorisation of the Milton Showground site, the Milton Ulladulla Times reports. The paper sets out what the categorisation plan would mean for local residents.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Milton Ulladulla Times",
+                "url": "https://www.ulladullatimes.com.au/story/9373277/milton-showground-land-management-changes-set-for-meeting/"
+              }
+            ]
+          },
+          {
+            "headline": "Council announces funding boost for community groups and events",
+            "summary": "Kiama Municipal Council has announced the recipients of its 2026/27 Grants, Donations and Sponsorships Program, which supports a range of local events.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Council-announces-funding-boost-for-community-groups-and-events"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Campaign overhaul as states rush to protect MPs after Haines attack",
+            "summary": "The Australian Financial Review reports that emergency briefings and mandatory \"buddy systems\" for doorknocking have been imposed on members of parliament in NSW and Victoria ahead of both states' elections, following an attack on Helen Haines.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/politics/federal/campaign-overhaul-as-states-rush-to-protect-mps-after-haines-attack-20261022-p617uu"
+              }
+            ]
+          },
+          {
+            "headline": "Badgerys Creek MP Tanya Davies won’t recontest next election",
+            "summary": "The Daily Telegraph reports that the member for Badgerys Creek, Tanya Davies, will not recontest her seat at the next state election. No further detail was available in the supplied text.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-coalition-exodus-deepens-as-senior-mp-tanya-davies-announces-macquarie-street-exit/news-story/b7bda02cb0b632d9b46cf416fda6b831"
+              }
+            ]
+          },
+          {
+            "headline": "Independent costings extended to One Nation",
+            "summary": "The NSW Government has announced that the One Nation Party will be able to use the independent Parliamentary Budget Office to cost its policies for the March 2027 state election.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/independent-costings-extended-to-one-nation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Opening date locked in for final stage of Sydney’s M1 metro line",
+            "summary": "The Sydney Morning Herald reports an opening date has been set for the final stage of the M1 metro line, ending more than two years of replacement bus travel for tens of thousands of commuters. The Guardian reports the south-west metro extension will open on Friday 30 October, more than two years after the former T3 heavy rail line closed.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/national/nsw/opening-date-locked-in-for-final-stage-of-sydney-s-m1-metro-line-20261022-p61240.html"
+              },
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/22/sydney-southwest-metro-extension-opening-friday-chris-minns"
+              }
+            ]
+          },
+          {
+            "headline": "Pumped hydro project scrapped after developer deems it unviable",
+            "summary": "The ABC reports that Alinta Energy has withdrawn its plans for the $1.8 billion Oven Mountain pumped hydro energy storage project in northern NSW, citing economic challenges.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-22/oven-mountain-pumped-hydro-scheme-abandoned/107295182"
+              }
+            ]
+          },
+          {
+            "headline": "Practical reforms to reduce plastics and microplastics",
+            "summary": "The Minns Labor Government says parliament has passed reforms intended to cut plastic waste, make more products recyclable and keep harmful plastics out of waterways.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/practical-reforms-to-reduce-plastics-and-microplastics"
+              }
+            ]
+          },
+          {
+            "headline": "NSW passes ‘human compost’ laws with several MPs saying they will utilise practice after they die",
+            "summary": "The Guardian reports NSW parliament passed Australian-first laws on Wednesday creating a third legal option, alongside burial and cremation, for the treatment of bodies. Several MPs have said they would like their own bodies treated this way, according to the report.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die"
+              }
+            ]
+          },
+          {
+            "headline": "NSW Premier returns to ‘common sense’ policy",
+            "summary": "The Australian reports the NSW Premier has backtracked on gender-neutral breastfeeding language. Only the headline was available; no further detail is supplied.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/new-south-wales/nsw-premier-backtracks-on-genderneutral-breastfeeding-language/news-story/99af1b9fa67116f98b528c7448b75639"
+              }
+            ]
+          },
+          {
+            "headline": "A Sydney council wants to add thousands of homes. Residents oppose such ‘radical change’",
+            "summary": "The Sydney Morning Herald reports a council plan that would permit 20-storey unit blocks in an inner-west suburb has angered residents, while housing advocates have welcomed the proposal for more mid-rise apartments.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/national/nsw/a-sydney-council-wants-to-add-thousands-of-homes-residents-oppose-such-radical-change-20261023-p613m4.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "One Nation NSW leader hit with ‘please explain’ for charging taxpayers for 71 beers, 23 bottles of wine",
+            "summary": "The Sydney Morning Herald reports that NSW One Nation leader Mike Newman was questioned about his expenses during a 28-month posting as a senior trade commissioner in Japan, including alcohol charged to taxpayers. The Herald reports one executive rejected a $211 lunch bill.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/one-nation-nsw-leader-hit-with-please-explain-for-charging-taxpayers-for-71-beers-23-bottles-of-wine-20261022-p617qb.html"
+              }
+            ]
+          },
+          {
+            "headline": "City council could sell off car park in Wollongong CBD",
+            "summary": "The Illawarra Mercury reports Wollongong City Council is considering selling its 195-space Rawson Street car park site, with the paper outlining plans for CBD housing, childcare and aged care services.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9373110/wollongong-council-considers-sale-of-rawson-street-car-park/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "The frightening threats becoming part of political life in Australia",
+            "commentator": "ABC News",
+            "summary": "The ABC reports that politicians across party lines have described abuse they face in public life, including threats against their children, stalking and intimidation. The piece is published as states move to tighten MP security ahead of elections.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-22/threats-abuse-australian-politicians-mps-security/107294268"
+              }
+            ]
+          },
+          {
+            "headline": "Minns in hot water over coffee cup brewhaha",
+            "commentator": "The Daily Telegraph",
+            "summary": "The Daily Telegraph reports the NSW government is facing a backlash over a reusable coffee cup law affecting cafes. Only the headline and the outlet's framing were available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/netzero-madness-nsw-government-faces-backlash-over-reusable-coffee-cup-law-for-cafes/news-story/6d4d1d683acce2b6a7a4cbddad28ac0a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "In Western Australia, a man charged over an allegedly threatening incident at Labor MP Hannah Beazley's electorate office told a Perth court he was holding a musical instrument, not a weapon as police allege — a reminder of the MP-security pressures now shaping campaigning in NSW.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-10-22/man-charged-over-hannah-beazley-threats-appears-in-court/107297188"
+      }
+    ]
+  }
+}
