@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-24",
+  "nStories": 13,
+  "topLine": "NSW parliament passed legislation creating the Great Koala National Park, the state's second-largest, after years of campaigning. Security for MPs dominated the week at Macquarie Street, with the ABC reporting state MPs were offered a police and parliamentary security briefing following the attack on federal independent Helen Haines, and several describing threats they have received. The government's new rules on disposable coffee cups also drew sustained criticism from hospitality interests and talkback hosts.",
+  "briefing": {
+    "topLine": "NSW parliament passed legislation creating the Great Koala National Park, the state's second-largest, after years of campaigning. Security for MPs dominated the week at Macquarie Street, with the ABC reporting state MPs were offered a police and parliamentary security briefing following the attack on federal independent Helen Haines, and several describing threats they have received. The government's new rules on disposable coffee cups also drew sustained criticism from hospitality interests and talkback hosts.",
+    "localWatch": "The Illawarra Mercury has highlighted a 1920-built viaduct it describes as the weak link in the South Coast rail line, a reminder of the ageing infrastructure the region's train services depend on. In the Shoalhaven, the council is seeking community feedback on recategorising the Nowra and Milton showgrounds.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "This 100-year-old viaduct is the weak link in the South Coast rail line",
+            "summary": "The Illawarra Mercury reports on a viaduct built in 1920 that it describes as the weak point of the South Coast rail line, noting that trains would stop running if it failed.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9324941/this-100-year-old-viaduct-is-the-weak-link-in-the-south-coast-rail-line/"
+              }
+            ]
+          },
+          {
+            "headline": "Have your say on proposed changes to Nowra Showground",
+            "summary": "Shoalhaven City Council is proposing to recategorise the Nowra and Milton showgrounds, according to the South Coast Register, which outlines what the change would mean for public use and how residents can make a submission.",
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9378277/shoalhaven-council-nowra-milton-showgrounds-set-for-shift/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": []
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "NSW's second-largest national park created to protect koalas",
+            "summary": "Legislation establishing the Great Koala National Park has passed, the ABC reports, creating the state's second-largest national park stretching from Coffs Harbour to Kempsey. The ABC notes the park follows years of campaigning to protect koalas and their habitat.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-23/great-koala-national-park-legislation-passed/107296314"
+              }
+            ]
+          },
+          {
+            "headline": "NSW MPs 'in tears' after parliament security briefing",
+            "summary": "The ABC reports that NSW state MPs were offered a security briefing from police and parliamentary security after the attack on federal independent MP Helen Haines, and that not all MPs received the answers they had hoped for. In a companion report, several NSW politicians describe having been subjected to threats of violence, with one saying threats left her feeling \"physically sick\".",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-23/nsw-mp-security-inadequate-after-parliament-safety-briefing/107299022"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-23/nsw-politicians-death-threats-helen-haines-attack/107300432"
+              }
+            ]
+          },
+          {
+            "headline": "‘It’s a ban’ – Levy takes Minister to task on red tape cost for reusable, recyclable cups",
+            "summary": "2GB reports that the NSW government has been accused of adding red tape for hospitality venues and small operators through the Environment Minister's plan, now passed by parliament, requiring cafes and other venues to use recyclable cups. The broadcaster reports Penny Sharpe was also questioned about the Great Koala National Park. The Daily Telegraph carries related coverage of small business complaints and of criticism of the minister by broadcaster Ray Hadley over the cup rules and a brumby cull.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "2GB",
+                "url": "https://www.2gb.com/its-a-ban-levy-takes-minister-to-task-on-red-tape-cost-for-reusable-recyclable-cups/"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/expensive-madness-penny-sharpe-grilled-over-nsw-government-disposable-coffee-cup-laws/news-story/d14395e910832a6d08df1dd4b63cd904"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/absolute-insanity-ray-hadley-slams-penny-sharpe-over-brumby-cull-reusable-cups/news-story/9b319bd7ce162431ea605278ff35291f"
+              }
+            ]
+          },
+          {
+            "headline": "Coal, colouring-in and classrooms: Hunter Valley mine’s push into schools",
+            "summary": "The Sydney Morning Herald reports that the operator of the Mount Pleasant mine near Muswellbrook says its aim is to influence the school curriculum.",
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/environment/climate-change/coal-colouring-in-and-classrooms-hunter-valley-mine-s-push-into-schools-20261024-p6182q.html"
+              }
+            ]
+          },
+          {
+            "headline": "Another 200 apartments are coming to Corrimal after Planning Dept approval",
+            "summary": "The Illawarra Mercury reports that a further 200 apartments have been approved by the NSW Planning Department for the Corrimal cokeworks site, with the project continuing to grow in size.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9373096/another-200-apartments-are-coming-to-corrimal-after-planning-dept-approval/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Justice for Cheryl Grimmer 'a fight that just keeps going', says brother",
+            "summary": "The Illawarra Mercury reports that the family of Cheryl Grimmer addressed a parliamentary inquiry for the second time, with her brother describing the effort as a continuing fight.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9373171/justice-for-cheryl-grimmer-a-fight-that-just-keeps-going-says-brother/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "‘Hands off’: Howard leads mass protest over barracks sale",
+            "summary": "The Daily Telegraph reports that former prime minister John Howard is to lead thousands of people at a Sydney rally opposing the sale of Victoria Barracks. No further detail was available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/john-howard-to-lead-thousands-at-sydney-rally-fighting-victoria-barracks-sale/news-story/3ab0549a52efc60bad32e4d2b2f0fc3b"
+              }
+            ]
+          },
+          {
+            "headline": "New opportunities for First Nations artists through Vivid Sydney",
+            "summary": "The NSW government announced support for emerging First Nations artists through Vivid Sydney, saying the program will create new opportunities and bring Aboriginal stories to international audiences.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/ministerial-media-releases/vivid-sydney-first-nations-artist-opportunities"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Nightly caps and voluntary levies: City of Sydney ramps up pressure on short-term rentals",
+            "summary": "The Sydney Morning Herald reports that City of Sydney councillors are weighing measures including a 30-day cap on Airbnb-style accommodation, after proposals for an outright ban were dismissed.",
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/nightly-caps-and-voluntary-levies-city-of-sydney-ramps-up-pressure-on-short-term-rentals-20261024-p617p1.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "In allowing coal expansion in the Hunter, Chris Minns is pouring fuel on the climate fire. His decision will come back to hurt us all",
+            "commentator": "Jack Egan (The Guardian)",
+            "summary": "Writing in The Guardian, Jack Egan argues the Minns government's move on Hunter coal expansion will have lasting costs, pointing to a High Court finding that NSW is responsible for emissions from burning exported coal and asking what message is sent when a government can legislate around the law.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/commentisfree/2026/oct/23/chris-minns-coal-expansion-laws-will-hurt-us-all-climate-mount-pleasant"
+              }
+            ]
+          },
+          {
+            "headline": "Helen Haines: Australia’s long, overlooked history of political violence",
+            "commentator": "The Australian (Inquirer)",
+            "summary": "The Australian's Inquirer section examines what it describes as Australia's long and overlooked history of political violence, following the attack on federal independent MP Helen Haines. The supplied text was limited to the headline.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/inquirer/australias-long-overlooked-history-of-political-violence/news-story/59355bd180b476b1e35287a8e3967111"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Federally, The Australian reports discontent among voters in the Prime Minister's own seat of Grayndler.",
+        "outlet": "The Australian",
+        "url": "https://www.theaustralian.com.au/nation/politics/grayndlers-had-a-gutful-anthony-albaneses-own-voters-rebel/news-story/e42bfbc5460d5d6a661c0fcd9e90146e"
+      }
+    ]
+  }
+}
