@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-25",
+  "nStories": 9,
+  "topLine": "The NSW government has scrapped the train timetable changes due to start next month, including on the South Coast line, after what outlets describe as widespread commuter backlash. Separately, the Sydney Morning Herald reports a NSW Health audit has identified about 20,000 overdue endoscopy procedures, with the government promising to fast-track delayed tests. Otherwise a relatively quiet state political day, with one candidate controversy and a handful of planning and funding items.",
+  "briefing": {
+    "topLine": "The NSW government has scrapped the train timetable changes due to start next month, including on the South Coast line, after what outlets describe as widespread commuter backlash. Separately, the Sydney Morning Herald reports a NSW Health audit has identified about 20,000 overdue endoscopy procedures, with the government promising to fast-track delayed tests. Otherwise a relatively quiet state political day, with one candidate controversy and a handful of planning and funding items.",
+    "localWatch": "The timetable reversal is the day's clearest local development: the South Coast Register reports South Coast commuters had objected to services no longer stopping at Wolli Creek, and the ABC reports the Illawarra changes have been dropped along with Sydney's.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Back track: Government cancels unpopular changes to South Coast rail timetable",
+            "summary": "The NSW government has cancelled the rail timetable changes that were due to take effect in November, with the South Coast Register reporting that South Coast commuters had been angered by services no longer stopping at Wolli Creek. The ABC reports the scrapped changes covered both Sydney and Illawarra services and were abandoned less than a month before they were to begin. The Sydney Morning Herald describes the reversal as a U-turn following what it reports as near-universal condemnation, while the Daily Telegraph reports Premier Chris Minns scrapped the shake-up after commuter backlash.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9379153/nsw-government-scraps-november-train-timetable-changes/?src=rss"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-24/nsw-government-backflip-t4-t8-south-coast-rail-timetable-changes/107304442"
+              },
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/public-backlash-sparks-backflip-on-sydney-train-timetables-20261024-p6189e.html"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/premier-chris-minns-scraps-controversial-sydney-train-timetable-shakeup-after-widespread-commuter-backlash/news-story/3c1d199904bab4e9daafb46df1ec439e"
+              }
+            ]
+          },
+          {
+            "headline": "Wilton is set to become a small city, what can the Illawarra do to capitalise on it?",
+            "summary": "The Illawarra Mercury reports that the combined population of Wilton and Douglas Park is projected to approach 37,000 by 2046, and examines what that growth could mean for planning and opportunities in the Illawarra region.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9246078/illawarra-wiltons-37000-future-residents-drive-new-plans/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Greens candidate accused of posting fake review of Jewish business",
+            "summary": "The Daily Telegraph reports that Bankstown Greens candidate Abrar Ahmad has been accused of posting a fake review of a Jewish business. Only the outlet's headline is available; the allegation is unproven and no response from the candidate is reported in the supplied text.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/bankstown-greens-candidate-abrar-ahmad-accused-of-posting-fake-review-of-jewish-business/news-story/51490be2a1f8e6542f75ac20de4037de"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "NSW Health audit finds 20,000 overdue endoscopy tests after warnings",
+            "summary": "The Sydney Morning Herald reports that a NSW Health audit has identified about 20,000 overdue endoscopy procedures, following earlier warnings. According to the report, the state government will step in to fast-track thousands of the delayed procedures, which the Herald says could be holding up cancer diagnoses.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/nsw-health-audit-finds-20-000-overdue-endoscopy-tests-after-warnings-20261024-p618a9.html"
+              }
+            ]
+          },
+          {
+            "headline": "Biodiversity offset scheme 'an enormous thing' for landowners to consider",
+            "summary": "The ABC reports on the NSW government's approach to biodiversity offsets and conservation agreements, speaking to western NSW landholder Peter Barton, who says he spent years weighing up whether to place part of his property under such an agreement before deciding to do so for future generations.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-24/nsw-government-new-biodiversity-offset-approach-protects-habitat/107260482"
+              }
+            ]
+          },
+          {
+            "headline": "Thousands to rally today to save Victoria Barracks",
+            "summary": "The Daily Telegraph reports that former prime minister John Howard is to lead a Sydney rally of thousands of people opposing the sale of Victoria Barracks. Only the outlet's headline is available.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/john-howard-to-lead-thousands-at-sydney-rally-fighting-victoria-barracks-sale/news-story/3ab0549a52efc60bad32e4d2b2f0fc3b"
+              }
+            ]
+          },
+          {
+            "headline": "‘F**king genius’: Chris Minns praised for viral ADHD TikTok video",
+            "summary": "The Daily Telegraph and Kidspot report that Premier Chris Minns has drawn praise for a TikTok video about ADHD that has circulated widely online. Only the outlets' headlines are available.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/lifestyle/health/fking-genius-chris-minns-praised-for-viral-adhd-tiktok-video/news-story/1fdd5052f3ef1f9b45f8fcbfff08a3fa"
+              },
+              {
+                "outlet": "Kidspot",
+                "url": "https://kidspot.news.com.au/lifestyle/family-health/fking-genius-chris-minns-praised-for-viral-adhd-tiktok-video/news-story/1fdd5052f3ef1f9b45f8fcbfff08a3fa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Why an opposition MP can legally represent Gupta's coal empire in Tahmoor case",
+            "summary": "The Illawarra Mercury reports that NSW opposition MP Alister Henskens is acting as a legal representative for a firm connected to Sanjeev Gupta in a major liquidation case in which the state is owed $29 million in unpaid royalties. The Mercury's report examines why the work is permissible for a sitting MP; no wrongdoing is alleged in the supplied text.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9343191/alister-henskens-mp-is-working-for-sanjeev-guptas-firm-in-court/"
+              }
+            ]
+          },
+          {
+            "headline": "Council targets sports funding from state as clubs urge bigger rethink",
+            "summary": "The Newcastle Herald reports Lake Macquarie Council is seeking NSW government funding to upgrade facilities at Peacock Field, which dates from 1962, while local sporting clubs argue the council's master plan does not go far enough.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9378667/macquarie-scorpions-call-for-major-lyall-peacock-field-revamp/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "The Sydney Morning Herald reports that staff in MPs' offices are experiencing burnout from a volume of online abuse, with some offices turning off phone lines and sending employees home to recover.",
+        "outlet": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/politics/federal/on-the-verge-of-breakdown-mps-staff-burnt-out-from-online-hate-20261024-p6184e.html"
+      }
+    ]
+  }
+}
