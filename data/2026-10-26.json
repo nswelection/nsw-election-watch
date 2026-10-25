@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-26",
+  "nStories": 6,
+  "topLine": "A fairly quiet Sunday-into-Monday for NSW state politics, with the main thread being One Nation's recruitment of disaffected former Liberals for its 2027 upper house ticket, which the Sydney Morning Herald reports now includes former state MP Nathaniel Smith. The Herald also reports a record number of NSW development appeals being finalised in court as developers challenge council planning decisions, a planning-politics story with obvious implications for councils statewide. Locally, Kiama's mayor survived a knife-edge council ballot and a contentious rezoned Kiama site has gone to market.",
+  "briefing": {
+    "topLine": "A fairly quiet Sunday-into-Monday for NSW state politics, with the main thread being One Nation's recruitment of disaffected former Liberals for its 2027 upper house ticket, which the Sydney Morning Herald reports now includes former state MP Nathaniel Smith. The Herald also reports a record number of NSW development appeals being finalised in court as developers challenge council planning decisions, a planning-politics story with obvious implications for councils statewide. Locally, Kiama's mayor survived a knife-edge council ballot and a contentious rezoned Kiama site has gone to market.",
+    "localWatch": "Kiama Mayor Cameron McDonald retained the mayoralty 5-4 in a secret ballot, leaving the council finely balanced, while the Illawarra Mercury reports the controversially rezoned 14.26-acre site at 2 Caliope Street, Kiama is now listed for sale with developer interest.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "How Kiama Council's knife-edge vote unfolded in mayoral showdown",
+            "summary": "The Illawarra Mercury reports Kiama Mayor Cameron McDonald held on to the mayoralty by a single vote, 5-4, in a secret ballot. The Mercury says internal council feedback played a part in the outcome.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9350798/cameron-mcdonald-kiama-mayor-holds-on-in-tight-5-4-vote/"
+              }
+            ]
+          },
+          {
+            "headline": "Controversially rezoned 14-acre Kiama site listed as developers circle",
+            "summary": "A 14.26-acre parcel at 2 Caliope Street, Kiama has been put up for sale following rezoning approval, according to the Illawarra Mercury. The Mercury describes the site as controversial and reports developer interest in securing it.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9377760/kiama-rezoned-site-listed-inside-the-2-caliope-st-plans/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "He had Howard’s photo on his van. Now the ex-Liberal MP wants a spot on One Nation’s NSW ticket",
+            "summary": "The Sydney Morning Herald reports that former state MP Nathaniel Smith is seeking a place on One Nation's NSW upper house ticket. The Herald says he adds to a growing group of former NSW Liberals pursuing spots on that ticket.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/he-had-howard-s-photo-on-his-van-now-the-ex-liberal-mp-wants-a-spot-on-one-nation-s-nsw-ticket-20261026-p617ju.html"
+              }
+            ]
+          },
+          {
+            "headline": "‘Clear message’: Voters back coal as trust in Labor to slash bills falls",
+            "summary": "The Daily Telegraph reports on a new Affordable Energy Australia survey which it says shows voters backing coal and declining trust in Labor to cut power bills. Only the headline was available, so the survey's methodology and figures are not detailed here.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/labor-voters-backing-coal-in-new-affordable-energy-australia-survey/news-story/4f85d67b4f0370636e7031c820c16c1f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "The developers, the courtrooms and the battle over what gets built in Sydney",
+            "summary": "The Sydney Morning Herald reports developers are increasingly using legal appeals to challenge council planning decisions, with a record number of NSW development appeals being finalised in court. The piece examines the shift of planning disputes from council chambers into the courts.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/the-developers-the-courtrooms-and-the-battle-over-what-gets-built-in-sydney-20261026-p616px.html"
+              },
+              {
+                "outlet": "SMH.com.au",
+                "url": "https://www.smh.com.au/national/nsw/the-developers-the-courtrooms-and-the-battle-over-what-gets-built-in-sydney-20261026-p616px.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          },
+          {
+            "headline": "Up in arms: Thousands rally against Victoria Barracks sale",
+            "summary": "The Daily Telegraph reports thousands of people protested against a plan to sell Victoria Barracks, with the outlet describing a backlash directed at the Albanese government. Only the headline and summary line were available, so the details of the proposal are not set out here.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/save-victoria-barracks-albanese-government-faces-fierce-backlash-as-thousands-protest-sale-plan/news-story/f4620f41f114dbb96dc6a4e040eb1e9e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "An editorial in The Australian argues Victoria is heading for a Coalition landslide, pointing to the polling trend at the start of that state's campaign and its possible federal implications.",
+        "outlet": "The Australian",
+        "url": "https://www.theaustralian.com.au/commentary/editorials/victorias-polling-trend-at-start-of-campaign-has-federal-implicatios/news-story/1a05b2c07e9cff05965cf8a60097afcb"
+      }
+    ]
+  }
+}
