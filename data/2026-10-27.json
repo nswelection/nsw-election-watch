@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-27",
+  "nStories": 12,
+  "topLine": "The dominant NSW story is Premier Chris Minns's $6.8 billion South Coast Rail Plan election pledge to electrify the Kiama–Bomaderry line and duplicate track at bottlenecks, announced less than five months out from the March 2027 election and days after proposed timetable changes were abandoned. In Sydney, the Herald reports Liberal MPs are now resisting high-density housing plans in their own electorates as housing shapes as an election battleground. Elsewhere in government, the Minns government extended its workers' compensation review after industry submissions on premiums, and opened bookings for a national firearms buyback starting in NSW on 2 November.",
+  "briefing": {
+    "topLine": "The dominant NSW story is Premier Chris Minns's $6.8 billion South Coast Rail Plan election pledge to electrify the Kiama–Bomaderry line and duplicate track at bottlenecks, announced less than five months out from the March 2027 election and days after proposed timetable changes were abandoned. In Sydney, the Herald reports Liberal MPs are now resisting high-density housing plans in their own electorates as housing shapes as an election battleground. Elsewhere in government, the Minns government extended its workers' compensation review after industry submissions on premiums, and opened bookings for a national firearms buyback starting in NSW on 2 November.",
+    "localWatch": "The rail announcement is squarely aimed at the region, with the government committing to electrify the Kiama to Bomaderry service and double tracks at key bottlenecks on the Illawarra and South Coast line. At the council level, Kiama Council staff have recommended refusal of Jamberoo Action Park's car storage proposal over a planning rule interpretation.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Labor promises $6.8b South Coast rail fix days after timetable backflip",
+            "summary": "The NSW government says a re-elected Minns Labor government would commit $6.8 billion to a South Coast Rail Plan, electrifying the Kiama to Bomaderry service and doubling tracks at key bottlenecks, describing it as the largest single heavy rail investment for the Illawarra and South Coast in generations. The ABC reports the promise comes days after proposed timetable changes were abandoned, while the Sydney Morning Herald notes the pledge was made less than five months out from the state election. The Illawarra Mercury reports commuters reacting that the upgrade \"should have happened years ago\".",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/south-coast-rail-line-to-be-electrified-and-duplicated-largest-investment-rail-infrastructure-generations"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-26/labor-promises-south-coast-rail-line-upgrade/107307726"
+              },
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/minns-6-8-billion-election-promise-for-key-passenger-train-line-20261026-p618i5.html"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/minns-pledges-68bn-to-electrify-kiama-to-bomaderry-rail-line-and-expand-tracks-under-major-south-coast-upgrade-plan/news-story/4f268f72cbaf2228f0e5933722a81979"
+              },
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9379439/south-coast-line-electrified-kiama-to-bomaderry-in-68m-pledge/"
+              },
+              {
+                "outlet": "Milton Ulladulla Times",
+                "url": "https://www.ulladullatimes.com.au/story/9379439/south-coast-line-electrified-kiama-to-bomaderry-in-68m-pledge/"
+              }
+            ]
+          },
+          {
+            "headline": "Car park or EV storage hub? The planning rule tripping up Jamberoo Action Park",
+            "summary": "The Illawarra Mercury reports Kiama Council staff have recommended refusal of a proposal by Jamberoo Action Park to store BYD vehicles on its site, with the recommendation turning on an interpretation of a planning rule.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9349134/jamberoo-action-park-car-storage-plan-faces-council-knock-back/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Choosing One Nation: disillusioned or just fed up?",
+            "summary": "The South Coast Register reports on residents in an ultra-marginal seat discussing their support for One Nation, and asks whether the party's rising popularity reflects declining support for the major parties. The supplied text does not identify the seat.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9379774/choosing-one-nation-disillusioned-or-just-fed-up/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "NSW extends workers’ comp review as premiums crush builders",
+            "summary": "The Australian Financial Review reports the NSW government has extended its workers' compensation review, after industry submissions set out the effect of rising premiums on the construction sector.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Australian Financial Review",
+                "url": "https://www.afr.com/policy/economy/nsw-extends-workers-comp-review-as-premiums-crush-builders-20261026-p618k9"
+              }
+            ]
+          },
+          {
+            "headline": "National Gun Buyback to begin in NSW on November 2, bookings to surrender open today",
+            "summary": "The Minns government says the national firearms buyback will start in NSW on 2 November, with eligible licence holders able to book from midday to surrender eligible firearms and ammunition. The government describes it as the state's biggest firearms buyback in a generation.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/national-gun-buyback-to-begin-nsw-on-november-2-bookings-to-surrender-open-today"
+              }
+            ]
+          },
+          {
+            "headline": "NSW premier says barracks sale a 'big missed opportunity'",
+            "summary": "The ABC reports Premier Chris Minns has called on the federal government to reverse its decision to sell the historic Victoria Barracks site in Sydney, describing the sale as a big missed opportunity. The ABC reports defence personnel based there have begun packing for a move before Christmas.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-26/sydney-victoria-barracks-christmas-eviction-chris-minns/107309632"
+              }
+            ]
+          },
+          {
+            "headline": "Snowy 2.0 boss grilled over $25b ‘blowout’",
+            "summary": "News.com.au reports Snowy Hydro chief executive Dennis Barnes was questioned in the Senate over the cost of the Snowy 2.0 project, with the outlet reporting he defended the project while conceding major errors.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "news.com.au",
+                "url": "https://www.news.com.au/national/nsw-act/politics/snowy-20-cost-blowout-explodes-in-senate-as-dennis-barnes-defends-project-and-concedes-major-errors/news-story/15abc8887a49e8cd33b3ca853e4be1e9?amp"
+              }
+            ]
+          },
+          {
+            "headline": "Balancing Wollongong's overnight apartment boom without parking ourselves in",
+            "summary": "The South Coast Register reports on a 1260-unit Flinders Street tower plan for the Wollongong CBD and concerns raised about parking shortages and their effect on traffic and city liveability.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9371325/wollongong-cbd-housing-boom-sparks-fears-of-parking-crisis/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Wollongong council not 'rolling in money' despite $106 million surplus",
+            "summary": "The Illawarra Mercury reports Wollongong City Council has recorded a $106 million surplus, with Councillor Tania Brown saying it would not be a reason for the council to spend \"frivolously\".",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9380375/wollongong-council-not-rolling-in-money-despite-106-million-surplus/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "We ran this Councillor's notice of motion through four AI detectors. Here's what they found",
+            "summary": "The Illawarra Mercury reports a Wollongong councillor used AI to help write a notice of motion calling for a councillor workshop on artificial intelligence, and that the paper tested the text against four AI detectors.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9378876/wollongong-councillor-used-ai-to-write-motion-for-workshop-on-ai/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Eyes off: Council bans smart glasses at public pools and childcare",
+            "summary": "The Daily Telegraph reports Central Coast Council has banned smart glasses at its public pools and childcare facilities.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/central-coast/central-coast-council-bans-smart-glasses-at-public-pools-and-childcare/news-story/1b12a5ea8df612ab0b41e606f14dde20"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "NSW Liberals abandon YIMBY truce as housing goes on the ballot",
+            "commentator": "Sydney Morning Herald (NSW politics)",
+            "summary": "The Sydney Morning Herald writes that a year after NSW Liberals declared themselves unashamedly pro-development, Liberal MPs are now pushing back against high-density plans in their own electorates, with housing shaping as an election issue.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/nsw-liberals-abandon-yimby-truce-as-housing-goes-on-the-ballot-20261027-p617ua.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Victorians have until Melbourne Cup Day to enrol to vote for next month's state election, the ABC reports.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-10-27/victorian-state-election-enrol-closing-melbourne-cup-day-writ/107261184"
+      },
+      {
+        "text": "Victorian Opposition Leader Jess Wilson says a Coalition government would outlaw the \"globalise the intifada\" chant under incitement to violence laws.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-10-26/victorian-liberals-to-ban-globalise-the-intifada-state-election/107308178"
+      },
+      {
+        "text": "Crikey profiles One Nation's only sitting Victorian MP, Rikkie-Lee Tyrrell, ahead of next month's state election — a useful read as minor-party support is tested.",
+        "outlet": "Crikey",
+        "url": "https://www.crikey.com.au/2026/10/26/one-nation-victorian-election-rikkie-lee-tyrrell/"
+      }
+    ]
+  }
+}
