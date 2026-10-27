@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-28",
+  "nStories": 15,
+  "topLine": "One Nation's standing in NSW dominated state political coverage today, with the Sydney Morning Herald reporting that Labor's head office has warned MPs the party could lose about a dozen seats at the March election, and Premier Chris Minns publicly acknowledging the minor party as a threat. The Liberals face a reported multimillion-dollar settlement over the failure to nominate around 140 candidates at the 2024 council elections, while Opposition Leader Kellie Sloane is set to announce a Long Bay housing plan. Locally, the Illawarra Mercury reports the planning minister has pushed back at what he calls misinformation ahead of a Shellharbour rezoning meeting.",
+  "briefing": {
+    "topLine": "One Nation's standing in NSW dominated state political coverage today, with the Sydney Morning Herald reporting that Labor's head office has warned MPs the party could lose about a dozen seats at the March election, and Premier Chris Minns publicly acknowledging the minor party as a threat. The Liberals face a reported multimillion-dollar settlement over the failure to nominate around 140 candidates at the 2024 council elections, while Opposition Leader Kellie Sloane is set to announce a Long Bay housing plan. Locally, the Illawarra Mercury reports the planning minister has pushed back at what he calls misinformation ahead of a Shellharbour rezoning meeting.",
+    "localWatch": "The closest local political flashpoint is the Shellharbour rezoning, with a community meeting looming and the minister disputing density claims. In neighbouring Keira, the Mercury reports two Greens candidates have spoken about weighing safety concerns before contesting the state election.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Minister hits back at 'misinformation' as Shellharbour rezoning meeting looms",
+            "summary": "The Illawarra Mercury reports that the minister has responded to what he describes as misinformation about density, ahead of a community meeting on the proposed Shellharbour rezoning. The paper quotes a flier promoting the event asking, \"Who gave them permission to ruin our home?\"",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9380475/shellharbour-rezoning-minister-hits-back-at-density-fears/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Labor warns MPs party could lose a dozen seats at March election",
+            "summary": "The Sydney Morning Herald reports that Labor assistant state secretary George Simon used a meeting of the party's left faction last Tuesday to warn MPs against complacency, taking them through parts of NSW where the paper reports Labor is vulnerable to One Nation. One source cited by the Herald put the number of affected seats at about a dozen.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/labor-warns-mps-party-could-lose-a-dozen-seats-at-march-election-20261028-p618n7.html"
+              },
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/one-nation-comes-for-nsw-and-labor-gets-the-jitters-20261027-p618v1.html"
+              }
+            ]
+          },
+          {
+            "headline": "Minns warns One Nation could become NSW Opposition",
+            "summary": "The Daily Telegraph reports that Premier Chris Minns has acknowledged One Nation as a genuine threat ahead of the March election, with the paper citing polling showing the party surging.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/chris-minns-admits-one-nation-is-a-genuine-threat-ahead-of-march-election-as-polls-show-party-surging/news-story/6d83c5b513e5ff71da10ebd35cc48e91"
+              }
+            ]
+          },
+          {
+            "headline": "‘Not another suburb for luxury housing’: Liberals to unveil Long Bay housing plan",
+            "summary": "Opposition Leader Kellie Sloane will announce on Wednesday that a Long Bay Delivery Authority would be set up within 100 days if the Liberals win government next year, the Sydney Morning Herald reports.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/not-another-suburb-for-luxury-housing-liberals-to-unveil-long-bay-housing-plan-20261028-p61904.html"
+              }
+            ]
+          },
+          {
+            "headline": "Rising safety fears force Greens duo to reveal private family conversations",
+            "summary": "The Illawarra Mercury reports that Greens candidates Kit Docker and Malika Reese weighed safety concerns before entering the NSW state election contest, and sets out how threats and healthcare feature in their campaign pitch in Keira.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9380701/kit-docker-confronts-safety-threats-in-keira-greens-bid/"
+              }
+            ]
+          },
+          {
+            "headline": "Liberals facing a ‘complete whip out’ to One Nation in NSW election",
+            "summary": "The Australian has published a video report on the pressure the Liberal Party faces from One Nation at the NSW election. No further detail was supplied with the item.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/politics/liberals-facing-a-complete-whip-out-to-one-nation-in-nsw-election/video/7b9c92073eb68d729a5677a29f9abf38"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "‘Cop it sweet’: Minns says coffee cup law comms weren’t ‘clear’",
+            "summary": "The Daily Telegraph reports that Premier Chris Minns has conceded the government's messaging on a proposed reusable cup mandate for cafes was not clear.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-premier-chris-minns-concedes-botched-messaging-over-proposed-cafe-reusable-cup-mandate/news-story/e1b9511f2f68eb66122f4a8410f113e8"
+              }
+            ]
+          },
+          {
+            "headline": "Labor slammed motels for the homeless – then spent $2.3m",
+            "summary": "The Daily Telegraph reports that the Minns government has spent $2.3 million on motel accommodation for homeless people in Wagga Wagga, despite having criticised a similar Coalition policy.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/wagga/minns-government-spends-23m-on-wagga-homeless-motels-despite-attacking-coalition-policy/news-story/73b2c55774600c34ec559543949a97af"
+              }
+            ]
+          },
+          {
+            "headline": "Construction begins on 30 additional beds at Mount Druitt Hospital",
+            "summary": "The NSW government says construction has started on 30 extra beds at Mount Druitt Hospital, which it describes as a milestone in the Minns government's commitment to increase bed capacity in a fast-growing region.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/construction-begins-on-30-additional-beds-at-mount-druitt-hospital"
+              }
+            ]
+          },
+          {
+            "headline": "Sydney tourist hotspot ‘vulnerable’ to terror attack, heavily armed police unit to deploy",
+            "summary": "The Sydney Morning Herald reports that NSW Police's new Armed Response Command will from Sunday also focus on places of worship, major sporting events and mass gatherings.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/sydney-tourist-hotspot-vulnerable-to-terror-attack-heavily-armed-police-unit-to-deploy-20261028-p618st.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          },
+          {
+            "headline": "Rescue helicopter gets 'pass mark' despite workplace concerns",
+            "summary": "The ABC reports that a workplace safety review has given the Northern NSW Helicopter Rescue Service a \"pass mark\", while acknowledging shortfalls in workplace culture.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-27/northern-nsw-rescue-helicopter-culture-review/107314676"
+              }
+            ]
+          },
+          {
+            "headline": "'Mining state': resources flex fights One Nation surge",
+            "summary": "The South Coast Register carries a wire report that a state government is seeking to strengthen its resources credentials after off-siding environmentalists and ceding ground to One Nation. The supplied text does not identify which state is involved.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9380985/mining-state-resources-flex-fights-one-nation-surge/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "The disastrous administrative blunder that will cost NSW Liberals $2m",
+            "summary": "The Sydney Morning Herald reports the Liberal Party failed to nominate about 140 candidates for the 2024 local government elections, and that a court will now consider a settlement plan following a class action against the party. The Daily Telegraph puts the cost at $2 million, while The Australian reports a payout of $1.75 million.",
+            "tags": [
+              "INTEGRITY",
+              "FUNDING",
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/the-disastrous-administrative-blunder-that-will-cost-nsw-liberals-2m-20261027-p618ym.html"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/council-nomination-bungle-to-cost-nsw-liberals-2m/news-story/dd9e05f494a5b5c7b9dc739f2d3285d2"
+              },
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/new-south-wales/nsw-liberals-face-175m-payout-over-ballot-blunder/news-story/cc3d54b30f303a0d1d63c5daa7d135db"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Minns puts daylight between NSW and federal Labor as One Nation surges",
+            "commentator": "The Australian Financial Review",
+            "summary": "The AFR's analysis argues the Premier will keep differentiating himself from the Albanese government as One Nation threatens his hold on power.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Australian Financial Review",
+                "url": "https://www.afr.com/politics/federal/minns-puts-daylight-between-nsw-and-federal-labor-as-one-nation-surges-20261027-p618ti"
+              }
+            ]
+          },
+          {
+            "headline": "One Nation comes for NSW and Labor gets the jitters",
+            "commentator": "Sydney Morning Herald",
+            "summary": "The Herald's accompanying analysis frames Labor's warning that it could lose a dozen seats in March as a sign of nerves over One Nation's rise in NSW.",
+            "tags": [
+              "OPINION",
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/one-nation-comes-for-nsw-and-labor-gets-the-jitters-20261028-p618v1.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Ben Raue and the Guardian's Benita Kolovos discuss the issues shaping the Victorian election a month out, including One Nation's impact and the upper house race.",
+        "outlet": "The Tally Room",
+        "url": "https://www.tallyroom.com.au/68907"
+      }
+    ]
+  }
+}
