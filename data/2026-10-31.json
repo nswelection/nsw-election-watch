@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-31",
+  "nStories": 15,
+  "topLine": "The $440 million Shoalhaven Memorial Hospital redevelopment reached its centrepiece milestone with the new Acute Services Building opening to patients, the most significant South Coast development of the day. In state politics, Wyong MP and racing minister David Harris announced he will not recontest at the 13 March 2027 election, the first Minns frontbencher to go, while commentators continued to assess a surging One Nation vote and what it means for the Coalition and Labor. A parliamentary inquiry also reported on government funding to A-League clubs, finding donations carried what it described as \"the appearance of favours\".",
+  "briefing": {
+    "topLine": "The $440 million Shoalhaven Memorial Hospital redevelopment reached its centrepiece milestone with the new Acute Services Building opening to patients, the most significant South Coast development of the day. In state politics, Wyong MP and racing minister David Harris announced he will not recontest at the 13 March 2027 election, the first Minns frontbencher to go, while commentators continued to assess a surging One Nation vote and what it means for the Coalition and Labor. A parliamentary inquiry also reported on government funding to A-League clubs, finding donations carried what it described as \"the appearance of favours\".",
+    "localWatch": "Three state and federally funded infrastructure milestones landed in the region at once: the Shoalhaven hospital's new acute building opened, the western roundabout at the Jervis Bay Road intersection upgrade is set to open to traffic early next month, and Shoalhaven City Council has picked a preferred contractor for two roundabouts in the $40 million Shoalhaven Roads Package. At the same time, Kiama Council is consulting on a new advocacy plan and the mayor is addressing community debate over the council's financial sustainability.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "$440 million Shoalhaven Memorial Hospital Redevelopment centrepiece officially opens to patients",
+            "summary": "The NSW Government says the new Acute Services Building, the centrepiece of the $440 million Shoalhaven Memorial Hospital Redevelopment, has opened to patients. It says communities across the Shoalhaven can now access expanded health services in the modern facility.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/departments-and-agencies/health-infrastructure/news/440-million-shoalhaven-memorial-hospital-redevelopment-centrepiece-officially-opens-to-patients"
+              }
+            ]
+          },
+          {
+            "headline": "Jervis Bay Road intersection on the home stretch as western roundabout opens to traffic",
+            "summary": "The NSW Government says the $164 million Jervis Bay Road intersection upgrade is approaching a major milestone, with the new western roundabout due to open to traffic early next month.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/jervis-bay-road-western-intersection-opening-set"
+              }
+            ]
+          },
+          {
+            "headline": "Preferred contractor selected for Shoalhaven Roads Package roundabouts",
+            "summary": "Shoalhaven City Council says it has selected a preferred contractor to build two new roundabouts under the $40 million, Australian Government-funded Shoalhaven Roads Package.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Preferred-contractor-selected-for-Shoalhaven-Roads-Package-roundabouts"
+              }
+            ]
+          },
+          {
+            "headline": "Mayor’s update: Finding the right path for Kiama’s future",
+            "summary": "In an update published by Kiama Municipal Council, the mayor addresses community debate following last Tuesday's council meeting, saying the conversation about the council's financial sustainability has been ongoing.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Mayor%E2%80%99s-update-Finding-the-right-path-for-Kiama%E2%80%99s-future"
+              }
+            ]
+          },
+          {
+            "headline": "Council seeking feedback on new Kiama Advocacy Plan",
+            "summary": "Kiama Municipal Council is inviting residents to comment on a draft advocacy plan, which it describes as an updated list of key priorities for the area.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Council-seeking-feedback-on-new-Kiama-Advocacy-Plan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "David Harris MP announces retirement at 2027 state election",
+            "summary": "Wyong MP David Harris has announced he will not recontest his seat at the NSW state election on 13 March 2027. The Sydney Morning Herald reports Harris, who is racing minister, is the first Minns frontbencher to announce an exit, and says his departure sets up a potential contest with One Nation.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/david-harris-mp-announces-retirement-at-2027-state-election"
+              },
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/chris-minns-loses-first-frontbencher-as-david-harris-announces-exit-before-nsw-election-20261030-p619wg.html"
+              }
+            ]
+          },
+          {
+            "headline": "‘Rushed laws not working’: One Nation vows to scrap gun caps and reverse controversial buyback scheme",
+            "summary": "The Daily Telegraph reports One Nation has pledged to scrap gun caps and reverse a buyback scheme, describing the laws as rushed and not working. Only the headline was available for this item.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/rushed-laws-not-working-one-nation-vows-to-scrap-gun-caps-and-reverse-controversial-buyback-scheme/news-story/2b8322d5cace9b29e729950c2eb2be98"
+              }
+            ]
+          },
+          {
+            "headline": "Why these state candidates want to 'build bridges not walls' in an age of division",
+            "summary": "The Illawarra Mercury reports that Greens candidates Kit Docker and Malika Reese weighed up safety fears before nominating for the NSW state election, and that threats they have faced and healthcare form part of their campaign pitch, including in the seat of Keira.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9380701/kit-docker-confronts-safety-threats-in-keira-greens-bid/"
+              }
+            ]
+          },
+          {
+            "headline": "‘I’ll have the best campaign’: Local councillor’s bid for state seat",
+            "summary": "The Daily Telegraph reports Liverpool councillor Peter Ristevski will run for the seat of Holsworthy at the 2027 NSW election. Only the headline was available for this item.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/liverpool-leader/liverpool-councillor-peter-ristevski-to-run-for-holsworthy-in-2027-nsw-election/news-story/218ee52f48fdd1619a502e175417c7eb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "The Sydney suburbs left exposed as government fails to deliver on flood levees",
+            "summary": "The Sydney Morning Herald reports that three western Sydney flood levees promised by Premier Chris Minns before the last election have not been built. It says the NSW government is holding a report on mitigating flood risk in the Hawkesbury-Nepean Basin.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/environment/climate-change/the-sydney-suburbs-left-exposed-as-government-fails-to-deliver-on-its-promised-24m-flood-levees-20261031-p619n7.html"
+              }
+            ]
+          },
+          {
+            "headline": "Brumby advocate loses bid to stop aerial culling in NSW national park",
+            "summary": "The ABC reports a court has ruled the NSW government was entitled to \"eradicate\" brumbies in a northern NSW national park, allowing aerial culling to resume after a challenge by a brumby advocate was unsuccessful.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-10-30/brumby-advocate-carmen-jackson-loses-case-in-court/107314708"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Embattled football club ‘lacked capacity’ to manage $8m school clinics: report",
+            "summary": "The Sydney Morning Herald reports a parliamentary inquiry has examined $14.5 million in government funding to A-League clubs and found that donations by the clubs had what the inquiry described as \"the appearance of favours in return for government funding\". The report also found one club lacked the capacity to manage $8 million in school clinics.",
+            "tags": [
+              "INTEGRITY",
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/embattled-football-club-lacked-capacity-to-manage-8m-school-clinics-report-20261031-p619xo.html"
+              }
+            ]
+          },
+          {
+            "headline": "Labor denies bribing One Nation MP with extra staff",
+            "summary": "The South Coast Register reports Labor has rejected claims it sought to bribe One Nation MP David Farley with an offer of extra staff, in a dispute that has included allegations of \"dirty games\". The report says the offer does not mean Farley is considering leaving the party.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9382777/labor-denies-bribing-one-nation-mp-with-extra-staff/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9382777/bribery-dirty-games-claims-in-fight-over-mp-staffing/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "The NSW Nationals could get wiped out by One Nation at this election",
+            "commentator": "Michelle Grattan",
+            "summary": "Michelle Grattan writes that a surging One Nation vote threatens a major shake-up of NSW politics, raising the prospect of the party becoming the new state opposition. She notes Premier Chris Minns has predicted One Nation could seize power, with polling cited at 25 per cent.",
+            "tags": [
+              "POLLING",
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au/story/9382788/michelle-grattan-one-nation-could-become-the-new-nsw-opposition/"
+              }
+            ]
+          },
+          {
+            "headline": "One Nation could save the NSW Liberals. Not so in Victoria",
+            "summary": "The Australian Financial Review argues that while the two coming state elections offer limited guidance on federal outcomes, Pauline Hanson's party is shaping as a factor for leaders in both states, potentially helping the Liberals in NSW but not in Victoria.",
+            "tags": [
+              "OPINION",
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/politics/federal/one-nation-could-save-the-nsw-liberals-not-so-in-victoria-20261030-p619he"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Victoria: the AFR reports the state auditor has criticised Victoria's budget repair effort, with a $7 billion blowout and spending well above May budget levels raising questions over Premier Ben Carroll's pledge to restrain expenditure.",
+        "outlet": "AFR",
+        "url": "https://www.afr.com/politics/property-down-turn-blows-5b-hole-in-victorian-budget-20261030-p619xk"
+      }
+    ]
+  }
+}
