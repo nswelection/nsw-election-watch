@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-01",
+  "nStories": 4,
+  "topLine": "A quiet Sunday for NSW state politics, dominated by the opening of the Sydney Metro southwest line and its political backstory. The Australian reports One Nation is gaining ground across NSW, while departing NSW Productivity Commissioner Peter Achterstraat uses his exit to warn about infrastructure keeping pace with Sydney's shift to higher density. The state government's underquoting crackdown is the main policy item of the day.",
+  "briefing": {
+    "topLine": "A quiet Sunday for NSW state politics, dominated by the opening of the Sydney Metro southwest line and its political backstory. The Australian reports One Nation is gaining ground across NSW, while departing NSW Productivity Commissioner Peter Achterstraat uses his exit to warn about infrastructure keeping pace with Sydney's shift to higher density. The state government's underquoting crackdown is the main policy item of the day.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Chris Minns ‘in full meltdown mode’ as One Nation gains ground across NSW",
+            "summary": "The Australian reports in a video segment that One Nation is gaining ground across NSW, and describes Premier Chris Minns as being \"in full meltdown mode\". Only the headline and video were available, and no supporting figures were supplied.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/politics/chris-minns-in-full-meltdown-mode-as-one-nation-gains-ground-across-nsw/video/0f10b20e380d7174bf6397650fab70b4"
+              }
+            ]
+          },
+          {
+            "headline": "‘A con’: ALP MPs celebrate the Metro they slammed",
+            "summary": "The Daily Telegraph reports that Labor ministers have opened the Sydney Metro southwest line after years of criticising the project. No further detail was available beyond the headline.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/the-sauce-labor-ministers-open-sydney-metro-southwest-line-after-years-slamming-project-as-con/news-story/5693d74f40e60365d5ffe8191b974814"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "‘Thanks for raiding us’: Inside the crackdown on underquoting",
+            "summary": "The Sydney Morning Herald spent a day with enforcement officers as the NSW government increases penalties for underquoting by real estate agents and introduces new price transparency requirements.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/business/consumer-affairs/thanks-for-raiding-us-inside-the-crackdown-on-underquoting-20261101-p617fk.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Departing productivity chief issues housing warning",
+            "commentator": "Peter Achterstraat, departing NSW productivity chief, interviewed by the Sydney Morning Herald",
+            "summary": "In the Herald, departing productivity chief Peter Achterstraat argues that infrastructure needs to be delivered up front as Sydney moves towards greater housing density, saying ideally it \"should be there before it starts\".",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/departing-productivity-chief-issues-housing-warning-20261101-p6198j.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
