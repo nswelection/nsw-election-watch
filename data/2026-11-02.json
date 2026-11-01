@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-02",
+  "nStories": 8,
+  "topLine": "The day's biggest development for the region is Premier Chris Minns's promise of $6.8 billion to electrify South Coast rail lines, which the South Coast Register reports follows a decade-long union campaign and which campaigners say must now be judged on delivery. In the broader state contest, the Newcastle Herald reports Minns conceding there are no safe seats in the Hunter with One Nation level-pegging with Labor at 32 per cent there, while The Guardian reports a former NSW Liberal figure is now driving an overhaul of One Nation's candidate selection. The Australian reports the NSW Liberals head into the election campaign with almost no money in the bank.",
+  "briefing": {
+    "topLine": "The day's biggest development for the region is Premier Chris Minns's promise of $6.8 billion to electrify South Coast rail lines, which the South Coast Register reports follows a decade-long union campaign and which campaigners say must now be judged on delivery. In the broader state contest, the Newcastle Herald reports Minns conceding there are no safe seats in the Hunter with One Nation level-pegging with Labor at 32 per cent there, while The Guardian reports a former NSW Liberal figure is now driving an overhaul of One Nation's candidate selection. The Australian reports the NSW Liberals head into the election campaign with almost no money in the bank.",
+    "localWatch": "The $6.8 billion South Coast rail electrification commitment is the central local story, with Shoalhaven campaigners quoted by the South Coast Register saying delivery is the real test. Nothing else in today's supplied coverage bears directly on Kiama or the South Coast.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Rail announcement gives the region real hope for the future says campaigner",
+            "summary": "The South Coast Register reports Premier Chris Minns has promised $6.8 billion to electrify South Coast rail lines, following what the paper describes as a 10-year union push. Campaigners quoted by the paper welcomed the announcement but said delivery would be the real test.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9383662/unions-shoalhaven-celebrates-68b-south-coast-rail-win/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "No safe seats in the Hunter this election: NSW Premier Chris Minns",
+            "summary": "The Newcastle Herald reports Premier Chris Minns has acknowledged that One Nation is tied with Labor at 32 per cent in the Hunter, and says no seat in the region can be considered safe. The paper reports on how the government intends to fight back in the region.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9380945/chris-minns-warns-one-nation-is-threatening-labors-hunter-seats/"
+              }
+            ]
+          },
+          {
+            "headline": "Former NSW Liberal leads overhaul of One Nation candidate selection process",
+            "summary": "In an exclusive, The Guardian reports that Mark Jones, who it says was once on track for one of the Liberal Party's most powerful roles, is now instrumental in One Nation's expansion and is leading a rework of how the party selects candidates.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/02/former-nsw-liberal-leads-overhaul-of-one-nation-candidate-selection-process-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Libs face election fight with just $200",
+            "summary": "The Australian reports the NSW Liberals are heading into the election contest with just $200 available to them. No further detail was available in the supplied text.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/nsw-liberals-face-empty-campaign-coffers-as-party-confronts-2m-council-bungle-payout/news-story/80701f7bb4fb28da7b1057f89581e24f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Some NSW police are now armed with military-style rifles. And they could be deployed to protests",
+            "summary": "The Guardian reports NSW Police on Sunday launched a permanent special unit, described as an Australian first, to patrol tourist areas, crowded public spaces, major events, sporting matches and places of worship while carrying military rifles. The paper reports Jewish groups have welcomed the new patrol unit following the Bondi terror attack, while experts it spoke to say police use of long-arm firearms must be strictly controlled.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/01/nsw-police-armed-response-command-rifles-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Mammoth cost of post-Bondi policing revealed",
+            "summary": "The Sydney Morning Herald reports on the cost of the expanded NSW Police presence put in place after the Bondi terror attack, with officers deployed at places of worship, schools and community hubs.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/mammoth-cost-of-post-bondi-policing-revealed-20261102-p619xu.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+              }
+            ]
+          },
+          {
+            "headline": "From homework to big kids: What keeps primary school students up at night",
+            "summary": "The Sydney Morning Herald reports the NSW government is investing in mental fitness programs in schools as childhood anxiety rates climb.",
+            "links": [
+              {
+                "outlet": "SMH.com.au",
+                "url": "https://www.smh.com.au/national/nsw/from-homework-to-big-kids-what-keeps-primary-school-students-up-at-night-20261101-p615kl.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Housing must be delivered with, not before, key infrastructure",
+            "commentator": "Peter Achterstraat (NSW Productivity Commissioner)",
+            "summary": "In the Sydney Morning Herald, the argument is put that housing and infrastructure need to be delivered together rather than housing arriving first. The piece notes Productivity Commissioner Peter Achterstraat has long made that case.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "SMH.com.au",
+                "url": "https://www.smh.com.au/politics/nsw/housing-must-be-delivered-with-not-before-key-infrastructure-20261101-p619yq.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Federal housing politics: the Milton Ulladulla Times reports a Liberal MP has signalled the party might back away from a fight over whether home-buyers should be able to use superannuation.",
+        "outlet": "Milton Ulladulla Times",
+        "url": "https://www.ulladullatimes.com.au/story/9383848/cracks-emerge-in-opposition-over-super-stance/"
+      },
+      {
+        "text": "The Guardian reports discontent in Anthony Albanese's inner-west Sydney seat of Grayndler, home to more than 3,000 cultural and creative businesses, over a federal proposal on AI and copyright.",
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west"
+      }
+    ]
+  }
+}
