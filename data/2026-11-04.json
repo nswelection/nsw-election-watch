@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-04",
+  "nStories": 16,
+  "topLine": "The Sydney Morning Herald reports that the resignations of veteran Labor and Liberal MPs within hours of each other on Tuesday have unsettled both parties, with the Herald asking whether NSW Labor's safest seat is now a One Nation contest. In Sydney, Premier Chris Minns is reported to be resisting a federal plan to sell Victoria Barracks, while The Australian reports criticism of Attorney-General Michael Daley over his comments about a judge. Locally, Shoalhaven City Council has put a $100 million roads funding request to the NSW government ahead of the 2027 state poll.",
+  "briefing": {
+    "topLine": "The Sydney Morning Herald reports that the resignations of veteran Labor and Liberal MPs within hours of each other on Tuesday have unsettled both parties, with the Herald asking whether NSW Labor's safest seat is now a One Nation contest. In Sydney, Premier Chris Minns is reported to be resisting a federal plan to sell Victoria Barracks, while The Australian reports criticism of Attorney-General Michael Daley over his comments about a judge. Locally, Shoalhaven City Council has put a $100 million roads funding request to the NSW government ahead of the 2027 state poll.",
+    "localWatch": "Shoalhaven City Council has formally asked the NSW government for a $100 million Roads Renewal Package to tackle what it describes as a growing maintenance backlog, making regional road funding an early 2027 campaign marker. The Illawarra Mercury has also launched an election blog tracking dates, promises and candidates for Illawarra voters.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Council seeks $100 million roads investment",
+            "summary": "Shoalhaven City Council says it is calling on the NSW government to commit $100 million to a Roads Renewal Package, which it says would address a growing road maintenance backlog and improve the safety and reliability of the region's transport network. The South Coast Register reports the pitch has been made ahead of the state poll and refers to an $800 million repair backlog, alongside other items on the council's funding list.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Council-seeks-100-million-roads-investment"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9385067/shoalhaven-council-seeks-100m-state-funding-for-local-roads/"
+              }
+            ]
+          },
+          {
+            "headline": "A clearer run to Sydney: work starts on extra overtaking lanes on vital road connection",
+            "summary": "The Illawarra Mercury publishes this item as part of its rolling 2027 NSW election coverage. The supplied description presents the piece as the Mercury's election blog for Illawarra voters, covering key dates, election promises and the candidates seeking their vote.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9368338/what-illawarra-voters-need-to-know-ahead-of-the-2027-nsw-election/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": []
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Labor in revolt: Minns fights federal plan to sell off barracks",
+            "summary": "The Daily Telegraph reports that Premier Chris Minns is opposing a federal plan to sell Victoria Barracks, and describes disquiet within Labor over the proposal. No further detail was available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/we-should-be-grateful-chris-minns-fights-federal-plan-to-sell-victoria-barracks/news-story/c3fddbef2f710a362d707575758bd64d"
+              }
+            ]
+          },
+          {
+            "headline": "Outcry as NSW Attorney-General targets judge",
+            "summary": "The Australian reports criticism of NSW Attorney-General Michael Daley over his targeting of judge Penelope Wass, in what the outlet characterises as an escalation of the Minns government's dispute with the judiciary. Only the headline was available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/business/legal-affairs/minns-government-escalates-judicial-war-as-nsw-attorneygeneral-michael-daley-targets-judge-penelope-wass/news-story/3aad79b309885672efa7286c56fee3b4"
+              }
+            ]
+          },
+          {
+            "headline": "Not what the doctors ordered … Minns defends script changes",
+            "summary": "The Daily Telegraph reports that Premier Chris Minns has defended expanding the role of pharmacists in prescribing for complex conditions. Only the headline was available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/parramatta/nsw-premier-chris-minns-defends-expanding-pharmacists-prescription-for-complex-conditions/news-story/23405eda92c51f282573b5fc8728a390"
+              }
+            ]
+          },
+          {
+            "headline": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
+            "summary": "Guardian Australia reports that, according to annual reports, Snowy Hydro executives received bonuses worth a combined $751,925 in the last financial year, despite the renewable energy project's cost reaching 12 times its original estimate. The Guardian reports chief executive Dennis Barnes, on a base salary of $1,845,126, chose not to take the additional cash, while the CSIRO chief received an extra $200,000.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout"
+              }
+            ]
+          },
+          {
+            "headline": "‘Bloody disgrace’: Shocking reason taxi company had to fold",
+            "summary": "The Daily Telegraph reports criticism of the Minns government after rising insurance costs were blamed for the closure of a taxi company. Only the headline was available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/minns-government-slammed-after-rising-insurance-costs-force-end-of-taxi-company/news-story/30cbb8900deff9932aab92c4eb74b9f2"
+              }
+            ]
+          },
+          {
+            "headline": "$2.6 million for NSW Wine Recovery Program",
+            "summary": "The NSW government has announced a $2.6 million NSW Wine Recovery Program, which it says continues its support for the state's wine producers.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/26-million-for-nsw-wine-recovery-program"
+              }
+            ]
+          },
+          {
+            "headline": "Landmark building restoration program in Lismore complete",
+            "summary": "The NSW government says a restoration program covering dozens of cultural and sporting facilities in Lismore, including the city's town hall, is now finished following damage in the 2022 floods.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/landmark-building-restoration-program-lismore-complete"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Ex-top cop cleared in secret probe into home renos",
+            "summary": "The Daily Telegraph reports that former NSW Police Commissioner Karen Webb has been cleared following a watchdog investigation into renovations at her home. Only the headline was available in the supplied text.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/ceiling-fans-downlights-and-a-secret-probe-extop-cop-karen-webb-cleared-after-watchdog-investigation-into-home-renos/news-story/962889cebb2eb244a5400b236c14f6f7"
+              }
+            ]
+          },
+          {
+            "headline": "Chloroform threat has NSW mayor afraid to leave her home",
+            "summary": "The ABC reports that a NSW mayor says she has had to prepare a personal safety plan after police gave her what she described as a \"reality check\", in a report on abuse directed at female mayors.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-03/female-mayors-subjected-to-abuse/107322464"
+              }
+            ]
+          },
+          {
+            "headline": "How a post-Helen Haines attack motion split a NSW council",
+            "summary": "Crikey reports that, following the attack on federal MP Helen Haines, a Hilltops councillor moved two amendments condemning violence and urging respectful debate, and that the mayor objected. Crikey reports the matter divided the council.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Crikey",
+                "url": "https://www.crikey.com.au/2026/11/03/helen-haines-hilltops-council-motion-amendment-james-blackwell-brian-ingram/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Did NSW Labor’s safest seat just become a One Nation battleground?",
+            "summary": "The Sydney Morning Herald examines the political fallout from the resignations of a veteran Labor MP and a veteran Liberal MP within hours of each other on Tuesday, which it says has rocked both parties. The Herald raises the question of whether One Nation could become competitive in what it describes as NSW Labor's safest seat.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/did-nsw-labor-s-safest-seat-just-become-a-one-nation-battleground-20261103-p61av4.html"
+              }
+            ]
+          },
+          {
+            "headline": "The $1b idea for early intervention as rate rise looms over struggling families",
+            "summary": "The Sydney Morning Herald reports on a campaign calling for a $1 billion investment in early intervention, which backers say would cut waiting times and reach struggling families before they reach crisis point. The piece frames the demand against the pressure of a looming rate rise.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/the-1b-idea-for-early-intervention-as-rate-rise-looms-over-struggling-families-20261104-p61atz.html"
+              }
+            ]
+          },
+          {
+            "headline": "The Catholic threat to patients’ right",
+            "summary": "In the Sydney Morning Herald, it is argued that the NSW government has been \"seemingly complicit\" in what the piece describes as a quiet takeover of publicly funded hospitals by a Catholic Church group. This is presented as the writer's view; no author was supplied.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/the-catholic-threat-to-patients-right-20261103-p61asy.html"
+              }
+            ]
+          },
+          {
+            "headline": "Ten* things I hate about Chris Minns, and should have told the doorknocker who asked",
+            "summary": "A Sydney Morning Herald columnist writes about being doorknocked and, despite having policy criticisms of Premier Chris Minns in mind, saying nothing at the door. The piece is opinion; no author was supplied.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/ten-things-i-hate-about-chris-minns-and-should-have-told-the-doorknocker-who-asked-20261103-p61asc.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Victoria: a specialist security squad will be deployed to polling booths for the 28 November state election amid what the Herald describes as rising political tensions.",
+        "outlet": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/national/security-crackdown-at-victorian-polling-booths-20261104-p61b5g.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      },
+      {
+        "text": "Victoria: the ABC is running a promise tracker on what the parties are offering ahead of the 28 November poll — a useful template as NSW heads towards 2027.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-11-04/victoria-2026-election-policy-promise-tracker/107247200"
+      },
+      {
+        "text": "WA: One Nation state leader Rod Caddies says the party's branches have as many as 700 members and that he is building a federal campaign base, the AFR reports.",
+        "outlet": "Australian Financial Review",
+        "url": "https://www.afr.com/politics/federal/one-nation-claims-west-australian-branches-have-as-many-as-700-members-20261103-p61ajh"
+      },
+      {
+        "text": "Federal: Prime Minister Anthony Albanese has issued a warning to world leaders following the alleged attack on an MP.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9384812/albanese-warns-world-leaders-after-alleged-attack-on-mp/"
+      }
+    ]
+  }
+}
