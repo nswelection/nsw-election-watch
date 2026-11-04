@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-05",
+  "nStories": 20,
+  "topLine": "The NSW Liberals' relationship with One Nation dominated state political coverage, with the AFR reporting leader Kellie Sloane has ruled out a coalition after the March election while colleagues privately expect one, and the ABC reporting an MP exodus as One Nation's popularity rises. Labor is also managing succession problems in the Hunter, with Premier Chris Minns conceding concerns about seats there after Wallsend MP Sonia Hornery's retirement. Locally, the Illawarra Mercury reports a century-old viaduct is the weak point in the South Coast rail line, and a federal inquiry has reported on the AUKUS deal that could base nuclear submarines at Port Kembla.",
+  "briefing": {
+    "topLine": "The NSW Liberals' relationship with One Nation dominated state political coverage, with the AFR reporting leader Kellie Sloane has ruled out a coalition after the March election while colleagues privately expect one, and the ABC reporting an MP exodus as One Nation's popularity rises. Labor is also managing succession problems in the Hunter, with Premier Chris Minns conceding concerns about seats there after Wallsend MP Sonia Hornery's retirement. Locally, the Illawarra Mercury reports a century-old viaduct is the weak point in the South Coast rail line, and a federal inquiry has reported on the AUKUS deal that could base nuclear submarines at Port Kembla.",
+    "localWatch": "South Coast rail reliability is back in focus, with the Illawarra Mercury reporting that a 1920-built viaduct is the line's weak link. The $20 million Batemans Bay Community Health facility has opened in Eurobodalla, Kiama Council is consulting on a draft Reconciliation Action Plan, and an inquiry report on AUKUS has raised the prospect of a nuclear submarine base at Port Kembla.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "AUKUS deal that may base nuclear subs in Port Kembla the 'worst in history', inquiry says",
+            "summary": "The Illawarra Mercury reports that an inquiry has described the AUKUS deal — under which nuclear submarines may be based at Port Kembla — as the \"worst in history\". The Mercury reports lead commissioner Peter Garrett launched the inquiry's report at the National Press Club.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9382343/port-kembla-a-top-pick-for-nuclear-sub-base-peter-garrett-says/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "This 100-year-old viaduct is the weak link in the South Coast rail line",
+            "summary": "The Illawarra Mercury reports that a viaduct built in 1920 is the weak link in the South Coast rail line, and that trains would stop running if it failed.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9324941/this-100-year-old-viaduct-is-the-weak-link-in-the-south-coast-rail-line/"
+              }
+            ]
+          },
+          {
+            "headline": "Batemans Bay Community Health is open",
+            "summary": "The NSW Government has announced the opening of the $20 million Batemans Bay Community Health facility. The government describes it as a first step in the expansion of Eurobodalla health services over coming months.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/departments-and-agencies/snswlhd/news/latest-news/batemans-bay-community-health-open"
+              }
+            ]
+          },
+          {
+            "headline": "Outgrowing the road network? Residents demand holistic approach amid high-rise boom",
+            "summary": "The Illawarra Mercury reports that residents are calling for a more holistic approach to planning as high-rise development increases, saying the planning department should take traffic into account.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9384923/outgrowing-the-road-network-residents-demand-holistic-approach-amid-high-rise-boom/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Four objectives of Council’s Reconciliation Action Plan",
+            "summary": "Kiama Municipal Council says its draft Reflect Reconciliation Action Plan is built around four objectives: relationships, respect, opportunities and governance.",
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Four-objectives-of-Council%E2%80%99s-Reconciliation-Action-Plan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "NSW Liberal MPs privately expect One Nation coalition",
+            "summary": "The AFR reports that NSW Liberal leader Kellie Sloane says her party will not form a coalition with One Nation after the March election, but that Liberal MPs believe such an arrangement will be needed. The ABC separately reports that the NSW Liberals are losing MPs at a time of rising support for One Nation.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/politics/nsw-liberal-mps-privately-expect-one-nation-coalition-20261104-p61atu"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRFQyTERWNWd6a1o1ZDNBU2hXNUFLbXVHbjRkUGhjUWdFMldFV1IzMklfMlZhNHFBa0dvWHVJSDY3VmhQZTlQcG1JdkRPN1lPLWpXZHhoYWNDTXo0TGljbGl6UlBaZGlzT2wxZ0pqZGhXU0g4R0RxaDNpdEtmdWl6bl9rejJUQ3ROcGpwRUhpQTBkX2d2V2p6NTIyT3dfY3pNSVljWWpmSmlRcDJsZUtn?oc=5"
+              }
+            ]
+          },
+          {
+            "headline": "Minns admits Labor has concerns for Hunter seats amid Hornery scramble",
+            "summary": "The Newcastle Herald reports that Premier Chris Minns has denied Labor will parachute a Sydney candidate into Wallsend following MP Sonia Hornery's retirement, and reports the party is bracing for a difficult contest in the Hunter seat.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9385907/chris-minns-rules-out-sydney-pick-for-wallsend-labor-seat/"
+              }
+            ]
+          },
+          {
+            "headline": "Ross Kerridge reveals his election plans as independent movement eyes 2027",
+            "summary": "The Newcastle Herald reports that Newcastle lord mayor Ross Kerridge has outlined his election plans, with his win fuelling discussion of a broader independent push toward the 2027 NSW state election.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9348189/our-newcastle-group-eyes-2027-nsw-state-election-challenge/"
+              }
+            ]
+          },
+          {
+            "headline": "On track: Sloane vows three-minute trains for Sydney Metro",
+            "summary": "The Daily Telegraph reports that Opposition Leader Kellie Sloane has committed to Sydney Metro services running every three minutes under a Coalition plan aimed at reducing overcrowding.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/sydney-metro-services-to-run-every-three-minutes-under-coalition-plan-to-slash-overcrowding/news-story/92628246933362edbbd04f80eeb17953"
+              }
+            ]
+          },
+          {
+            "headline": "Expelled branch member looks to make shock revival as state president",
+            "summary": "The Newcastle Herald reports that Newcastle's Blake Keating is seeking to become president of the NSW Liberals, contesting against Peter Collins and Phillip Argy.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9187716/newcastles-blake-keating-aims-to-become-nsw-liberals-president/"
+              }
+            ]
+          },
+          {
+            "headline": "Political hopefuls join the battle for the west",
+            "summary": "The Daily Telegraph reports that Labor has revealed its candidate for Prospect while the Liberals have selected their candidate for Parramatta.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/parramatta/labor-reveals-prospect-candidate-while-the-libs-choose-parramatta-hopeful/news-story/5e8a84cca1a51314426646921eafc4be"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Cybersecurity breach at NSW Health declared 'major incident'",
+            "summary": "The ABC reports that police are investigating a cybersecurity breach at NSW Health that has been declared a major incident. The ABC reports officials have said patient data has not been compromised.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-04/cyber-security-nsw-police-investigate-cyber-breach-at-nsw-health/107344174"
+              }
+            ]
+          },
+          {
+            "headline": "Uber pays its drivers ‘wages’ and is liable for $81m payroll tax bill, Australia’s high court rules",
+            "summary": "The Guardian reports the High Court has dismissed Uber's claim that it was not liable for NSW payroll tax, leaving the company with a bill of more than $80 million. Uber had argued it does not employ its drivers and that payments to them were not wages under state law.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Airbnb levy needed to 'turbocharge' community housing build, industry says",
+            "summary": "The ABC reports that the community housing peak body has put a package of proposals to the NSW government, including a Victorian-style levy on short-term rentals to fund more community housing.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406"
+              }
+            ]
+          },
+          {
+            "headline": "Tools down: Builders abandon homes in droves",
+            "summary": "The Daily Telegraph reports that new Australian Bureau of Statistics data shows NSW builders are walking away from home building work in large numbers.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/new-abs-data-shows-nsw-builders-are-abandoning-homes-in-droves/news-story/d1498875a6cd0b04640c66e339ee2451"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government backs modern methods of construction to deliver more homes, faster",
+            "summary": "The NSW Government says nine architecturally designed terraces built using Modern Methods of Construction at Landcom's Schofields development are finished and ready for occupation, as part of its push to deliver homes more quickly.",
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-backs-modern-methods-of-construction-to-deliver-more-homes-faster"
+              }
+            ]
+          },
+          {
+            "headline": "3,000 more weekly bus services as NSW Government continues to rebuild bus network",
+            "summary": "The NSW Government has announced 3,000 extra weekly bus services across the state, including more frequent buses, new connections and later-running services.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/3000-more-weekly-bus-services-as-nsw-government-continues-to-rebuild-bus-network"
+              }
+            ]
+          },
+          {
+            "headline": "Tiny homes for 'leafy' region's rough sleepers held up by planning rules",
+            "summary": "The ABC reports that a charity in the NSW Southern Highlands says planning red tape is delaying its plan to build tiny homes on privately owned rural land to help address homelessness.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-04/tiny-homes-for-rich-region-rough-sleepers/107335212"
+              }
+            ]
+          },
+          {
+            "headline": "New site secured in Chisholm for rebuild and expansion of Maitland Grossmann High School",
+            "summary": "The NSW Government says a rebuilt and expanded Maitland Grossmann High School will be built at Chisholm, next to a new public school and public early learning centre.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/maitland-grossman-high-school-expansion-site-secured"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Eight fans, 14 lights, a secret probe: Ex-top cop cleared over free tradie work",
+            "summary": "The Daily Telegraph reports that former NSW Police Commissioner Karen Webb has been cleared following a watchdog investigation into home renovation work at her property.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/ceiling-fans-downlights-and-a-secret-probe-extop-cop-karen-webb-cleared-after-watchdog-investigation-into-home-renos/news-story/962889cebb2eb244a5400b236c14f6f7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Ahead of Victoria's state election, four economists set out to the Herald how the next government could repair the budget.",
+        "outlet": "Sydney Morning Herald",
+        "url": "https://www.smh.com.au/politics/victoria/how-economists-think-victoria-can-put-its-finances-back-on-track-20261105-p61bdb.html?ref=rss&utm_medium=rss&utm_source=rss_feed"
+      },
+      {
+        "text": "Former Reserve Bank board member Ian Harper has urged whoever wins this month's Victorian election to start budget repair urgently, the AFR reports.",
+        "outlet": "AFR",
+        "url": "https://www.afr.com/politics/ex-rba-director-s-stark-warning-for-victoria-20261105-p61b8g"
+      }
+    ]
+  }
+}
