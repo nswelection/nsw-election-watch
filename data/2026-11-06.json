@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-06",
+  "nStories": 16,
+  "topLine": "The campaign framing for 2027 sharpened as Premier Chris Minns prepared to use the Bradfield Oration to announce relief for builders from upfront charges, while Opposition Leader Kellie Sloane pitched a dedicated fund to draw private investment into new Sydney metro lines. The government also committed $400 million in the budget to hospital repairs following the Calvary Mater mould scandal, and The Guardian reported One Nation has asked donors at a $3,000-a-head Sydney fundraiser to sign a non-disclosure agreement ahead of the NSW election. Locally, the Illawarra Mercury reported electrification of the South Coast line to Kiama will have to wait.",
+  "briefing": {
+    "topLine": "The campaign framing for 2027 sharpened as Premier Chris Minns prepared to use the Bradfield Oration to announce relief for builders from upfront charges, while Opposition Leader Kellie Sloane pitched a dedicated fund to draw private investment into new Sydney metro lines. The government also committed $400 million in the budget to hospital repairs following the Calvary Mater mould scandal, and The Guardian reported One Nation has asked donors at a $3,000-a-head Sydney fundraiser to sign a non-disclosure agreement ahead of the NSW election. Locally, the Illawarra Mercury reported electrification of the South Coast line to Kiama will have to wait.",
+    "localWatch": "The Illawarra Mercury reports Kiama will not be electrified in the current stage of the $6.8 billion South Coast rail upgrade, with track works and weather-related delays coming first. Nearby, NSW government plans for thousands of homes and 20-storey towers in the Shellharbour CBD have split residents and councils.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Why electrification of South Coast line will have to wait",
+            "summary": "The Illawarra Mercury reports that the $6.8 billion South Coast rail upgrade will not extend electrification to Kiama at this stage. According to the paper, crews are dealing with weather delays and landslips, and track upgrades will be rolled out first.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9386259/south-coast-rail-line-what-comes-before-kiama-electric-upgrade/"
+              }
+            ]
+          },
+          {
+            "headline": "'A dying area' vs 'all for it': Residents split on CBD housing tower plans",
+            "summary": "The Illawarra Mercury reports that thousands of new homes and 20-storey towers are proposed for the Shellharbour CBD under NSW government plans. The paper reports residents and councils are divided over what the plans mean for the region's future.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9327249/locals-split-on-nsw-government-plans-for-shellharbour-cbd-housing/"
+              }
+            ]
+          },
+          {
+            "headline": "Revealed: UOW paid hundreds of millions to get out of failed development deal",
+            "summary": "The South Coast Register reports the full payment made by the University of Wollongong to exit a failed housing development deal, which it puts in the hundreds of millions of dollars. The paper raises the question of whether this marked the beginning of the financial troubles that preceded mass job cuts at the university.",
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9382281/full-payment-for-uows-failed-housing-development-revealed/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Super Metro: Sloane to court private investment for new rail lines",
+            "summary": "The Daily Telegraph reports the Coalition is promising a dedicated investment fund for new Sydney Metro lines, beginning in the south-west, with Opposition Leader Kellie Sloane seeking private investment.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/coalition-promises-dedicated-investment-fund-for-sydney-metro-lines-starting-in-southwest/news-story/c16aff4fdf22e6230a72fbf0b6c47da4"
+              }
+            ]
+          },
+          {
+            "headline": "Barnaby Joyce is already talking down One Nation’s chances in Victoria",
+            "summary": "The Sydney Morning Herald reports Barnaby Joyce has played down One Nation's prospects in Victoria, saying Labor preferences will flow to the Liberals. The paper reports he says the real test of One Nation's success will be next year's NSW election.",
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/federal/barnaby-joyce-is-already-talking-down-one-nation-s-chances-in-victoria-20261105-p61bch.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Premier to throw struggling builders a lifeline",
+            "summary": "The Daily Telegraph reports Premier Chris Minns will use the Bradfield Oration to announce relief for builders from an upfront charge.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/bradfield-oration-chris-minns-to-announce-relief-for-builders-from-upfront-cash-grab/news-story/a1798c0e186dfb893fb8e925175e64df"
+              }
+            ]
+          },
+          {
+            "headline": "$400 million for hospitals following mould scandal exposure",
+            "summary": "The Newcastle Herald reports Premier Chris Minns has committed $400 million in the budget for NSW hospitals following the mould scandal at the Calvary Mater in Newcastle. The report includes comment from Health Minister Ryan Park and Sarah Mitchell.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9290157/minns-commits-400m-to-fix-nsw-hospitals-amid-mater-scandal/"
+              }
+            ]
+          },
+          {
+            "headline": "First-ever Skills Audit of coal workers released to back today’s coal jobs, and plan for the future",
+            "summary": "The NSW Government says it has completed the first state-wide audit of the skills and occupations making up the coal workforce. It describes the audit as delivering on a Minns government commitment to support coal workers and their communities.",
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/first-ever-skills-audit-of-coal-workers-released-to-back-todays-coal-jobs-and-plan-for-future"
+              }
+            ]
+          },
+          {
+            "headline": "‘Insulting’: NSW pricing watchdog proposes conveyancing fee cut",
+            "summary": "The Daily Telegraph reports the NSW pricing watchdog has proposed a cut to conveyancing fees, and that the nation's largest conveyancing firm, PEXA, warns 100 jobs are at stake amid the regulatory dispute.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/national/nations-largest-conveyancing-firm-pexa-warns-100-jobs-on-the-line-amid-regulatory-dispute/news-story/296d39efe6ad768defb61ca4e912d514"
+              }
+            ]
+          },
+          {
+            "headline": "How NSW leaders plan to heal Sydney’s deep divide",
+            "summary": "The Daily Telegraph reports that NSW leaders have warned rising antisemitism threatens Sydney's social fabric, ahead of the anniversary of the Bondi attack.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/leaders-warn-rising-antisemitism-threatens-sydney-social-fabric-ahead-of-bondi-attack-anniversary/news-story/b0cdc939c8de0ca6c1a4e42e19578028"
+              }
+            ]
+          },
+          {
+            "headline": "Investigations into Tamworth’s water future complete",
+            "summary": "The NSW Government says it has completed major investigations into future water security options for Tamworth.",
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/tamworth-water-future-investigated"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
+            "summary": "The Guardian reports One Nation has asked donors attending a $3,000-a-head Sydney fundraiser featuring Pauline Hanson to accept a non-disclosure agreement. The paper reports transparency experts have raised concerns about plans to use an NDA to gag attendees in the lead-up to the NSW election.",
+            "tags": [
+              "INTEGRITY",
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Progress on caseworker vacancy rates after minister's ex-gratia grilling",
+            "summary": "The Newcastle Herald reports NSW Minister Kate Washington has faced scrutiny over her approval of a $15,000 ex-gratia payment to a foster carer, with the paper reporting departmental concerns were raised. The report also covers caseworker vacancy rates.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9320800/kate-washington-foster-carers-15000-ex-gratia-payment-debated/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Will NSW choose to spend up big or just cut more ribbons?",
+            "commentator": "The Daily Telegraph (opinion)",
+            "summary": "In an opinion piece, The Daily Telegraph examines the clash between Chris Minns and Kellie Sloane over multibillion-dollar Sydney infrastructure plans, and asks whether NSW will opt for major spending or a more modest program.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/chris-minns-and-kellie-sloane-clash-over-multibilliondollar-sydney-infrastructure-plans/news-story/6ddf8d9b2f7c2f54f1b2a336e96ba92d"
+              }
+            ]
+          },
+          {
+            "headline": "Grattan on Friday: are the Nationals on life support?",
+            "commentator": "Michelle Grattan (The Conversation)",
+            "summary": "Michelle Grattan asks how big a threat One Nation poses to the Nationals, and whether the party's past offers a guide to its future.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Conversation",
+                "url": "https://theconversation.com/grattan-on-friday-are-the-nationals-on-life-support-295656"
+              }
+            ]
+          },
+          {
+            "headline": "Is this the end of the two-party-preferred?",
+            "commentator": "The Tally Room",
+            "summary": "The Tally Room argues that the full national two-party-preferred count, produced at every federal election for four decades, may no longer hold. The piece examines what that would mean for how results are measured.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Tally Room",
+                "url": "https://www.tallyroom.com.au/68951"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "The AFR reports Victorian Liberal leader Jess Wilson ended a press conference after four minutes and 39 seconds, denying Labor's claim of a $6.4 billion hole in her election promises.",
+        "outlet": "AFR",
+        "url": "https://www.afr.com/politics/jess-wilson-bails-on-press-conference-after-four-minutes-39-seconds-20261105-p61bm8"
+      },
+      {
+        "text": "The Conversation looks at who will hold the balance of power in Victoria's upper house after the state election.",
+        "outlet": "The Conversation",
+        "url": "https://theconversation.com/wholl-hold-power-in-the-victorian-upper-house-after-the-state-election-294349"
+      },
+      {
+        "text": "The AFR reports toll caps, working from home, petrol and potholes are on the Victorian election agenda, and central to Transurban's business.",
+        "outlet": "AFR",
+        "url": "https://www.afr.com/companies/infrastructure/why-transurban-s-ceo-has-a-stake-in-victoria-s-election-20261106-p619oe"
+      },
+      {
+        "text": "The ABC reports the economy and living costs dominate voter concerns in New Zealand's election, where the coalition government faces a fragmented electorate.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-11-06/new-zealand-election-2026-inflation-wages-economy/107350046"
+      }
+    ]
+  }
+}
