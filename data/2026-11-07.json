@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-07",
+  "nStories": 16,
+  "topLine": "The NSW Liberals absorbed another pre-election departure, with first-term Ryde MP Jordan Lane confirming he will not contest the March state election — the seventh MP to quit, in coverage the AFR frames as a morale crisis for leader Kellie Sloane four months out. On the South Coast, transport dominated: Labor's $6.8 billion pledge to electrify and duplicate the Kiama–Bomaderry line drew commuter reaction, while the government says the first stage of resilience work on the South Coast Line has begun. The Premier and Opposition Leader also set out competing visions for Sydney at a pre-election event.",
+  "briefing": {
+    "topLine": "The NSW Liberals absorbed another pre-election departure, with first-term Ryde MP Jordan Lane confirming he will not contest the March state election — the seventh MP to quit, in coverage the AFR frames as a morale crisis for leader Kellie Sloane four months out. On the South Coast, transport dominated: Labor's $6.8 billion pledge to electrify and duplicate the Kiama–Bomaderry line drew commuter reaction, while the government says the first stage of resilience work on the South Coast Line has begun. The Premier and Opposition Leader also set out competing visions for Sydney at a pre-election event.",
+    "localWatch": "Rail is the local story of the day, with Labor's $6.8 billion electrification and track-duplication promise for Kiama to Bomaderry and a $621 million resilience package aimed at the Coalcliff rain gauge that triggers weather shutdowns. Locally, a Nowra preschool says a $290,000 funding cut threatens its future, and Shoalhaven City Council's decision to drop a Gaza memorial artwork continues to draw coverage.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "'Should have happened years ago': commuters react to massive South Coast trains promise",
+            "summary": "The Illawarra Mercury reports on commuter reaction to a $6.8 billion Labor election promise to electrify the South Coast rail line from Kiama to Bomaderry and duplicate the tracks, with the stated aim of reducing delays.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9379439/south-coast-line-electrified-kiama-to-bomaderry-in-68b-pledge/"
+              }
+            ]
+          },
+          {
+            "headline": "How a $621m funding plan should cut weather closures on South Coast rail line",
+            "summary": "The Milton Ulladulla Times and Illawarra Mercury report that a rain gauge at Coalcliff currently halts South Coast trains once 100mm is recorded, and that a $621 million NSW upgrade is intended to lift those weather limits and keep services running. In a ministerial release, the NSW Government says the first stage of resilience work on the South Coast Line has commenced, describing the South Coast Rail Plan as the largest single investment in heavy rail infrastructure in generations.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Milton Ulladulla Times",
+                "url": "https://www.ulladullatimes.com.au/story/9387336/south-coast-rail-line-how-621m-plan-aims-to-stop-closures/"
+              },
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9387073/south-coast-rail-line-621m-plan-to-stop-rain-shutdowns/"
+              },
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/resilience-work-underway-as-south-coast-rail-plan-begins"
+              }
+            ]
+          },
+          {
+            "headline": "After 68 years of care, a local institution faces an abrupt end due to funding cuts",
+            "summary": "The South Coast Register reports that a $290,000 funding cut has put the future of Nowra's 68-year-old community preschool in doubt, with 144 enrolments at risk. Educators quoted by the paper argue the funding model does not work for the service.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9387271/shoalhaven-community-preschool-faces-closure-over-funding-cut/"
+              }
+            ]
+          },
+          {
+            "headline": "Banned in the Shoalhaven, Wall of Tears comes to Port Kembla",
+            "summary": "An artwork listing the names of 18,457 children killed in Gaza, the Wall of Tears, will be shown at Port Kembla's NASA Gallery after Shoalhaven City Council dropped it, the Illawarra Mercury and South Coast Register report. The ABC reports the council cited an \"unacceptable level of risk\" in declining to host the touring installation.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9386868/shoalhaven-city-council-axed-gaza-art-port-kembla-opens-show/"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9386868/port-kembla-to-show-gaza-tribute-banned-by-shoalhaven-council/?src=rss"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-06/wall-of-tears-gaza-exhibition-on-show-nsw-south-coast/107350408"
+              }
+            ]
+          },
+          {
+            "headline": "Intersection upgrade ahead of residential growth",
+            "summary": "Shoalhaven City Council says the intersection of Yalwal Road and George Evans Road at Mundamia, west of Nowra, has been upgraded, supported by an interest subsidy under the NSW Government-funded Low Cost Loans Initiative.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Intersection-upgrade-ahead-of-residential-growth"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "‘Taken its toll’: First-term Liberal MP in shock departure",
+            "summary": "The Sydney Morning Herald reports that Jordan Lane, the first-term Liberal member for Ryde, will leave state politics and not contest the election, and says the party is almost certain to lose the ultra-marginal seat. The AFR and Daily Telegraph report he is the seventh MP to quit, with the AFR describing the party as in crisis four months out from the election and morale at rock bottom for leader Kellie Sloane; the Canberra Times frames the departure as part of a wider exodus ahead of the March poll.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/taken-its-toll-first-term-liberal-mp-in-shock-departure-20261106-p61c32.html"
+              },
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/politics/nsw-liberal-exodus-morale-plunges-as-seventh-mp-quits-20261106-p61c3o"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-liberal-mp-for-ryde-jordan-lane-not-to-contest-state-election/news-story/36b45e9878da805290f00f99fa52b295"
+              },
+              {
+                "outlet": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au/story/9387365/first-term-mp-joins-mass-exodus-ahead-of-state-election/"
+              }
+            ]
+          },
+          {
+            "headline": "Rivals share city visions months from state election",
+            "summary": "The Canberra Times reports that the Premier and the Opposition Leader set out competing visions for Sydney's future at an event held months out from the state election.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Canberra Times",
+                "url": "https://www.canberratimes.com.au/story/9387335/rivals-share-city-visions-months-from-state-election/"
+              }
+            ]
+          },
+          {
+            "headline": "Re-elected Minns Labor Government to boost productivity and deliver more homes and jobs",
+            "summary": "In a ministerial release, the NSW Government says a re-elected Minns Labor Government would make it easier to build homes, cut red tape for small business and unlock infrastructure funding for roads, parks and community facilities in growing communities.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/re-elected-minns-labor-government-to-boost-productivity-and-deliver-more-homes-and-jobs"
+              }
+            ]
+          },
+          {
+            "headline": "Nationals given lesson in Trump strategy",
+            "summary": "The Australian reports that the Nationals have turned to a Trump campaign operative for advice on AI campaign tactics amid a threat from One Nation. Only the headline and URL were available; no further detail is confirmed here.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/nationals-turn-to-trump-operative-for-ai-campaign-tactics-amid-one-nation-threat/news-story/f2ae9e8671dcd6c4027c51f36b7137a8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Experts raise alarm about 'safe cells' after multiple NSW prison deaths",
+            "summary": "The ABC reports that experts have warned the use of isolation cells to manage mental health risks in NSW prisons may put inmates in greater danger, following multiple deaths. It reports Daniel Turnbull died after drinking 237 cups of water while under 24-hour surveillance in a prison cell.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-07/experts-raise-alarm-about-safe-cells-after-prison-deaths/106777580"
+              }
+            ]
+          },
+          {
+            "headline": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
+            "summary": "A NSW parliamentary inquiry is examining emerging contact competitions such as Run Nation and Power Slap, the Guardian reports. The inquiry heard from a concussion expert who said impacts were comparable to a coward punch and that death was a \"distinct possibility\", and that regulation could not make them safe.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw"
+              }
+            ]
+          },
+          {
+            "headline": "‘I’m embarrassed’: Premier apologises after families uninvited in NYE ticketing bungle",
+            "summary": "The Sydney Morning Herald reports the Premier has apologised after Transport for NSW offered thousands of people New Year's Eve tickets for the Cahill Expressway and then withdrew the invitations.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/i-m-embarrassed-premier-apologises-after-families-uninvited-in-nye-ticketing-bungle-20261106-p61by6.html"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government delivers bus service boost for Central Coast and new buses for Newcastle",
+            "summary": "The NSW Government says it is adding 187 weekly bus services on the Central Coast and 44 locally built buses for Newcastle, as part of what it describes as a record statewide bus investment.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-delivers-bus-service-boost-for-central-coast-and-new-buses-for-newcastle"
+              }
+            ]
+          },
+          {
+            "headline": "First look at design for new Engadine fire station",
+            "summary": "The NSW Government has released the design for a planned new fire station at Engadine in the Sutherland Shire.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/first-look-new-fire-station-engadine"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government to take action on Cooks River",
+            "summary": "The NSW Government says it has established the Cooks River Consolidation Project to resolve longstanding land tenure issues along the river and address deteriorating steel sheet piling.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-to-take-action-on-cooks-river"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Queensland overtakes NSW in green energy push",
+            "summary": "The AFR argues that state governments are pursuing climate and energy goals with differing urgency, with Queensland now ahead of NSW, while contending that market fundamentals are the main force reshaping the national grid.",
+            "commentator": "Australian Financial Review",
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/policy/energy-and-climate/queensland-overtakes-nsw-in-green-energy-push-20261106-p61bln"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "South Australia: police are investigating after threatening, sexist messages written on balloons were left outside the electorate office of government MP Jayne Stinson — a reminder of rising concern about MP safety ahead of campaign season.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-11-06/threatening-sexist-messages-on-balloons-target-mp-jayne-stinson/107357628"
+      },
+      {
+        "text": "Victoria: the AFR reports toll caps, working from home, petrol and potholes are on the Victorian election agenda, with Transurban's chief executive holding a stake in the outcome.",
+        "outlet": "AFR",
+        "url": "https://www.afr.com/companies/infrastructure/why-transurban-s-ceo-has-a-stake-in-victoria-s-election-20261106-p619oe"
+      },
+      {
+        "text": "New Zealand: the Illawarra Mercury carries a guide to the 2026 New Zealand election, with Chris Luxon seeking a second term and Chris Hipkins aiming to return Labour to office.",
+        "outlet": "Illawarra Mercury",
+        "url": "https://www.illawarramercury.com.au/story/9386826/guide-to-the-2026-new-zealand-election/"
+      }
+    ]
+  }
+}
