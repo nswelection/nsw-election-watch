@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-08",
+  "nStories": 4,
+  "topLine": "A quiet day in NSW politics with no election-specific developments. The main items are government-side: the Minns government has scrapped the bring-your-own-laptop requirement in schools, has announced $5.2 million for two aerial ladder trucks for Sydney firefighters, and is facing renewed scrutiny of mental health care in the prison system following an ABC investigation. A NSW parliamentary inquiry is also examining regulation of combat sports.",
+  "briefing": {
+    "topLine": "A quiet day in NSW politics with no election-specific developments. The main items are government-side: the Minns government has scrapped the bring-your-own-laptop requirement in schools, has announced $5.2 million for two aerial ladder trucks for Sydney firefighters, and is facing renewed scrutiny of mental health care in the prison system following an ABC investigation. A NSW parliamentary inquiry is also examining regulation of combat sports.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": []
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Prisons psychiatrist says NSW Corrections failing mentally ill inmates",
+            "summary": "The ABC reports that, following its investigation into the care of prisoners with mental illness, a leading forensic psychiatrist has argued Corrections NSW should have no role in managing inmates' mental health. The ABC describes its investigation as having revealed systemic failures in that care.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582"
+              }
+            ]
+          },
+          {
+            "headline": "Minns pulls the plug on BYO laptop to school",
+            "summary": "The Daily Telegraph reports that the Minns government has dumped the bring-your-own-laptop rule for schools. No further detail was available in the supplied text.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/minns-government-dumps-school-byo-laptop-rule-to-ease-family-costs-and-cut-screen-time/news-story/6d8fb1a09a70b28d9a48e8dda10dc9a9"
+              }
+            ]
+          },
+          {
+            "headline": "$5.2 million boost to firefighting capability for growing Sydney",
+            "summary": "The NSW government says it is spending $5.2 million on two new high-tech aerial ladder trucks, which it says will improve firefighters' ability to respond to major fires and complex rescues as Sydney grows. The announcement was made in a ministerial release.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/aerial-ladder-truck-investment-for-sydney"
+              }
+            ]
+          },
+          {
+            "headline": "Stricter regulation on the cards for controversial combat sports",
+            "summary": "A NSW parliamentary inquiry is examining bare-knuckle boxing, collision running and competitive slapping, the ABC reports. Organisers of the sports have indicated they would work with authorities on regulation so the events can continue.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-07/collision-running-bare-knuckle-boxing-parliament-inquiry/107310954"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "The Tally Room notes the Victorian Electoral Commission is progressively publishing candidate names ahead of Monday's close of nominations, with some Labor upper house MPs shifting regions.",
+        "outlet": "The Tally Room",
+        "url": "https://www.tallyroom.com.au/68999"
+      }
+    ]
+  }
+}
