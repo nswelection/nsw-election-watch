@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-09",
+  "nStories": 12,
+  "topLine": "One Nation is shaping as a live factor in the 2027 state contest: the Illawarra Mercury reports the party is being taken seriously in seats including Kiama, while the Sydney Morning Herald examines the pro-renewables remarks of NSW One Nation leader Mike Newman, whose energy policy focus the paper describes as his signature issue. In government news, the Minns government announced it will end bring-your-own-device requirements in public primary schools from 2027. Local government funding is also in dispute, with the Illawarra Mercury reporting Wollongong council will fight a proposed $16 million cut under altered state grant rules.",
+  "briefing": {
+    "topLine": "One Nation is shaping as a live factor in the 2027 state contest: the Illawarra Mercury reports the party is being taken seriously in seats including Kiama, while the Sydney Morning Herald examines the pro-renewables remarks of NSW One Nation leader Mike Newman, whose energy policy focus the paper describes as his signature issue. In government news, the Minns government announced it will end bring-your-own-device requirements in public primary schools from 2027. Local government funding is also in dispute, with the Illawarra Mercury reporting Wollongong council will fight a proposed $16 million cut under altered state grant rules.",
+    "localWatch": "The Illawarra Mercury reports Labor faces a challenge from One Nation in Kiama and Shellharbour, with local frustration reshaping the state election contest. Nearby, Wollongong council is contesting a proposed $16 million grant cut the Mercury links to changed state funding rules.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Can One Nation push 'safe' Illawarra MPs off their seats? No one's ruling it out",
+            "summary": "The Illawarra Mercury reports that Labor faces what it describes as an uphill battle to hold Shellharbour and Kiama against One Nation, and that local frustration is reshaping the state election contest in the region. The paper reports no one is ruling out the prospect of nominally safe Illawarra seats being unseated.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9387013/can-one-nation-push-safe-illawarra-politicians-off-their-seats/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "‘Clean energy journey is ours for the taking’: The pro-renewables past of NSW One Nation leader revealed",
+            "summary": "The Sydney Morning Herald reports that NSW One Nation leader Mike Newman has made energy policy the party's signature focus in the state, but that his earlier comments promoted the commercial opportunities of the renewables transition.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/clean-energy-journey-is-ours-for-the-taking-the-pro-renewables-past-of-nsw-one-nation-leader-revealed-20261109-p61bkq.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Turning the page on screens in class as the Minns Labor Government ends ‘Bring Your Own Device’ requirements for public primary schools",
+            "summary": "The NSW government announced that bring-your-own-device requirements will end in public primary schools from 2027, saying the change is intended to improve educational outcomes and reduce excessive screen use by young children. News.com.au reports Premier Chris Minns framed the change as getting students \"back to basics\" ahead of the new school year.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/turning-page-on-screens-class-as-minns-labor-government-ends-bring-your-own-device-requirements-for-public-primary-schools"
+              },
+              {
+                "outlet": "news.com.au",
+                "url": "https://www.news.com.au/lifestyle/parenting/teens/nsw-premier-chris-minns-scraps-laptop-requirements-for-public-primary-school-students/news-story/51583a5787a08138c2fac1d544f5dae9"
+              }
+            ]
+          },
+          {
+            "headline": "Corrections should play no role in prison mental health, psychiatrist says",
+            "summary": "The ABC reports that, following its investigation into the care of prisoners with mental illness, a leading forensic psychiatrist has argued Corrections NSW should have no role in managing mental health in the state's prisons.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582"
+              }
+            ]
+          },
+          {
+            "headline": "Business bid to boost, not divide, the regions",
+            "summary": "The Daily Telegraph reports that a business lobby has warned regional NSW risks an economic divide without growth-zone incentives. Only the headline and summary line were available for this item.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/regional-nsw-risks-great-economic-divide-without-urgent-growth-zone-incentives-lobby-warns/news-story/9716c9d3b67316b4bd905501fec8f3ec"
+              }
+            ]
+          },
+          {
+            "headline": "‘Critical’: Push for new western Sydney Metro rail links",
+            "summary": "The Daily Telegraph reports western Sydney businesses are demanding new Metro rail links, which they say are needed to protect the area's economic growth. Only the headline was available for this item.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/western-sydney-businesses-demand-new-metro-links-to-protect-14-billion-economic-boom/news-story/9ed14fd740bf8f180ce5eede536ea586"
+              }
+            ]
+          },
+          {
+            "headline": "Minns says Victoria Barracks reversal marks big federal change",
+            "summary": "The Daily Telegraph reports Premier Chris Minns has commented on the future of Victoria Barracks, with defence personnel set to leave the site. Only the headline was available for this item.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/chris-minns-defends-victoria-barracks-future-as-defence-personnel-set-to-leave-site/news-story/303cf37888e8044ed6dbbee38f3e78d3"
+              }
+            ]
+          },
+          {
+            "headline": "‘Crazy’: NSW scraps regional shark safety roadshow",
+            "summary": "The Daily Telegraph reports a coastal shark awareness roadshow has been cancelled after the Minns government withdrew support. Only the headline was available for this item.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-coastal-shark-awareness-roadshow-canned-after-minns-government-pulls-support/news-story/9c258dd722e806834ef7d9f30156b077"
+              }
+            ]
+          },
+          {
+            "headline": "Find out what's planned for the old Dapto Public School site",
+            "summary": "The Illawarra Mercury reports Housing Trust has revealed plans for 75 apartments on the former Dapto Public School site, proposed under state planning rules, and examines how new height limits apply to the area.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9387105/plans-revealed-for-75-home-apartment-at-dapto-public-school-site/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Guns, traps and baits to target 'ballistic' NSW feral pig problem",
+            "summary": "The ABC reports NSW Agriculture Minister Tara Moriarty says a new program near Walgett will target feral pigs, which the broadcaster reports cost Australian farmers an estimated $200 million a year.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-08/feral-pigs-farms-prompts-nsw-government-plan-walgett/107349386"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "'Kick in the teeth': Wollongong council to fight massive funding cut",
+            "summary": "The Illawarra Mercury reports Lord Mayor Tania Brown has criticised a proposed $16 million cut to grants for Wollongong council, describing it in the paper's words as a \"kick in the teeth\". The Mercury reports changes to state funding rules could force the council into urgent decisions about local assets.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9354647/wollongong-faces-16m-funding-cut-as-grants-slashed-mayor/"
+              }
+            ]
+          },
+          {
+            "headline": "Shellharbour council not playing fair, claims Shell Cove resident",
+            "summary": "The Illawarra Mercury reports a Shell Cove resident has accused Shellharbour council of not playing fair, amid a dispute between residents and the council over a sportsfield. The council's response was not set out in the supplied text.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9387593/shell-cove-residents-unhappy-with-actions-of-shellharbour-council/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": []
+  }
+}
