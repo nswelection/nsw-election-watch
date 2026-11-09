@@ -1,0 +1,186 @@
+{
+  "date": "2026-11-10",
+  "nStories": 9,
+  "topLine": "One Nation dominated NSW politics today, with Premier Chris Minns and the race discrimination commissioner condemning comments by the party's lead upper house candidate Stuart Bonds as \"racist\" and \"outrageous\", and a separate 7NEWS investigation prompting a response from state One Nation leader Mike Newman to misconduct claims. The Daily Telegraph reports Minns is open to extending the life of the Eraring coal plant amid blackout concerns, and Labor has preselected a candidate for the retiring Sonia Hornery's seat of Wallsend. Locally, concept designs for Nowra's East Nowra Sub Arterial road went on public display.",
+  "briefing": {
+    "topLine": "One Nation dominated NSW politics today, with Premier Chris Minns and the race discrimination commissioner condemning comments by the party's lead upper house candidate Stuart Bonds as \"racist\" and \"outrageous\", and a separate 7NEWS investigation prompting a response from state One Nation leader Mike Newman to misconduct claims. The Daily Telegraph reports Minns is open to extending the life of the Eraring coal plant amid blackout concerns, and Labor has preselected a candidate for the retiring Sonia Hornery's seat of Wallsend. Locally, concept designs for Nowra's East Nowra Sub Arterial road went on public display.",
+    "localWatch": "Shoalhaven City Council has put the concept design for the East Nowra Sub Arterial road on public display, with the South Coast Register reporting the project is costed at $100 million and would reroute traffic around a busy CBD intersection. The NSW government also says hundreds of GPs have completed ADHD prescriber training, with the Illawarra Mercury setting out what that means for patients in the Illawarra and Shoalhaven.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Demolitions, new links and school shifts: Massive $100m road plan revealed",
+            "summary": "Shoalhaven City Council says the concept design for the East Nowra Sub Arterial (ENSA) road, described as one of the region's most important transport projects, is now on public display. The South Coast Register reports the $100 million link would take around 4000 vehicles a day away from a busy intersection and bring significant changes to Nowra CBD access.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9388498/nowra-traffic-100m-ensar-bypass-to-transform-cbd-access/"
+              },
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Design-unveiled-for-East-Nowra-connection"
+              }
+            ]
+          },
+          {
+            "headline": "How to find an Illawarra GP who can diagnose, prescribe medication for ADHD",
+            "summary": "The NSW government says hundreds of general practitioners have taken up training that allows them to be endorsed to diagnose ADHD and prescribe medication for it. The Illawarra Mercury reports on GPs across the Illawarra and Shoalhaven taking up the training and how patients can find them.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9385343/illawarra-shoalhaven-gps-take-up-adhd-diagnosis-training/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "‘Outrageous and racist’: premier responds to NSW One Nation candidate’s claim Australians are being ‘demographically replaced’",
+            "summary": "Premier Chris Minns and the race discrimination commissioner have criticised comments by Stuart Bonds, who leads One Nation's NSW upper house ticket, after he said at a protest that \"we are being demographically replaced\", according to reports by the Guardian, the Sydney Morning Herald and the Australian Financial Review. The Premier described the remarks as \"racist\" and \"outrageous\", and the AFR reports Bonds has been accused of importing a theory associated with US politics.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/09/one-nation-stuart-bonds-slammed-immigration-comments-ntwnfb"
+              },
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/top-nsw-one-nation-candidate-repeats-frankly-outrageous-conspiracy-theory-in-protest-speech-20261109-p61ckr.html"
+              },
+              {
+                "outlet": "Australian Financial Review",
+                "url": "https://www.afr.com/politics/nsw-one-nation-candidate-accused-of-importing-racist-maga-theory-20261109-p61ck0"
+              }
+            ]
+          },
+          {
+            "headline": "NSW One Nation leader Mike Newman responds to misconduct claims",
+            "summary": "7NEWS reports that its investigation has raised claims against NSW One Nation leader Mike Newman, and that he has responded to them. The allegations are untested and the report does not set out any findings against him.",
+            "tags": [
+              "CANDIDATES",
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "7NEWS",
+                "url": "https://7news.com.au/news/nsw-one-nation-leader-mike-newman-responds-to-misconduct-claims-c-23137846.amp"
+              }
+            ]
+          },
+          {
+            "headline": "'Big shoes to fill': Labor reveals candidate to succeed Sonia Hornery",
+            "summary": "The Newcastle Herald reports that Emily Suvaal has secured Labor preselection for the Hunter seat of Wallsend, which sitting MP Sonia Hornery is vacating at her retirement. The paper traces Suvaal's path from paediatric nursing to winning party backing.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9388451/emily-suvaal-chosen-as-nsw-labor-candidate-for-wallsend-seat/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Minns weighs coal plant lifeline to stop blackouts",
+            "summary": "The Daily Telegraph reports that Premier Chris Minns is open to extending the operation of the Eraring coal-fired power station as concerns grow about blackouts in NSW.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/regional/snowy-20-chris-minns-open-to-extending-eraring-as-blackout-fears-grow-in-nsw/news-story/4cc85348b3580bc14012719a0d67eeb9"
+              }
+            ]
+          },
+          {
+            "headline": "Inmate complaints surge 60 per cent amid lockdowns and device shortages",
+            "summary": "The ABC reports complaints by NSW prisoners have risen 60 per cent, with experts quoted as \"completely astonished\" by the increase. It links the pressure on the corrections system to a growing remand population, alongside lockdowns and shortages of devices.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-09/nsw-prisoner-complaints-surge-60-percent/107342900"
+              },
+              {
+                "outlet": "ABC Radio (Australia Wide)",
+                "url": "https://www.abc.net.au/listen/programs/australia-wide/australia-wide/107353254"
+              }
+            ]
+          },
+          {
+            "headline": "A detective-in-training started investigating a sexual assault. What he uncovered was overwhelming",
+            "summary": "The Sydney Morning Herald reports that Sydney police officer Chris Phibbs has been named NSW's top police officer, profiling his earlier work on a case that led to a serial offender being jailed.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/a-detective-in-training-started-investigating-a-sexual-assault-what-he-uncovered-was-overwhelming-20261110-p61cir.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "David Jones owners summon a little Joe Hockey magic",
+            "summary": "The Sydney Morning Herald's CBD column reports that the private equity firm which until last week controlled David Jones has engaged former treasurer Joe Hockey's lobbying firm to handle its dealings with elected officials in Macquarie Street and Canberra.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/cbd/david-jones-owners-summon-a-little-joe-hockey-magic-20261110-p61cmj.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": []
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "The Conversation reports polling remains poor for both federal Labor and Victorian Labor, which continues to slide with under three weeks until the Victorian election.",
+        "outlet": "The Conversation",
+        "url": "https://theconversation.com/poor-polls-continue-for-both-federal-and-victorian-labor-295756"
+      },
+      {
+        "text": "Ben Raue writes that Victorian upper house ballot papers have shrunk to a 16-year low following the close of nominations.",
+        "outlet": "The Tally Room",
+        "url": "https://www.tallyroom.com.au/69067"
+      },
+      {
+        "text": "Antony Green sets out candidate numbers for the Victorian state election at the close of nominations.",
+        "outlet": "Antony Green's Election Blog",
+        "url": "https://antonygreen.com.au/vic2026-candidate-numbers-at-close-of-nominations/"
+      },
+      {
+        "text": "The ABC argues Labor would need to change tactics if Andrew Hastie took the federal Liberal leadership, amid a backlash to economic news and the rise of One Nation.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-11-09/andrew-hastie-coalition-opposition-leader/107360892"
+      },
+      {
+        "text": "Crikey canvasses undecided readers in key Victorian seats on the issues shaping their votes.",
+        "outlet": "Crikey",
+        "url": "https://www.crikey.com.au/2026/11/09/victorian-election-2026-crikey-eggheads/"
+      }
+    ]
+  }
+}
