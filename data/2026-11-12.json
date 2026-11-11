@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-12",
+  "nStories": 14,
+  "topLine": "With the March state election four months away, the Sydney Morning Herald reports Premier Chris Minns is intervening to select Labor candidates in a string of electorates while one minister may still face a preselection ballot, and that Minns and the police minister have been subpoenaed to give evidence in a criminal case listed days before the poll. In the region, the government announced a world-first rescue ambulance for Bomaderry and opened a $7 million support unit at Moruya High School, while Shoalhaven City Council put its draft housing strategy out for comment.",
+  "briefing": {
+    "topLine": "With the March state election four months away, the Sydney Morning Herald reports Premier Chris Minns is intervening to select Labor candidates in a string of electorates while one minister may still face a preselection ballot, and that Minns and the police minister have been subpoenaed to give evidence in a criminal case listed days before the poll. In the region, the government announced a world-first rescue ambulance for Bomaderry and opened a $7 million support unit at Moruya High School, while Shoalhaven City Council put its draft housing strategy out for comment.",
+    "localWatch": "Three state and council decisions land in the South Coast seat today: a new rescue ambulance for Bomaderry, a $7 million special education unit at Moruya High School, and the start of public consultation on where Shoalhaven's future housing goes. An Aboriginal engagement report on Berry's colonial-era hospital also puts a long-standing local health site back on the agenda.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "World-first rescue ambulance coming to Bomaderry as NSW Ambulance strengthens multi-agency rescue capability",
+            "summary": "NSW Ambulance says Bomaderry will receive one of eight new rescue ambulance vehicles being rolled out across the state. The South Coast Register reports the vehicles are intended to change how emergency rescue responses are handled statewide.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Ambulance",
+                "url": "https://www.ambulance.nsw.gov.au/news/news-items/world-first-rescue-ambulance-coming-to-bomaderry-as-nsw-ambulance-strengthens-multi-agency-rescue-capability"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9389997/shoalhaven-to-receive-world-first-ambulance-rescue-vehicle/"
+              }
+            ]
+          },
+          {
+            "headline": "Have your say on Shoalhaven’s future growth",
+            "summary": "Shoalhaven City Council is inviting residents to comment on the future of housing in the local government area. At its 27 October meeting the council endorsed public exhibition of a discussion paper for an initial Shoalhaven Housing Strategy, along with a landowner nomination process.",
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Have-your-say-on-Shoalhaven%E2%80%99s-future-growth"
+              }
+            ]
+          },
+          {
+            "headline": "New purpose-built support unit opens at Moruya High School",
+            "summary": "The state government says it has opened a $7 million purpose-built support unit at Moruya High School, providing permanent new facilities for local students with additional needs.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/new-purpose-built-support-unit-opens-at-moruya-high-school"
+              }
+            ]
+          },
+          {
+            "headline": "Report into hospital's history finds Aboriginal women forced to give birth on verandah",
+            "summary": "The ABC reports that an Aboriginal engagement report into a colonial-era hospital on the NSW South Coast found Indigenous mothers were denied indoor care and were made to give birth on a verandah. According to the ABC, the report recommends what it describes as \"deep cultural cleansing\" of the site at Berry.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-11/berry-hospital-aboriginal-engagement-report/107362854"
+              }
+            ]
+          },
+          {
+            "headline": "Mayor demands action as abandoned riverfront motel left to rot",
+            "summary": "The Daily Telegraph reports the Eurobodalla mayor is calling for action over an abandoned riverfront motel site that has been left to deteriorate, with the paper indicating the call is directed at Transport for NSW over the former Bay Waters motel. Only the headline and link were available.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/thesouthcoastnews/eurobodalla-mayor-mathew-hatcher-calls-on-transport-for-nsw-to-do-something-about-former-bay-waters-motel-site/news-story/f6b45063996b7eaff5f9789395a5a2b9"
+              }
+            ]
+          },
+          {
+            "headline": "Works begin to protect Aboriginal midden at Crookhaven Heads",
+            "summary": "Shoalhaven City Council says construction of a barrier to shield a culturally significant Aboriginal midden at Crookhaven Heads from coastal erosion will begin on Monday 16 November.",
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Works-begin-to-protect-Aboriginal-midden-at-Crookhaven-Heads"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Premier, police minister subpoenaed for court appearance five days before poll",
+            "summary": "The Sydney Morning Herald reports that defence lawyers for demonstrators charged over a protest at Sydney Town Hall against Israeli President Isaac Herzog are seeking to compel Premier Chris Minns to give evidence, with the court date falling five days before the election. The ABC reports the premier and two cabinet ministers, including Police Minister Yasmin Catley, could be required to appear in the criminal case arising from the February protest.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/premier-police-minister-subpoenaed-for-court-appearance-five-days-before-poll-20261111-p61df3.html"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-11/nsw-subpoenas-herzog-protest-case-chris-minns-yasmin-catley/107365558"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "129 additional frontline security staff for 27 NSW hospitals",
+            "summary": "The government says it will recruit an additional 129 full-time-equivalent frontline security staff, giving 27 hospitals across the state full-time security coverage. The ABC reports the recruitment follows the alleged assaults of a nurse and a doctor at a Sydney hospital this week, with the nurse treated for a broken wrist.",
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/129-additional-frontline-security-staff-for-27-nsw-hospitals"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-11/nsw-security-boost-nurse-doctor-allegedly-assaulted-hospital/107372882"
+              }
+            ]
+          },
+          {
+            "headline": "Rising Tide banned from using council land for protests at world’s largest coal port in Newcastle",
+            "summary": "The Guardian reports that climate group Rising Tide has been barred from using council land for protests at the Newcastle coal port. According to the report, Premier Chris Minns warned the council it would be complicit in any \"illegal activities\" occurring at the protests.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/11/rising-tide-climate-protests-banned-chris-minns-newcastle-council-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Chalmers’ tax whack blows $1.4b hole in NSW budget",
+            "summary": "The Daily Telegraph reports that a federal property tax overhaul has cut NSW stamp duty revenue and left a $1.4 billion hole in the state budget. Only the headline was available.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-stamp-duty-revenue-plunges-20-per-cent-after-federal-property-tax-overhaul-hits-sales/news-story/9bff0b13b26f8e937c92706acffbedd2"
+              }
+            ]
+          },
+          {
+            "headline": "Labor blocks Coalition bid to scrap reusable coffee cup mandate",
+            "summary": "The Daily Telegraph reports Labor has blocked a Coalition move to immediately scrap the state's reusable coffee cup mandate. Only the headline was available.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-labor-blocks-coalition-bid-to-immediately-scrap-reusable-coffee-cup-mandate/news-story/c9873b32745eecc7a61fcfdfae2d86f1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Wollongong council suggests it might be time to slowdown on all the skyscrapers",
+            "summary": "The Illawarra Mercury reports Wollongong City Council has signalled it may be time to slow the pace of high-rise development in the CBD, after months of increasingly tall building proposals.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9388725/wollongong-council-says-its-time-to-slow-down-on-cbd-skyscrapers/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "The premier made captain’s calls in crucial seats. He hasn’t saved this minister",
+            "commentator": "The Sydney Morning Herald (NSW politics)",
+            "summary": "The Herald reports that a Labor minister may be forced into a preselection ballot that, in the words of the article, he would \"lose to an empty chair\", even as Chris Minns intervenes to install candidates in a number of electorates. The piece frames the contrast between the premier's captain's picks elsewhere and the minister's exposure.",
+            "tags": [
+              "CANDIDATES",
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/the-premier-made-captain-s-calls-in-crucial-seats-he-hasn-t-saved-this-minister-20261112-p61d9k.html"
+              }
+            ]
+          },
+          {
+            "headline": "Labor insiders feel sorry for Kellie Sloane. And there’s an election in March",
+            "commentator": "The Sydney Morning Herald (NSW politics)",
+            "summary": "The Herald argues the NSW Liberals are heading into the March election in a precarious position, suggesting the party could end up with fewer seats than One Nation. The piece reports that even Labor figures are sympathetic to Liberal leader Kellie Sloane's position.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/labor-insiders-feel-sorry-for-kellie-sloane-and-there-s-an-election-in-march-20261111-p61d59.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
