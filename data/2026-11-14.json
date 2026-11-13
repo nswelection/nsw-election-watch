@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-14",
+  "nStories": 19,
+  "topLine": "Polling dominates the day four months out from the March election: Resolve Strategic has Labor on 30 per cent in NSW with One Nation on 26 and the Coalition sliding to third on 23, while the AFR reports polling suggesting the Nationals could lose every seat as One Nation surges in the regions. Premier Chris Minns has acknowledged hand-picking Labor candidates in key seats despite branch unhappiness, and has ruled out any alliance with the Greens. Locally, a dispute has broken out over a suggestion to sell the Shoalhaven Entertainment Centre.",
+  "briefing": {
+    "topLine": "Polling dominates the day four months out from the March election: Resolve Strategic has Labor on 30 per cent in NSW with One Nation on 26 and the Coalition sliding to third on 23, while the AFR reports polling suggesting the Nationals could lose every seat as One Nation surges in the regions. Premier Chris Minns has acknowledged hand-picking Labor candidates in key seats despite branch unhappiness, and has ruled out any alliance with the Greens. Locally, a dispute has broken out over a suggestion to sell the Shoalhaven Entertainment Centre.",
+    "localWatch": "South Coast MP Liza Butler's idea of selling the Shoalhaven Entertainment Centre has drawn a response from Liberal candidate Paul Ell, putting a local asset into the election contest. Planning is the other local flashpoint, with a rally planned against a 77-apartment proposal at Huskisson and the Kiama mayor publishing an update headed \"Put communities first, not developers\".",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Are you not entertained? Showdown over shock call to sell arts hub",
+            "summary": "The Daily Telegraph reports that a suggestion by South Coast MP Liza Butler to sell the Shoalhaven Entertainment Centre has sparked a backlash from Liberal candidate Paul Ell.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/newslocal/thesouthcoastnews/south-coast-mp-liza-butlers-shoalhaven-entertainment-centre-sale-idea-sparks-backlash-by-liberal-candidate-paul-ell/news-story/fba66fe1a1e7e1b1abdc05b57dad6478"
+              }
+            ]
+          },
+          {
+            "headline": "Over 200 people expected at Moona Moona Creek development information day",
+            "summary": "The South Coast Register reports more than 200 residents are expected to gather at Moona Moona Creek to oppose a 77-apartment proposal at Huskisson. The paper says residents are concerned the development would affect the village character of the area.",
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9391239/huskisson-77-unit-plan-sparks-major-moona-moona-creek-rally/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "Council records first operating surplus in many years",
+            "summary": "Shoalhaven City Council has announced that it has recorded its first operating surplus in many years, according to a notice published on the council's website.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Shoalhaven City Council",
+                "url": "https://www.shoalhaven.nsw.gov.au/News-and-feedback/News-and-media/News/Council-records-first-operating-surplus-in-many-years"
+              }
+            ]
+          },
+          {
+            "headline": "Mayor’s update: Put communities first, not developers",
+            "summary": "Kiama Council has published a mayoral update headed \"Put communities first, not developers\". No further detail was supplied with the item.",
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Mayor%E2%80%99s-update-Put-communities-first-not-developers"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Every seat gone: Nationals face a One Nation reckoning in NSW",
+            "summary": "The Australian Financial Review reports that polling suggests the NSW Nationals could face heavy losses at the March election, with the paper describing the possibility of total annihilation. It says One Nation is surging in regional areas and that some Liberal allies are switching sides.",
+            "tags": [
+              "POLLING",
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/politics/every-seat-gone-nationals-face-a-one-nation-reckoning-in-nsw-20261114-p61dcz"
+              }
+            ]
+          },
+          {
+            "headline": "‘Not running a charity’: Minns defies Labor branch anger over captain’s calls",
+            "summary": "The Sydney Morning Herald reports the Premier has conceded he is hand-picking Labor candidates in crucial seats ahead of the state election. The paper says the practice has prompted a backlash among rank-and-file party members.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/not-running-a-charity-minns-defies-labor-branch-anger-over-captain-s-calls-20261113-p61e01.html"
+              }
+            ]
+          },
+          {
+            "headline": "NSW Premier refuses deal with Greens ... even if it costs Labor",
+            "summary": "The Australian reports that Chris Minns has ruled out an alliance with the Greens, even if declining to do so comes at a cost to Labor's hold on government.",
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/no-deals-chris-minns-refuses-greens-alliance-even-if-it-costs-labor-government/news-story/542ed199db1e982c48d403c3383318d0"
+              }
+            ]
+          },
+          {
+            "headline": "Why these state candidates want to 'build bridges not walls' in an age of division",
+            "summary": "The Illawarra Mercury profiles Greens state election candidates Kit Docker and Malika Reese, reporting that they weighed safety concerns before standing. The paper says threats and healthcare feature in their campaign pitch, with Docker contesting Keira.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9380701/kit-docker-confronts-safety-threats-in-keira-greens-bid/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "‘Making life easier’: NSW to build 100 public childcare centres",
+            "summary": "The Daily Telegraph reports that Labor has pledged to build 100 public long day care centres in NSW, framing the commitment as relief for working parents.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/relief-for-working-parents-as-labor-pledges-100-longday-care-centres/news-story/f20cf15362d39010c733f7f04f0af913"
+              }
+            ]
+          },
+          {
+            "headline": "Coal protest to go ahead on harbour after court rejects police objections",
+            "summary": "The ABC reports the NSW Supreme Court has approved a planned climate protest on Newcastle Harbour, dismissing an attempt by NSW Police to stop it.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804"
+              }
+            ]
+          },
+          {
+            "headline": "Midwife will have to turn away clients under homebirth changes",
+            "summary": "The ABC reports midwife Jenny Spencer says she will need to halve her caseload under a new federal insurance scheme that covers only some private midwives for homebirth. The report involves the NSW health minister.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-13/nsw-health-minister-homebirth-insurance-change/107374078"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government helps Southwest Sydney students kick-start careers in trades and skilled industries",
+            "summary": "The NSW Government announced a $3.9 million expansion of the Educational Pathways Program to South West Sydney, saying more than 4,500 students in Campbelltown and Camden will gain access to vocational education, training and job opportunities.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-helps-southwest-sydney-students-kick-start-careers-trades-and-skilled-industries"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "'Snubbed': Minns government fails to release Mater and helicopter documents",
+            "summary": "The Newcastle Herald reports the state government has not released about 150 internal documents relating to mould and maintenance problems at Calvary Mater Hospital, and to sexual harassment, bullying and safety matters at the Westpac Rescue Helicopter Service.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9390387/minns-government-fails-to-release-about-150-internal-documents/"
+              }
+            ]
+          },
+          {
+            "headline": "Staff emails critical of city skate park no concern for Wollongong council",
+            "summary": "The Illawarra Mercury reports Wollongong City Council has defended its Maccabe Park skate park plan after internal staff emails critical of the proposal emerged. A council spokesperson described the emails as evidence of the \"breadth of internal discussions\".",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9391246/wollongong-council-defends-maccabe-park-skate-park-plan/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Resolve Strategic: Labor 30, One Nation 26, Coalition 23 in New South Wales",
+            "commentator": "William Bowe (The Poll Bludger)",
+            "summary": "William Bowe reports a new Resolve Strategic state poll putting Labor on 30 per cent, One Nation on 26 and the Coalition on 23, which he says leaves the Coalition sinking further into third place ahead of the March election.",
+            "links": [
+              {
+                "outlet": "The Poll Bludger",
+                "url": "https://www.pollbludger.net/2026/11/13/resolve-strategic-labor-30-one-nation-26-coalition-23-in-new-south-wales/?utm_source=rss&utm_medium=rss&utm_campaign=resolve-strategic-labor-30-one-nation-26-coalition-23-in-new-south-wales"
+              }
+            ]
+          },
+          {
+            "headline": "The key issues giving Minns an edge four months out from election",
+            "commentator": "The Sydney Morning Herald",
+            "summary": "The Herald examines polling on which party voters consider best placed to manage hospitals and health services, education and housing, and argues these judgments currently favour the Premier four months out from the election.",
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/the-key-issues-giving-minns-an-edge-four-months-out-from-election-20261113-p61diu.html"
+              }
+            ]
+          },
+          {
+            "headline": "Icac’s dirt files expose NSW’s ‘guns for hire’ problem. But neither major party is serious about lobbying reform",
+            "commentator": "The Guardian",
+            "summary": "The Guardian argues that the Premier's bill addressing undeclared lobbying falls well short of what the Independent Commission Against Corruption recommended five years ago. It points to the commission's Rosny inquiry, which it says examined the activities of a group of Liberal operatives.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "The NSW premier has shown Trumpian disdain for the damage burning coal is causing – and it may backfire on him",
+            "commentator": "Bob Brown (The Guardian)",
+            "summary": "Bob Brown writes that Chris Minns helped ban peaceful protest at Newcastle, the world's largest coal port, and that in September the Premier oversaw what Brown describes as the largest coalmine expansion in the state's history. Brown argues voters will remember this in March.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/commentisfree/2026/nov/14/chris-minns-trumpian-disdain-climate-coalmining-rising-tide-protest-ban-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "Hadley to Minns: “Stop playing politics with children’s lives over e-bikes”",
+            "commentator": "Ray Hadley (The Daily Telegraph)",
+            "summary": "In a Daily Telegraph opinion piece, Ray Hadley calls on the Premier to stop playing politics over e-bikes and children's safety. No further detail was supplied with the item.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/opinion/ray-hadley-to-chris-minns-stop-playing-politics-with-childrens-lives/news-story/e4c142e05b32588a9d13a68835133089"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": []
+  }
+}
