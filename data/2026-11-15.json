@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-15",
+  "nStories": 10,
+  "topLine": "The 2027 campaign sharpened over the weekend, with Premier Chris Minns pledging 100 new long-day childcare centres and a plan to treat more patients at home to free up hospital beds, while the Coalition under Sloane promised automatic jail for serious alleged offenders who breach bail. Minns also publicly acknowledged One Nation is level with Labor in the Hunter on 32 per cent, as reporting elsewhere examined the party's refusal to drop candidate Stuart Bonds over comments it has been criticised for. Around 600 Rising Tide activists paddled into the Port of Newcastle after police and the NSW government sought to stop the protest.",
+  "briefing": {
+    "topLine": "The 2027 campaign sharpened over the weekend, with Premier Chris Minns pledging 100 new long-day childcare centres and a plan to treat more patients at home to free up hospital beds, while the Coalition under Sloane promised automatic jail for serious alleged offenders who breach bail. Minns also publicly acknowledged One Nation is level with Labor in the Hunter on 32 per cent, as reporting elsewhere examined the party's refusal to drop candidate Stuart Bonds over comments it has been criticised for. Around 600 Rising Tide activists paddled into the Port of Newcastle after police and the NSW government sought to stop the protest.",
+    "localWatch": "",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": []
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Minns vows to open 100 long-day childcare centres if re-elected",
+            "summary": "The ABC reports the Minns government has committed to opening 100 new long-day childcare centres in areas identified as having high demand and an under-supply of services, should it be re-elected. The Daily Telegraph reports on where the first of the centres are to be located.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-14/nsw-long-day-childcare-centres-minns-government-election-promise/107385858"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/relief-for-working-parents-as-labor-pledges-100-longday-care-centres/news-story/f20cf15362d39010c733f7f04f0af913"
+              }
+            ]
+          },
+          {
+            "headline": "No safe seats in the Hunter this election: NSW Premier Chris Minns",
+            "summary": "The Newcastle Herald reports Premier Chris Minns has conceded One Nation is tied with Labor on 32 per cent in the Hunter, and says there are no safe seats for his party in the region. The paper reports the government has a plan to fight back in what it describes as a key region.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "Newcastle Herald",
+                "url": "https://www.newcastleherald.com.au/story/9380945/chris-minns-warns-one-nation-is-threatening-labors-hunter-seats/"
+              }
+            ]
+          },
+          {
+            "headline": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+            "summary": "The Guardian reports that One Nation has shown no sign of disendorsing its NSW candidate Stuart Bonds, a former coalminer, after his claim that Australians are being \"demographically replaced\" drew wide criticism.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb"
+              }
+            ]
+          },
+          {
+            "headline": "‘Break bail, go to jail’: Sloane vows crackdown on violent crime",
+            "summary": "The Daily Telegraph reports the NSW Coalition has promised a measure it calls \"Luke's Law\", under which serious alleged offenders who breach bail would be automatically jailed. No further detail was available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/truecrimeaustralia/police-courts-nsw/nsw-coalition-promises-lukes-law-to-automatically-jail-serious-alleged-offenders-who-breach-bail/news-story/2e46c6632c997cbcf96a9ece7f438a67"
+              }
+            ]
+          },
+          {
+            "headline": "Home ward bound: Bold plan to free up hospital beds",
+            "summary": "The Daily Telegraph reports Labor has pledged to have thousands of patients receive healthcare at home as a way of freeing up hospital beds. No further detail was available in the supplied text.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/thousands-of-patients-to-receive-healthcare-at-home-as-labor-pledges-to-free-up-hospital-beds/news-story/7e3d6ad433e9d6c063fdc7afb5eb8fd2"
+              }
+            ]
+          },
+          {
+            "headline": "Nationals fight to remain afloat as orange tide swells",
+            "summary": "The South Coast Register reports the Nationals are considered \"well positioned to defend their territory\" against a surging One Nation, while Labor is seen as at risk of losses.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9391525/nationals-fight-to-remain-afloat-as-orange-tide-swells/"
+              }
+            ]
+          },
+          {
+            "headline": "Inside the south-west Sydney Labor branch threatening to topple a sitting MP",
+            "summary": "The Sydney Morning Herald reports on a Labor branch in south-west Sydney where Campbelltown's deputy mayor has led a surge in party enrolments over the past two years, with the Herald reporting a sitting MP faces the end of his political career as a result.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/inside-the-south-west-sydney-labor-branch-threatening-to-topple-a-sitting-mp-20261114-p61dpx.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Hundreds take to water for Newcastle coal port protest despite attempt by NSW police to stop them",
+            "summary": "The Guardian reports about 600 Rising Tide activists paddled kayaks and watercraft into the Port of Newcastle on Saturday, with hundreds more onshore, after police and the NSW government sought to prevent the protest. Protesters unfurled a sign reading \"coal exports = climate chaos\" and called for funding to help coal workers move into new jobs. The ABC reports the group said more than 900 people had registered to take part and that no arrests were made.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/environment/2026/nov/14/rising-tide-protest-newcastle-coal-port-blockade-nsw-police-ntwnfb"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-14/rising-tide-paddle-protest-newcastle-coal-exports/107386226"
+              }
+            ]
+          },
+          {
+            "headline": "Homes with architectural designs that cost just $1 near completion",
+            "summary": "The ABC reports that almost 18 months after the state government released its $1 pattern-book house designs, a build at Corrimal in the Illawarra is one of 22 projects under construction and is hoping to be the first completed.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-14/pattern-book-homes-near-completion-in-corrimal/107383868"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "The simple way to help stop the abuse of city councillors",
+            "commentator": "Linda Campbell (Illawarra Mercury)",
+            "summary": "Writing in the Illawarra Mercury, Linda Campbell backs a Wollongong push to keep councillors' addresses off the public record, arguing it would also encourage more people to stand for local government.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9391150/linda-campbell-wollongong-push-to-hide-councillor-addresses/?src=rss"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Federal lens: Mark Kenny argues that despite Labor's 94-seat win in 2025, cautious leadership on tax and housing has left the government in a difficult position.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/?src=rss"
+      }
+    ]
+  }
+}
