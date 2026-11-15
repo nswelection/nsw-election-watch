@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-16",
+  "nStories": 9,
+  "topLine": "One Nation dominated NSW election news, unveiling four upper house candidates for the 2027 poll including former federal Liberal candidate and anti-transgender campaigner Katherine Deves. The Minns government made an early-learning election commitment, pledging 100 public long day care centres across NSW if re-elected. In the Herald, outgoing casino commission chief Philip Crawford used a final interview to criticise the government's record on poker machine reform.",
+  "briefing": {
+    "topLine": "One Nation dominated NSW election news, unveiling four upper house candidates for the 2027 poll including former federal Liberal candidate and anti-transgender campaigner Katherine Deves. The Minns government made an early-learning election commitment, pledging 100 public long day care centres across NSW if re-elected. In the Herald, outgoing casino commission chief Philip Crawford used a final interview to criticise the government's record on poker machine reform.",
+    "localWatch": "Locally, the Illawarra Mercury reports Kiama Council staff have recommended refusal of Jamberoo Action Park's car storage proposal over a planning rule interpretation, and Shellharbour Hospital has started a short-stay surgery service under a NSW government plan to cut elective surgery waits across the region.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Car park or EV storage hub? The planning rule tripping up Jamberoo Action Park",
+            "summary": "The Illawarra Mercury reports that Kiama Council staff have recommended refusing Jamberoo Action Park's proposal to store BYD cars on its site, with the recommendation turning on how a planning rule is interpreted.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9349134/jamberoo-action-park-car-storage-plan-faces-council-knock-back/"
+              }
+            ]
+          },
+          {
+            "headline": "Shellharbour Hospital's plan to fast-track surgeries and ease region waitlist times",
+            "summary": "A high-volume short-stay surgery service has begun at Shellharbour Hospital, introduced under a NSW government plan to reduce elective surgery waiting lists, the Illawarra Mercury reports.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9328670/shellharbour-hospital-launches-fast-track-surgery-program/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "One Nation reveals four upper house candidates, including controversial anti-trans campaigner",
+            "summary": "One Nation has announced four candidates for the NSW Legislative Council, among them failed federal Liberal candidate and anti-transgender activist Katherine Deves, a forklift driver and a surf lifesaver. The Guardian reports the party's NSW leader, Mike Newman, described the contenders as \"people from the real world\" rather than career politicians, while the Daily Telegraph reports the group includes a former Liberal.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/one-nation-reveals-four-upper-house-candidates-including-controversial-anti-trans-campaigner-20261115-p61e8u.html"
+              },
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb"
+              },
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/politics/anti-transgender-campaigner-katherine-deves-runs-for-nsw-one-nation-20261115-p61dkg"
+              },
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/one-nation-unveils-four-new-candidates-including-former-liberal/news-story/9a177ef0cb1a46ae5bc8a0653b6aad75"
+              },
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9391809/anti-trans-firebrand-gets-election-nod-with-new-party/"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government to make early learning more accessible for more NSW families",
+            "summary": "The government has announced that a re-elected Minns Labor government would deliver 100 public long day care centres across NSW, alongside support for community preschools, as part of a commitment to expand access to affordable early learning closer to home.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-to-make-early-learning-more-accessible-for-more-nsw-families"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Surfers’ reject One Nation gas call",
+            "summary": "The Daily Telegraph reports that surfers have joined MPs and environmentalists in opposing One Nation's call on the PEP11 offshore gas project. Only the headline and summary line were available for this item.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/technology/surfers-join-mps-environmentalists-opposing-one-nations-call-on-pep11-project/news-story/b3b23b370a982ba3b0c7669aa0abdfc2"
+              }
+            ]
+          },
+          {
+            "headline": "$13m road upgrades to future-proof Forbes against floods",
+            "summary": "The NSW government says work is about to begin on close to $13 million of flood resilience upgrades to key routes around Forbes, intended to make the roads better able to withstand future flooding.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/13m-road-upgrades-to-future-proof-forbes-against-floods"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "‘There’s no bravery in government’: NSW casino watchdog lashes Labor’s pokie failures",
+            "commentator": "Philip Crawford (outgoing NSW casino commission chief), interviewed by the Sydney Morning Herald",
+            "summary": "In what the Herald describes as his final interview, casino commission chief Philip Crawford said the Minns government had given in to industry pressure and had not acted on repeated calls for key gambling reform. The comments are his assessment of the government's record.",
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/national/nsw/there-s-no-bravery-in-government-nsw-casino-watchdog-lashes-labor-s-pokie-failures-20261116-p61df9.html"
+              }
+            ]
+          },
+          {
+            "headline": "One Nation vanishing act: Pauline Hanson’s immigration policy disappears",
+            "commentator": "SMH CBD column",
+            "summary": "The Herald's CBD column reports that a day after a Pauline Hanson statement supporting Donald Trump was removed from the One Nation website, a key party policy also disappeared from it. The column comes as One Nation announces its NSW upper house ticket.",
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/cbd/one-nation-vanishing-act-pauline-hanson-s-immigration-policy-disappears-20261115-p61e9p.html"
+              }
+            ]
+          },
+          {
+            "headline": "The big challenge for Liberals in turning polling momentum into power",
+            "commentator": "7NEWS",
+            "summary": "7NEWS argues the Liberals face a challenge converting favourable polling into electoral victory, suggesting the party has taken some lessons from what it calls its ill-fated 2025 campaign.",
+            "links": [
+              {
+                "outlet": "7NEWS",
+                "url": "https://7news.com.au/politics/the-big-challenge-for-liberals-in-turning-polling-momentum-into-power-c-23152473"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Ahead of the 2026 Victorian state election, the Guardian sets out the main promises from Labor, the Coalition, the Greens and One Nation on cost of living, health, transport and crime.",
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/16/victoria-election-2026-who-to-vote-for-policies-promises-labor-coalition-greens-one-nation-ntwnfb"
+      },
+      {
+        "text": "Senator Jacqui Lambie has appealed to One Nation supporters she says are \"terribly disillusioned\", the South Coast Register reports.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9391721/no-relationship-no-apology-senator-decries-hanson/"
+      },
+      {
+        "text": "The Herald reports new data suggesting a turning point in enforcement against illegal tobacco, as state premiers and conservative parties press federal Labor to cut the tobacco excise.",
+        "outlet": "SMH",
+        "url": "https://www.smh.com.au/politics/federal/new-data-points-to-major-inflection-point-in-the-fight-against-illegal-tobacco-20261115-p61e8b.html"
+      },
+      {
+        "text": "Federally, Mark Kenny writes that cautious leadership on tax and housing has left the Albanese government in difficulty despite its 2025 result.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/?src=rss"
+      }
+    ]
+  }
+}
