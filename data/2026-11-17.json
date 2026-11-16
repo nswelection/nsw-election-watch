@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-17",
+  "nStories": 17,
+  "topLine": "The Minns government has shelved its underquoting laws for real estate agents the day before they were due to start, a move The Guardian describes as one of several backdowns by the Premier as NSW heads toward the March election. The Guardian also reports that proposed laws to allow expanded production at the Mount Pleasant coalmine, to be debated this week, have been flagged as posing a \"serious corruption risk\". The Australian reports a bruising Liberal preselection contest, while the NSW Nurses and Midwives Association has publicly challenged One Nation's state leader over his public service hiring freeze pledge.",
+  "briefing": {
+    "topLine": "The Minns government has shelved its underquoting laws for real estate agents the day before they were due to start, a move The Guardian describes as one of several backdowns by the Premier as NSW heads toward the March election. The Guardian also reports that proposed laws to allow expanded production at the Mount Pleasant coalmine, to be debated this week, have been flagged as posing a \"serious corruption risk\". The Australian reports a bruising Liberal preselection contest, while the NSW Nurses and Midwives Association has publicly challenged One Nation's state leader over his public service hiring freeze pledge.",
+    "localWatch": "Locally, the Illawarra Mercury reports Kiama Council's rates revenue rose by less than $1 million last financial year, which it links to stagnant population growth, while Kiama Council says the Jamberoo Mountain Road betterment works are finished and the road has reopened permanently.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Not enough people: stagnant population growth causes Kiama Council rates to stall",
+            "summary": "The Illawarra Mercury reports that Kiama Council's latest financial statement shows rates revenue grew by less than $1 million in the last financial year, which the paper attributes to the area's stagnant population growth and describes as a problem for the council's budget.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9392395/kiama-councils-slow-rates-growth-a-problem-for-the-budget/"
+              }
+            ]
+          },
+          {
+            "headline": "Betterment Project delivers Jamberoo Mountain Road upgrades",
+            "summary": "Kiama Council says the long-running project to improve driving conditions on Jamberoo Mountain Road was completed on Friday, with the road now permanently reopened to the public.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Kiama Council",
+                "url": "https://www.kiama.nsw.gov.au/Council/News/Betterment-Project-delivers-Jamberoo-Mountain-Road-upgrades"
+              }
+            ]
+          },
+          {
+            "headline": "$210,000 and 'a lot of sausage sandwiches' have helped build Berry's new dog park",
+            "summary": "The South Coast Register reports that the Berry Rotary Club has delivered a $210,000 dog park after council funds were not available, with volunteers financing the first stage and a second stage planned.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "South Coast Register",
+                "url": "https://www.southcoastregister.com.au/story/9392728/berry-rotary-club-opens-210k-boongaree-dog-park-project/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "Sloane on sideline amid Libs’ bruising preselection brawl",
+            "summary": "The Australian reports on a bruising NSW Liberal preselection contest, under a headline saying one figure, Sloane, is on the sidelines. No further detail was available in the supplied text.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/new-south-wales/senior-nsw-libs-damien-tudehope-and-scott-farlow-fight-for-survival-in-preselection-brawl/news-story/e40ae12453108150cca59e274cf4d6b0"
+              }
+            ]
+          },
+          {
+            "headline": "Nurses’ One Nation offer before election",
+            "summary": "News.com.au reports that the NSW Nurses and Midwives Association has challenged One Nation's NSW leader Mike Newman ahead of the March state election, after he pledged to freeze new public service hiring.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "news.com.au",
+                "url": "https://www.news.com.au/national/nsw-act/nsw-unions-target-one-nation-ahead-of-march-state-election/news-story/647c40362216632679ea163ebc6f635d"
+              }
+            ]
+          },
+          {
+            "headline": "‘Getting hammered’: NSW Labor shuns Albanese",
+            "summary": "The Daily Telegraph reports, in a piece headlined \"Getting hammered\", that NSW Labor is distancing itself from Prime Minister Anthony Albanese. Only the headline was available in the supplied text.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/majority-think-nsw-heading-in-wrong-direction-as-voter-anger-surges-in-new-poll/news-story/661f6d0b7724ec42319b001b1176f701"
+              }
+            ]
+          },
+          {
+            "headline": "Stalking, threats and grooming claims: Lucy Wicks hits back at MP Taylor Martin",
+            "summary": "The Sydney Morning Herald reports that NSW MP Taylor Martin used a speech in parliament to accuse his former employer Lucy Wicks of stalking him over a number of years, and that Wicks has now responded. The claims are contested and have not been tested.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/stalking-threats-and-grooming-claims-lucy-wicks-hits-back-at-mp-taylor-martin-20261116-p61e9l.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Minns shelves underquoting laws amid housing slump and backlash from Sydney agents",
+            "summary": "The Sydney Morning Herald reports the Minns government has shelved laws that would have placed new restrictions on real estate agents to give buyers more price transparency, citing a housing slump and opposition from Sydney agents. The ABC reports the shelved changes include the requirement for agents to advertise a selling price or price range, with the halt coming a day before the laws were to take effect. The Guardian notes the move is one of several backdowns announced by Premier Chris Minns in recent weeks as the state heads to a March election.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/national/nsw/minns-to-shelve-underquoting-laws-amid-unforeseen-housing-slump-backlash-from-sydney-agents-20261116-p61enz.html"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-16/nsw-house-price-advertising-underquoting-laws/107390420"
+              },
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-halts-new-law-to-crack-down-on-underquoting-by-real-estate-agents-at-11th-hour"
+              }
+            ]
+          },
+          {
+            "headline": "Rezoning unlocks 5900 homes in Greater Western Sydney",
+            "summary": "The Daily Telegraph reports a rezoning at Orchard Hills in Greater Western Sydney has been approved, clearing the way for 5900 homes and 2100 jobs. Only the headline was available in the supplied text.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/regional/orchard-hills-gets-green-light-for-5900-homes-2100-jobs/news-story/4da35d71434319546588a739ab858fe8"
+              }
+            ]
+          },
+          {
+            "headline": "Sexual misconduct inside the NSW Police Force exposed",
+            "summary": "The ABC reports that documents obtained under freedom of information laws reveal allegations of sexual harassment and assault made by NSW police officers against other officers, following a review of the force's culture. The allegations are reported as claims and have not been tested.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-16/foi-reveal-nsw-police-sexual-harassment-misconduct-allegations/107381728"
+              }
+            ]
+          },
+          {
+            "headline": "New Business Studies syllabus for the next generation of entrepreneurs",
+            "summary": "The NSW Government says it has released a revamped Business Studies syllabus as part of its ongoing curriculum reform program, which it frames as part of its work to lift student outcomes.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/new-business-studies-syllabus-for-next-generation-of-entrepreneurs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
+            "summary": "The Guardian reports that a bill to authorise expanded production at the Mount Pleasant coalmine, which is subject to a High Court decision, will be debated in parliament this week, and that it has been described as posing a \"serious corruption risk\".",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk"
+              }
+            ]
+          },
+          {
+            "headline": "Labour hire syndicates have 'little fear of consequence', watchdog says",
+            "summary": "The ABC reports the NSW Anti-slavery Commissioner has referred allegations of kidnapping and blackmail by labour hire syndicates exploiting migrant workers to police, and has criticised the level of police action on the issue. The allegations are untested.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-16/commissioner-criticises-police-action-on-labour-hire-syndicates/107382860"
+              }
+            ]
+          },
+          {
+            "headline": "Coastal council decides 'managed retreat' is way to deal with erosion",
+            "summary": "The ABC reports MidCoast Council has become the first council in NSW certified to adopt \"managed retreat\" at a large scale in response to coastal erosion, with beachfront residents remaining in their homes for now.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-16/mid-north-coast-homes-abandoned-to-coastal-erosion/107378756"
+              }
+            ]
+          },
+          {
+            "headline": "Council to pay $75k for releasing raw sewage into river over nine days",
+            "summary": "The ABC reports a Central West NSW council has accepted responsibility for discharging untreated sewage effluent over nine days into a river that supplies drinking water, and will pay $75,000.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-16/oberon-sewage-epa/107381580"
+              }
+            ]
+          },
+          {
+            "headline": "Wollongong CBD parking saved, but it might not be free",
+            "summary": "The Illawarra Mercury reports Wollongong City Council has retained the Rawson Street car park, but says the council cannot prevent a developer from charging motorists to park there.",
+            "tags": [],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9392727/wollongong-council-saves-rawson-street-car-park-but-fees-loom/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "How much Sydney’s suburban pubs make from pokies revealed",
+            "commentator": "Philip Crawford (departing casino watchdog), quoted by the Sydney Morning Herald",
+            "summary": "The Sydney Morning Herald publishes figures on poker machine revenue at suburban Sydney pubs. It reports that the Premier defends the government's record on gambling, while departing casino watchdog Philip Crawford argues hotels are not subject to the same level of scrutiny as clubs.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/how-much-sydney-s-suburban-pubs-make-from-pokies-revealed-20261116-p61ej4.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "The Conversation's election wrap says the Coalition is likely to win the Victorian election comfortably, alongside the final two US Senate results going to the Democrats.",
+        "outlet": "The Conversation",
+        "url": "https://theconversation.com/us-democrats-win-final-two-senate-seats-coalition-likely-to-easily-win-victorian-election-296423"
+      },
+      {
+        "text": "The AFR offers a seat-by-seat guide to the Victorian election, setting out key demographics and its view of likely winners.",
+        "outlet": "AFR",
+        "url": "https://www.afr.com/politics/victorian-election-the-state-of-play-in-your-electorate-20261116-p61ei8"
+      },
+      {
+        "text": "An AFR comment piece argues Victoria, days out from its election, needs stronger fiscal guardrails as debt costs mount — a debt-and-budget debate NSW parties may also face before March.",
+        "outlet": "AFR",
+        "url": "https://www.afr.com/politics/victoria-is-burning-24-million-a-day-on-debt-here-s-how-to-fix-it-20261117-p61eej"
+      }
+    ]
+  }
+}
