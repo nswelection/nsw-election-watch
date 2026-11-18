@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-19",
+  "nStories": 18,
+  "topLine": "The Australian reports NSW Liberals are drawing encouragement from internal polling in key battlegrounds as Kellie Sloane closes on Premier Chris Minns, while the AFR reports the state's forecast budget surplus is expected to be cut again amid falling property prices and rising unemployment. The fallout from the government's underquoting backflip continued, with the Daily Telegraph reporting Minns has backed the minister responsible and the Herald arguing the reversal has handed the opposition a line of attack. Locally, Kiama Council's deferral of a 20 per cent rate rise has put staffing back in question.",
+  "briefing": {
+    "topLine": "The Australian reports NSW Liberals are drawing encouragement from internal polling in key battlegrounds as Kellie Sloane closes on Premier Chris Minns, while the AFR reports the state's forecast budget surplus is expected to be cut again amid falling property prices and rising unemployment. The fallout from the government's underquoting backflip continued, with the Daily Telegraph reporting Minns has backed the minister responsible and the Herald arguing the reversal has handed the opposition a line of attack. Locally, Kiama Council's deferral of a 20 per cent rate rise has put staffing back in question.",
+    "localWatch": "Kiama Council's decision to delay a 20 per cent rate rise may trigger a staffing review and risks breaching state orders, according to the Illawarra Mercury, and a separate council report describes a rise in abuse and threats against staff and councillors. The Mercury also reports a Kiama teacher will contest the 2027 state election for One Nation.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "Job cuts could be back on the cards as Kiama looks to delay rate rise",
+            "summary": "The Illawarra Mercury reports Kiama Council may revisit its staffing levels after deferring a 20 per cent rate rise, and that the deferral carries a risk of breaching state orders. The paper frames the decision as part of the council's unfolding budget difficulties.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9393861/kiama-council-faces-staff-cuts-after-20-per-cent-rate-hike-delayed/"
+              }
+            ]
+          },
+          {
+            "headline": "'I'll run you over': surge in threats to council staff prompts plea for safety",
+            "summary": "A Kiama Council report says staff and councillors have been subjected to threats of violence and verbal abuse from members of the public, the Illawarra Mercury reports.",
+            "tags": [
+              "INTEGRITY"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9393790/kiama-councillors-staff-report-rise-in-abuse-threats-bullying/"
+              }
+            ]
+          },
+          {
+            "headline": "Ten siblings, a miracle, and a fight against windfarms: Kiama teacher joins One Nation",
+            "summary": "Illawarra teacher Daniel Hill will run for One Nation at the NSW election, the Illawarra Mercury reports. He says cost-of-living pressure prompted him to enter politics, according to the paper.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9393567/kiama-teacher-daniel-hill-one-nation-candidate-for-nsw-election/?src=rss"
+              }
+            ]
+          },
+          {
+            "headline": "First look at the planned upgrade of Wollongong Hospital services revealed",
+            "summary": "The Illawarra Mercury has published the first images of the initial stage of the Wollongong Hospital upgrade, reporting that a new hub is to be built across the road from the existing hospital.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9393610/revealed-see-the-first-stage-of-the-wollongong-hospital-upgrade/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "NSW Liberals pin hopes on positive polling in key election battlegrounds",
+            "summary": "The Australian reports that the NSW Liberals are encouraged by polling in key election battlegrounds, and that Opposition Leader Kellie Sloane has narrowed the gap on Premier Chris Minns. Only the outlet's headline and summary line were available.",
+            "tags": [
+              "POLLING"
+            ],
+            "links": [
+              {
+                "outlet": "The Australian",
+                "url": "https://www.theaustralian.com.au/nation/secret-polling-lifts-nsw-liberals-hopes-as-kellie-sloane-narrows-gap-on-premier-chris-minns/news-story/cb0fc39ffee6b97f5d3e096dc36d202c"
+              }
+            ]
+          },
+          {
+            "headline": "Making waves: One Nation defends climate activists",
+            "summary": "The Daily Telegraph reports that Labor has attacked One Nation candidates over their defence of Rising Tide anti-coal protests at Newcastle. Only the outlet's headline was available.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/labor-attacks-one-nation-candidates-for-defending-rising-tide-newcastle-anticoal-protests/news-story/18b75277fce5832c7761a9722ab6d790"
+              }
+            ]
+          },
+          {
+            "headline": "NSW Labor's 'newsroom' social media account raising eyebrows",
+            "summary": "The ABC reports on a Labor-affiliated social media account styled like a newsroom feed, whose output has ranged from a \"breaking\" post about the gun buyback scheme to video of jacarandas in bloom.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-18/nsw-labor-affiliate-newsroom-style-page-instagram/107396428"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Rate rises and federal tax changes risk ‘blowing’ NSW surplus",
+            "summary": "The Australian Financial Review reports NSW is expected to downgrade its forecast budget surplus for a fourth time, with falling property prices and rising unemployment weighing on state revenues.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "AFR",
+                "url": "https://www.afr.com/policy/economy/rate-rises-and-federal-tax-changes-risk-blowing-nsw-surplus-20261118-p61ejp"
+              }
+            ]
+          },
+          {
+            "headline": "Premier protects embattled leader Chanthivong",
+            "summary": "The Daily Telegraph reports that Premier Chris Minns has backed his minister Anoulack Chanthivong following the government's real estate backflip. Only the outlet's headline was available.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/business/new-south-wales/cabinet-quality-minns-backs-minister-after-real-estate-backflip/news-story/e4ca23bb70216c5ed8b88c6b622c40c7"
+              }
+            ]
+          },
+          {
+            "headline": "Minns Labor Government strengthens protections for tunnel workers from deadly dust diseases",
+            "summary": "The NSW government says a new legally binding Tunnels and Shafts Code of Practice has been introduced, which it states will give thousands of workers stronger protection against dust diseases such as silicosis.",
+            "links": [
+              {
+                "outlet": "NSW Government",
+                "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-strengthens-protections-for-tunnel-workers-from-deadly-dust-diseases"
+              }
+            ]
+          },
+          {
+            "headline": "Victoria Barracks split: NSW Labor backs military base as federal ALP pushes personnel out",
+            "summary": "The Daily Telegraph reports a split between the Minns government and the federal government over the future of Victoria Barracks, with the state government not backing the Prime Minister's position. Only the outlet's headline was available.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/minns-government-fails-to-back-pm-over-the-future-of-victoria-barracks/news-story/8c80c4c9d1ada6d63bf9c092b247b8e7"
+              }
+            ]
+          },
+          {
+            "headline": "Emotional return to country with outback station set to become national park",
+            "summary": "The ABC reports that the NSW government's purchase of a large western NSW station, which is set to become a national park, has allowed Malyangapa and Wilyakali people to access the land for the first time after about 150 years.",
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-18/first-nations-return-to-country-for-national-park-western-nsw/107390376"
+              }
+            ]
+          },
+          {
+            "headline": "‘Enormous debt’: Bondi attack payouts doubled",
+            "summary": "The Daily Telegraph reports that hundreds of victims of the Bondi terror attack will receive an additional $7,000 ahead of the anniversary of the massacre. Only the outlet's headline and summary line were available.",
+            "tags": [
+              "FUNDING"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/hundreds-of-bondi-terror-victims-will-receive-extra-7000-ahead-of-massacre-anniversary/news-story/4f612e2a8209ac3aa9618a2fcaca8a45"
+              }
+            ]
+          },
+          {
+            "headline": "‘Historic Day’: Bongs at parliament",
+            "summary": "The Daily Telegraph reports the Legalise Cannabis Party presented a bill at NSW parliament accompanied by a stunt. Only the outlet's headline was available.",
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/legalise-cannabis-party-presents-bill-in-unique-stunt/news-story/2f582148b778661a628c04cc4e9ee1c1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": [
+          {
+            "headline": "Ban on contractors undercutting council wages passes NSW parliament",
+            "summary": "The Mandarin reports NSW parliament has passed a ban on contractors being engaged by councils at below award wages, with labour hire still permitted but not at a wage discount.",
+            "links": [
+              {
+                "outlet": "The Mandarin",
+                "url": "https://www.themandarin.com.au/325133-ban-on-contractors-undercutting-council-wages-passes-nsw-parliament/"
+              }
+            ]
+          },
+          {
+            "headline": "Time off trumps more money for Wollongong council CEO Greg Doyle",
+            "summary": "Wollongong City Council chief executive Greg Doyle has taken additional leave rather than a pay rise on his $538,205 package following a contract review, the Illawarra Mercury reports.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9393653/greg-doyle-wollongong-council-ceo-chooses-leave-over-pay-rise/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "Chris Minns’ underquoting backflip might have earned him a nickname that sticks",
+            "summary": "The Sydney Morning Herald argues the Premier's reversal on underquoting has given the opposition a durable attack line, noting Opposition Leader Kellie Sloane's description of the move as \"government by 2GB\" and suggesting it did not sound rehearsed. No author was supplied with the item.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "SMH",
+                "url": "https://www.smh.com.au/politics/nsw/chris-minns-underquoting-backflip-might-have-earned-him-a-nickname-that-sticks-20261119-p61f1x.html"
+              }
+            ]
+          },
+          {
+            "headline": "How securing a national gas reservation will protect Illawarra jobs",
+            "summary": "In an opinion piece for the Illawarra Mercury, MPs Carol Berry and Alison Byrnes argue that a domestic gas reservation is backed by unions and BlueScope, and call for quick action on a bill currently before parliament.",
+            "commentator": "Carol Berry and Alison Byrnes (MPs)",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9393583/illawarra-mps-opinion-on-gas-reservation-bill-and-local-jobs/?src=rss"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Victorians are voting early in large numbers with crime, cost of living and migration dominating their concerns, the South Coast Register reports — a reminder of the issues mix NSW parties will test before 2027.",
+        "outlet": "South Coast Register",
+        "url": "https://www.southcoastregister.com.au/story/9394297/early-voters-highly-motivated-but-deeply-divided/"
+      }
+    ]
+  }
+}
