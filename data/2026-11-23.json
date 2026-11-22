@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-23",
+  "nStories": 8,
+  "topLine": "The death of Reverend Fred Nile at 92, after more than four decades in the NSW upper house, dominated state political coverage, with outlets reflecting on the longest-serving NSW politician before his retirement at the 2023 election. One Nation also moved early on the 2027 campaign, naming its first lower house candidates and, the ABC reports, ruling out any coalition arrangement with the Liberals and Nationals. Locally, Health Minister Ryan Park used an Illawarra Mercury opinion piece to float new roles for David Berry Hospital as services shift to Nowra, while Kiama's mayor survived a 5-4 secret ballot.",
+  "briefing": {
+    "topLine": "The death of Reverend Fred Nile at 92, after more than four decades in the NSW upper house, dominated state political coverage, with outlets reflecting on the longest-serving NSW politician before his retirement at the 2023 election. One Nation also moved early on the 2027 campaign, naming its first lower house candidates and, the ABC reports, ruling out any coalition arrangement with the Liberals and Nationals. Locally, Health Minister Ryan Park used an Illawarra Mercury opinion piece to float new roles for David Berry Hospital as services shift to Nowra, while Kiama's mayor survived a 5-4 secret ballot.",
+    "localWatch": "The future of David Berry Hospital is now an explicitly ministerial topic as services move to Nowra, with Ryan Park proposing it support elderly patients. At Kiama Council, Cameron McDonald holds the mayoralty by a single vote, leaving the chamber finely balanced.",
+    "sections": [
+      {
+        "title": "Kiama & South Coast",
+        "stories": [
+          {
+            "headline": "As shiny new hospitals open, the old ones can continue to shelter the elderly and ill",
+            "summary": "In an opinion piece for the Illawarra Mercury, NSW Health Minister Ryan Park writes about potential new roles for David Berry Hospital as services move to Nowra, including supporting elderly patients who are stranded in the system. The piece also touches on how Shellharbour and Berry hospital facilities are used.",
+            "tags": [
+              "OPINION"
+            ],
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9394800/how-we-use-shellharbour-berry-hospitals-matters-for-our-elderly/"
+              }
+            ]
+          },
+          {
+            "headline": "How Kiama Council's knife-edge vote unfolded in mayoral showdown",
+            "summary": "The Illawarra Mercury reports that Kiama Mayor Cameron McDonald retained the mayoralty by a 5-4 margin in a secret ballot, and examines how internal council feedback shaped the result.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9350798/cameron-mcdonald-kiama-mayor-holds-on-in-tight-5-4-vote/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Election & Campaign",
+        "stories": [
+          {
+            "headline": "One Nation rules out deal with Coalition in NSW",
+            "summary": "The ABC reports that One Nation's NSW leader, Mike Newman, has ruled out a coalition arrangement with the Liberals and Nationals. According to the ABC, he also pledged to repeal gun laws introduced after the Bondi Beach terror attack if elected, and criticised Liberal leader Kellie Sloane.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-22/no-coalition-with-coalition-for-nsw-one-nation-mike-newman-says/107412396"
+              }
+            ]
+          },
+          {
+            "headline": "One Nation launches raid on marginal Labor seats",
+            "summary": "The Daily Telegraph reports that One Nation has revealed its first lower house candidate selections for the 2027 NSW election, targeting marginal Labor-held seats.",
+            "tags": [
+              "CANDIDATES"
+            ],
+            "links": [
+              {
+                "outlet": "The Daily Telegraph",
+                "url": "https://www.dailytelegraph.com.au/news/nsw/nsw-one-nation-reveals-first-lower-house-picks-for-2027-election/news-story/948e6574d04b56ca12b3a0ea5f203c21"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Government & Policy",
+        "stories": [
+          {
+            "headline": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+            "summary": "Former NSW MP and Christian Democratic Party figurehead Reverend Fred Nile has died aged 92, his family says. He sat in the NSW Legislative Council for more than 40 years after first entering the upper house in 1981, retiring after unsuccessfully contesting the 2023 election. Outlets note he was a controversial figure who took positions against abortion, drug use and homosexuality, including opposing same-sex marriage, though in later years he supported legislation expunging historical homosexual convictions.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92"
+              },
+              {
+                "outlet": "ABC News",
+                "url": "https://www.abc.net.au/news/2026-11-22/mp-fred-nile-dead-at-92/107413968"
+              },
+              {
+                "outlet": "Sydney Morning Herald",
+                "url": "https://www.smh.com.au/politics/nsw/veteran-nsw-politician-reverend-fred-nile-dies-aged-92-20261122-p61g7x.html"
+              }
+            ]
+          },
+          {
+            "headline": "Cranes, full schools and high-rises: Inside the rally against over development in Wollongong",
+            "summary": "The Illawarra Mercury reports on a rally held in the rain in Wollongong, where residents protested against a surge in high-rise development backed by the state government.",
+            "links": [
+              {
+                "outlet": "Illawarra Mercury",
+                "url": "https://www.illawarramercury.com.au/story/9396061/wrong-for-the-gong-rallies-in-wollongong-over-high-rises/?src=rss"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integrity & Local Government",
+        "stories": []
+      },
+      {
+        "title": "Analysis & Commentary",
+        "stories": [
+          {
+            "headline": "As the Coalition stares down One Nation in NSW, a new threat is rising: independents",
+            "commentator": "Anne Davies (The Guardian)",
+            "summary": "Anne Davies argues the NSW Coalition faces a renewed challenge in its north shore heartland from progressive independent candidates, backed by the same community activists behind the federal teal campaigns. In her view, the opposition's difficulties are creating an opening for those independents, with Premier Chris Minns benefiting politically.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney"
+              }
+            ]
+          },
+          {
+            "headline": "NSW premier Chris Minns surrendered in the war on underquoting. Did Victoria’s ban work?",
+            "commentator": "The Guardian",
+            "summary": "The Guardian examines Premier Chris Minns's retreat from action on underquoting in property sales, comparing it with Victoria's rules requiring sellers to publish their reserve price at least a week before auction.",
+            "links": [
+              {
+                "outlet": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2026/nov/22/australia-property-auction-reserve-price-guides-underquoting-victoria-ban"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "elsewhere": [
+      {
+        "text": "Victoria: the ABC reports that where the Liberals place Labor and the Greens on how-to-vote cards could decide several inner-Melbourne contests — a reminder of how preference decisions shape close seats.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-11-23/victorian-election-analysis-liberal-labor-greens-preference/107413848"
+      },
+      {
+        "text": "Victoria: the ABC reports Victorian Labor is bracing for a heavy election loss, with federal colleagues — including Anthony Albanese — keeping their distance from the campaign.",
+        "outlet": "ABC News",
+        "url": "https://www.abc.net.au/news/2026-11-23/election-victorian-labor-election-defeat-albanese-stays-away/107414442"
+      }
+    ]
+  }
+}
